@@ -2917,5 +2917,649 @@
     "title": "Communication Error",
     "fixes": "Control communication has failed. Check all Haier wire connections.",
     "slug": "haier-e10"
+  },
+  {
+    "code": "13",
+    "brand": "Carrier",
+    "title": "Limit Circuit Lockout",
+    "fixes": "\u26a0\ufe0f SAFETY: Turn off power before inspection. The limit switch has opened 3 times, indicating overheating. Check for blocked air filters, closed supply vents, or a faulty blower motor on your Carrier furnace.",
+    "slug": "carrier-hvac-13"
+  },
+  {
+    "code": "14",
+    "brand": "Carrier",
+    "title": "Ignition Lockout",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: The igniter failed to light the gas after multiple attempts. Verify gas supply is on, check the Carrier igniter for cracks, and ensure proper flame sensor operation.",
+    "slug": "carrier-hvac-14"
+  },
+  {
+    "code": "21",
+    "brand": "Carrier",
+    "title": "Rollout Switch Open",
+    "fixes": "\u26a0\ufe0f DANGER: This indicates flames are escaping the combustion chamber. Immediately turn off the Carrier furnace and call a licensed HVAC technician - this is a serious safety hazard.",
+    "slug": "carrier-hvac-21"
+  },
+  {
+    "code": "23",
+    "brand": "Carrier",
+    "title": "Pressure Switch Stuck Closed",
+    "fixes": "The pressure switch is closed when it should be open. Check for a stuck Carrier pressure switch or debris in the pressure tubing.",
+    "slug": "carrier-hvac-23"
+  },
+  {
+    "code": "24",
+    "brand": "Carrier",
+    "title": "Pressure Switch Stuck Open",
+    "fixes": "The inducer motor is running but the pressure switch won't close. Inspect the Carrier pressure switch hose for blockages or leaks, and verify proper inducer motor operation.",
+    "slug": "carrier-hvac-24"
+  },
+  {
+    "code": "31",
+    "brand": "Carrier",
+    "title": "Pressure Switch Open",
+    "fixes": "The pressure switch failed to close during startup. Check the Carrier inducer motor, pressure switch tubing, and vent system for blockages or restrictions.",
+    "slug": "carrier-hvac-31"
+  },
+  {
+    "code": "33",
+    "brand": "Carrier",
+    "title": "Limit Switch Open",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The high limit switch has opened due to excessive heat. Check your Carrier furnace air filter, ensure all supply registers are open, and verify blower motor operation.",
+    "slug": "carrier-hvac-33"
+  },
+  {
+    "code": "34",
+    "brand": "Carrier",
+    "title": "Blower Motor Off Delay",
+    "fixes": "The blower continues running after the heating cycle. This is normal operation on Carrier furnaces to extract residual heat, but if excessive, check the blower control settings.",
+    "slug": "carrier-hvac-34"
+  },
+  {
+    "code": "41",
+    "brand": "Carrier",
+    "title": "Flame Sense Error",
+    "fixes": "The flame sensor is not detecting flame properly. Clean the Carrier flame sensor rod with fine steel wool and verify proper grounding of the furnace.",
+    "slug": "carrier-hvac-41"
+  },
+  {
+    "code": "42",
+    "brand": "Carrier",
+    "title": "Furnace Lockout",
+    "fixes": "The furnace has locked out after multiple ignition failures. Reset by turning off power for 30 seconds. If problem persists, check gas supply and Carrier ignition components.",
+    "slug": "carrier-hvac-42"
+  },
+  {
+    "code": "43",
+    "brand": "Carrier",
+    "title": "Low Flame Signal",
+    "fixes": "Weak flame detection signal. Clean the Carrier flame sensor, check gas pressure (should be 3.5\" WC for natural gas), and inspect burner flames for proper blue color.",
+    "slug": "carrier-hvac-43"
+  },
+  {
+    "code": "2-Flash",
+    "brand": "Trane",
+    "title": "Pressure Switch Stuck Closed",
+    "fixes": "The pressure switch is closed when the inducer is off. Check the Trane pressure switch for proper operation and inspect for stuck contacts.",
+    "slug": "trane-hvac-2-flash"
+  },
+  {
+    "code": "3-Flash",
+    "brand": "Trane",
+    "title": "Pressure Switch Open",
+    "fixes": "The pressure switch won't close during operation. Verify the Trane inducer motor is running, check pressure tubing for blockages, and inspect the vent system.",
+    "slug": "trane-hvac-3-flash"
+  },
+  {
+    "code": "4-Flash",
+    "brand": "Trane",
+    "title": "High Limit Switch Open",
+    "fixes": "\u26a0\ufe0f OVERHEATING DETECTED: The furnace is overheating. Check air filter, ensure all vents are open, and verify the Trane blower motor is operating at correct speed.",
+    "slug": "trane-hvac-4-flash"
+  },
+  {
+    "code": "5-Flash",
+    "brand": "Trane",
+    "title": "Flame Rollout Switch Open",
+    "fixes": "\u26a0\ufe0f CRITICAL SAFETY: Flames are escaping the heat exchanger. Turn off the Trane furnace immediately and contact a professional - this indicates a dangerous condition.",
+    "slug": "trane-hvac-5-flash"
+  },
+  {
+    "code": "6-Flash",
+    "brand": "Trane",
+    "title": "Auxiliary Limit Open",
+    "fixes": "A secondary limit switch has opened. Check for airflow restrictions and verify all Trane safety switches are properly connected.",
+    "slug": "trane-hvac-6-flash"
+  },
+  {
+    "code": "7-Flash",
+    "brand": "Trane",
+    "title": "Flame Sense Error",
+    "fixes": "The flame sensor is not detecting flame. Clean the Trane flame sensor rod with emery cloth and ensure proper furnace grounding.",
+    "slug": "trane-hvac-7-flash"
+  },
+  {
+    "code": "8-Flash",
+    "brand": "Trane",
+    "title": "Ignition Lockout",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: Multiple ignition attempts have failed. Verify gas supply, check the Trane hot surface igniter for cracks, and test flame sensor operation.",
+    "slug": "trane-hvac-8-flash"
+  },
+  {
+    "code": "9-Flash",
+    "brand": "Trane",
+    "title": "Reversed Polarity",
+    "fixes": "\u26a0\ufe0f ELECTRICAL HAZARD: The power supply has reversed polarity. Check the Trane furnace electrical connections and verify proper wiring at the breaker panel.",
+    "slug": "trane-hvac-9-flash"
+  },
+  {
+    "code": "Continuous",
+    "brand": "Trane",
+    "title": "Normal Operation",
+    "fixes": "Continuous LED indicates the Trane furnace is operating normally with no active fault codes.",
+    "slug": "trane-hvac-continuous"
+  },
+  {
+    "code": "Off",
+    "brand": "Trane",
+    "title": "No Power or Control Failure",
+    "fixes": "\u26a0\ufe0f POWER ISSUE: No LED indicates loss of power or control board failure. Check the Trane furnace circuit breaker, fuse, and 24V transformer.",
+    "slug": "trane-hvac-off"
+  },
+  {
+    "code": "1-Blink",
+    "brand": "Lennox",
+    "title": "Normal Heating Operation",
+    "fixes": "Single blink indicates your Lennox furnace is operating normally in heating mode. No action required.",
+    "slug": "lennox-hvac-1-blink"
+  },
+  {
+    "code": "2-Blink",
+    "brand": "Lennox",
+    "title": "Low Flame Signal",
+    "fixes": "Weak flame detection. Clean the Lennox flame sensor with fine sandpaper, check gas pressure (3.5\" WC natural gas), and inspect burner assembly.",
+    "slug": "lennox-hvac-2-blink"
+  },
+  {
+    "code": "3-Blink",
+    "brand": "Lennox",
+    "title": "Pressure Switch Error",
+    "fixes": "The pressure switch is not closing properly. Check the Lennox inducer motor operation, inspect pressure tubing for blockages, and verify vent system is clear.",
+    "slug": "lennox-hvac-3-blink"
+  },
+  {
+    "code": "4-Blink",
+    "brand": "Lennox",
+    "title": "Open High Limit Switch",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The furnace has exceeded safe temperature limits. Replace air filter, ensure all supply vents are open, and check Lennox blower motor operation.",
+    "slug": "lennox-hvac-4-blink"
+  },
+  {
+    "code": "5-Blink",
+    "brand": "Lennox",
+    "title": "Flame Rollout Switch",
+    "fixes": "\u26a0\ufe0f DANGER: Flames detected outside combustion chamber. Shut down the Lennox furnace immediately and call a qualified technician - this is a serious safety issue.",
+    "slug": "lennox-hvac-5-blink"
+  },
+  {
+    "code": "6-Blink",
+    "brand": "Lennox",
+    "title": "Pressure Switch Stuck Closed",
+    "fixes": "The pressure switch remains closed when it should be open. Test the Lennox pressure switch and check for debris in the sensing tubes.",
+    "slug": "lennox-hvac-6-blink"
+  },
+  {
+    "code": "7-Blink",
+    "brand": "Lennox",
+    "title": "Ignition Lockout",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: Three failed ignition attempts. Verify gas valve is open, inspect the Lennox hot surface igniter, and check flame sensor for contamination.",
+    "slug": "lennox-hvac-7-blink"
+  },
+  {
+    "code": "8-Blink",
+    "brand": "Lennox",
+    "title": "Reversed 24V Polarity",
+    "fixes": "\u26a0\ufe0f WIRING ERROR: The 24V connections are reversed. Check the Lennox thermostat wiring and control board connections for proper polarity.",
+    "slug": "lennox-hvac-8-blink"
+  },
+  {
+    "code": "Continuous",
+    "brand": "Lennox",
+    "title": "System Lockout",
+    "fixes": "The furnace has entered lockout mode after multiple failures. Reset the Lennox furnace by turning off power for 60 seconds, then diagnose the underlying issue.",
+    "slug": "lennox-hvac-continuous"
+  },
+  {
+    "code": "1-Flash",
+    "brand": "Goodman",
+    "title": "Limit Circuit Lockout",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The limit switch has opened multiple times. Check the Goodman furnace air filter, verify blower operation, and ensure adequate airflow.",
+    "slug": "goodman-hvac-1-flash"
+  },
+  {
+    "code": "2-Flash",
+    "brand": "Goodman",
+    "title": "Pressure Switch Stuck Closed",
+    "fixes": "The pressure switch is closed when the draft inducer is off. Inspect the Goodman pressure switch for stuck contacts or debris.",
+    "slug": "goodman-hvac-2-flash"
+  },
+  {
+    "code": "3-Flash",
+    "brand": "Goodman",
+    "title": "Pressure Switch Open",
+    "fixes": "The pressure switch won't close during inducer operation. Check the Goodman inducer motor, pressure tubing, and vent system for obstructions.",
+    "slug": "goodman-hvac-3-flash"
+  },
+  {
+    "code": "4-Flash",
+    "brand": "Goodman",
+    "title": "Open High Limit Switch",
+    "fixes": "\u26a0\ufe0f HIGH TEMPERATURE: The furnace is overheating. Replace the Goodman air filter, check for closed vents, and verify blower motor speed.",
+    "slug": "goodman-hvac-4-flash"
+  },
+  {
+    "code": "5-Flash",
+    "brand": "Goodman",
+    "title": "Flame Rollout Switch",
+    "fixes": "\u26a0\ufe0f CRITICAL: Flames escaping the heat exchanger. Turn off the Goodman furnace immediately - this requires professional inspection.",
+    "slug": "goodman-hvac-5-flash"
+  },
+  {
+    "code": "6-Flash",
+    "brand": "Goodman",
+    "title": "Pressure Switch Failure",
+    "fixes": "The pressure switch circuit has failed. Test the Goodman pressure switch and check all electrical connections.",
+    "slug": "goodman-hvac-6-flash"
+  },
+  {
+    "code": "7-Flash",
+    "brand": "Goodman",
+    "title": "Low Flame Signal",
+    "fixes": "Weak or no flame detection. Clean the Goodman flame sensor rod, verify proper grounding, and check gas pressure.",
+    "slug": "goodman-hvac-7-flash"
+  },
+  {
+    "code": "8-Flash",
+    "brand": "Goodman",
+    "title": "Ignition Lockout",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: Multiple ignition failures. Verify gas supply to the Goodman furnace, inspect the igniter, and test the flame sensor.",
+    "slug": "goodman-hvac-8-flash"
+  },
+  {
+    "code": "9-Flash",
+    "brand": "Goodman",
+    "title": "Reversed Polarity",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: Power connections are reversed. Check the Goodman furnace wiring and verify proper electrical installation.",
+    "slug": "goodman-hvac-9-flash"
+  },
+  {
+    "code": "1-Flash",
+    "brand": "York",
+    "title": "Ignition Lockout",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: The ignition system has locked out after failed attempts. Check gas supply to the York furnace, inspect the igniter, and clean the flame sensor.",
+    "slug": "york-hvac-1-flash"
+  },
+  {
+    "code": "2-Flash",
+    "brand": "York",
+    "title": "Pressure Switch Stuck Closed",
+    "fixes": "The pressure switch remains closed when it shouldn't be. Test the York pressure switch and inspect the pressure sensing tubes.",
+    "slug": "york-hvac-2-flash"
+  },
+  {
+    "code": "3-Flash",
+    "brand": "York",
+    "title": "Pressure Switch Open Failure",
+    "fixes": "The pressure switch won't close during operation. Verify the York inducer motor is running and check for vent blockages.",
+    "slug": "york-hvac-3-flash"
+  },
+  {
+    "code": "4-Flash",
+    "brand": "York",
+    "title": "High Limit Switch Open",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The furnace has exceeded safe temperature. Check the York air filter, ensure proper airflow, and verify blower operation.",
+    "slug": "york-hvac-4-flash"
+  },
+  {
+    "code": "5-Flash",
+    "brand": "York",
+    "title": "Flame Rollout Detected",
+    "fixes": "\u26a0\ufe0f DANGER: Flames outside the combustion chamber. Shut down the York furnace immediately and call a licensed technician.",
+    "slug": "york-hvac-5-flash"
+  },
+  {
+    "code": "6-Flash",
+    "brand": "York",
+    "title": "Auxiliary Limit Open",
+    "fixes": "A secondary safety limit has opened. Check for airflow restrictions and verify all York safety switches are functioning.",
+    "slug": "york-hvac-6-flash"
+  },
+  {
+    "code": "7-Flash",
+    "brand": "York",
+    "title": "Low Flame Signal",
+    "fixes": "Insufficient flame detection signal. Clean the York flame sensor, check gas pressure, and inspect burner flames.",
+    "slug": "york-hvac-7-flash"
+  },
+  {
+    "code": "8-Flash",
+    "brand": "York",
+    "title": "Reversed Polarity",
+    "fixes": "\u26a0\ufe0f WIRING ERROR: The electrical polarity is reversed. Check the York furnace electrical connections and correct the wiring.",
+    "slug": "york-hvac-8-flash"
+  },
+  {
+    "code": "9-Flash",
+    "brand": "York",
+    "title": "Grounding Issue",
+    "fixes": "\u26a0\ufe0f ELECTRICAL SAFETY: Improper grounding detected. Verify the York furnace is properly grounded per electrical codes.",
+    "slug": "york-hvac-9-flash"
+  },
+  {
+    "code": "11",
+    "brand": "Rheem",
+    "title": "No Ignition",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: The burner failed to ignite. Check gas supply to the Rheem water heater, verify gas valve is open, and inspect the igniter for proper spark.",
+    "slug": "rheem-water-heater-11"
+  },
+  {
+    "code": "12",
+    "brand": "Rheem",
+    "title": "Flame Failure",
+    "fixes": "Flame was lost during operation. Check the Rheem flame rod for contamination, verify proper gas pressure (4-10.5\" WC), and ensure adequate combustion air.",
+    "slug": "rheem-water-heater-12"
+  },
+  {
+    "code": "13",
+    "brand": "Rheem",
+    "title": "Combustion Fan Error",
+    "fixes": "The combustion fan is not operating correctly. Inspect the Rheem fan motor, check for obstructions, and verify proper voltage to the fan.",
+    "slug": "rheem-water-heater-13"
+  },
+  {
+    "code": "14",
+    "brand": "Rheem",
+    "title": "Thermal Fuse",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The thermal fuse has blown due to excessive heat. Allow the Rheem unit to cool, check for proper ventilation, and replace the thermal fuse.",
+    "slug": "rheem-water-heater-14"
+  },
+  {
+    "code": "16",
+    "brand": "Rheem",
+    "title": "Over Temperature",
+    "fixes": "\u26a0\ufe0f SAFETY: Water temperature exceeded 185\u00b0F. Check the Rheem temperature sensors, verify flow rate is adequate, and inspect the heat exchanger for scale buildup.",
+    "slug": "rheem-water-heater-16"
+  },
+  {
+    "code": "29",
+    "brand": "Rheem",
+    "title": "Combustion Abnormality",
+    "fixes": "\u26a0\ufe0f VENTILATION: Abnormal combustion detected. Check the Rheem vent system for blockages, ensure proper air supply, and inspect burner assembly.",
+    "slug": "rheem-water-heater-29"
+  },
+  {
+    "code": "31",
+    "brand": "Rheem",
+    "title": "Outlet Temperature Sensor",
+    "fixes": "The outlet thermistor has failed. Test the Rheem outlet temperature sensor resistance (should be ~10k\u03a9 at 77\u00b0F) and replace if out of spec.",
+    "slug": "rheem-water-heater-31"
+  },
+  {
+    "code": "32",
+    "brand": "Rheem",
+    "title": "Inlet Temperature Sensor",
+    "fixes": "The inlet thermistor is malfunctioning. Check the Rheem inlet sensor connections and test resistance values.",
+    "slug": "rheem-water-heater-32"
+  },
+  {
+    "code": "71",
+    "brand": "Rheem",
+    "title": "Solenoid Valve Error",
+    "fixes": "\u26a0\ufe0f GAS CONTROL: The gas solenoid valve circuit has failed. Check the Rheem gas valve connections and test the valve coil resistance.",
+    "slug": "rheem-water-heater-71"
+  },
+  {
+    "code": "79",
+    "brand": "Rheem",
+    "title": "Leak Detected",
+    "fixes": "\u26a0\ufe0f WATER LEAK: The leak detection system has activated. Inspect all Rheem water connections, check the heat exchanger for leaks, and verify drain pan is dry.",
+    "slug": "rheem-water-heater-79"
+  },
+  {
+    "code": "90",
+    "brand": "Rheem",
+    "title": "Combustion Air Issue",
+    "fixes": "\u26a0\ufe0f VENTILATION: Insufficient combustion air detected. Ensure the Rheem air intake is clear, check vent termination, and verify proper installation clearances.",
+    "slug": "rheem-water-heater-90"
+  },
+  {
+    "code": "99",
+    "brand": "Rheem",
+    "title": "Blocked Vent",
+    "fixes": "\u26a0\ufe0f DANGER: The vent system is blocked. Immediately check the Rheem vent pipes for obstructions, bird nests, or ice buildup in cold weather.",
+    "slug": "rheem-water-heater-99"
+  },
+  {
+    "code": "1-Blink",
+    "brand": "Bradford White",
+    "title": "Normal Operation",
+    "fixes": "Single blink indicates your Bradford White water heater is operating normally. No action required.",
+    "slug": "bradford-white-water-heater-1-blink"
+  },
+  {
+    "code": "2-Blink",
+    "brand": "Bradford White",
+    "title": "Temperature Sensor Failure",
+    "fixes": "The thermistor has failed or is reading out of range. Test the Bradford White temperature sensor resistance and replace if faulty.",
+    "slug": "bradford-white-water-heater-2-blink"
+  },
+  {
+    "code": "3-Blink",
+    "brand": "Bradford White",
+    "title": "Pressure Switch Error",
+    "fixes": "The air pressure switch is not closing properly. Check the Bradford White pressure switch, inspect vent system, and verify proper draft.",
+    "slug": "bradford-white-water-heater-3-blink"
+  },
+  {
+    "code": "4-Blink",
+    "brand": "Bradford White",
+    "title": "High Limit Switch",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The high limit has opened due to excessive temperature. Allow the Bradford White heater to cool and check for proper water flow.",
+    "slug": "bradford-white-water-heater-4-blink"
+  },
+  {
+    "code": "5-Blink",
+    "brand": "Bradford White",
+    "title": "Sensor Fault",
+    "fixes": "A temperature sensor has failed. Test all Bradford White thermistors and replace any that are out of specification.",
+    "slug": "bradford-white-water-heater-5-blink"
+  },
+  {
+    "code": "6-Blink",
+    "brand": "Bradford White",
+    "title": "FVIR Lockout",
+    "fixes": "\u26a0\ufe0f FLAMMABLE VAPOR: The Flammable Vapor Ignition Resistant system has locked out. Ensure the Bradford White area is free of flammable vapors and reset the unit.",
+    "slug": "bradford-white-water-heater-6-blink"
+  },
+  {
+    "code": "7-Blink",
+    "brand": "Bradford White",
+    "title": "Gas Control Valve",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: The gas control valve has failed. Check gas supply to the Bradford White heater and test the valve for proper operation.",
+    "slug": "bradford-white-water-heater-7-blink"
+  },
+  {
+    "code": "8-Blink",
+    "brand": "Bradford White",
+    "title": "Low Flame Signal",
+    "fixes": "Weak flame detection. Clean the Bradford White flame sensor, verify gas pressure, and check burner assembly.",
+    "slug": "bradford-white-water-heater-8-blink"
+  },
+  {
+    "code": "4-Blink-Pause-1",
+    "brand": "Bradford White",
+    "title": "Blocked Vent",
+    "fixes": "\u26a0\ufe0f VENTILATION: The vent system is blocked or restricted. Inspect the Bradford White vent pipes and ensure proper termination.",
+    "slug": "bradford-white-water-heater-4-blink-pause-1"
+  },
+  {
+    "code": "4-Blink-Pause-5",
+    "brand": "Bradford White",
+    "title": "False Flame",
+    "fixes": "Flame detected when gas valve is closed. Check the Bradford White flame sensor for contamination or moisture.",
+    "slug": "bradford-white-water-heater-4-blink-pause-5"
+  },
+  {
+    "code": "1-Blink",
+    "brand": "AO Smith",
+    "title": "Normal Standby",
+    "fixes": "Single blink indicates your AO Smith water heater is in standby mode, ready to heat. This is normal operation.",
+    "slug": "ao-smith-water-heater-1-blink"
+  },
+  {
+    "code": "2-Blink",
+    "brand": "AO Smith",
+    "title": "Thermopile Low Voltage",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: The thermopile is not generating sufficient voltage. Clean the AO Smith pilot assembly and test thermopile output (should be 325-850mV).",
+    "slug": "ao-smith-water-heater-2-blink"
+  },
+  {
+    "code": "3-Blink",
+    "brand": "AO Smith",
+    "title": "Pressure Switch Failure",
+    "fixes": "The pressure switch is not closing. Check the AO Smith draft inducer, inspect vent system, and test the pressure switch.",
+    "slug": "ao-smith-water-heater-3-blink"
+  },
+  {
+    "code": "4-Blink",
+    "brand": "AO Smith",
+    "title": "High Temperature Limit",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The ECO (Energy Cut Off) has tripped. Press the reset button on the AO Smith heater after allowing it to cool.",
+    "slug": "ao-smith-water-heater-4-blink"
+  },
+  {
+    "code": "5-Blink",
+    "brand": "AO Smith",
+    "title": "Sensor Failure",
+    "fixes": "A temperature sensor has failed. Test the AO Smith thermistor resistance and replace if readings are incorrect.",
+    "slug": "ao-smith-water-heater-5-blink"
+  },
+  {
+    "code": "6-Blink",
+    "brand": "AO Smith",
+    "title": "FVIR Lockout",
+    "fixes": "\u26a0\ufe0f FLAMMABLE VAPOR: The system detected flammable vapors. Remove any flammable materials near the AO Smith heater and reset after 10 minutes.",
+    "slug": "ao-smith-water-heater-6-blink"
+  },
+  {
+    "code": "7-Blink",
+    "brand": "AO Smith",
+    "title": "Gas Control Valve Failure",
+    "fixes": "\u26a0\ufe0f GAS CONTROL: The gas valve has failed. Verify gas supply and test the AO Smith gas valve for proper operation.",
+    "slug": "ao-smith-water-heater-7-blink"
+  },
+  {
+    "code": "8-Blink",
+    "brand": "AO Smith",
+    "title": "Thermal Switch Open",
+    "fixes": "\u26a0\ufe0f SAFETY: The thermal switch has opened. Check for proper AO Smith combustion and adequate ventilation.",
+    "slug": "ao-smith-water-heater-8-blink"
+  },
+  {
+    "code": "9-Blink",
+    "brand": "AO Smith",
+    "title": "Grounding Issue",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: Improper grounding detected. Verify the AO Smith water heater is properly grounded per electrical codes.",
+    "slug": "ao-smith-water-heater-9-blink"
+  },
+  {
+    "code": "10-Blink",
+    "brand": "AO Smith",
+    "title": "System Lockout",
+    "fixes": "Multiple failures have caused lockout. Reset the AO Smith heater by turning gas valve to OFF for 10 seconds, then back to ON.",
+    "slug": "ao-smith-water-heater-10-blink"
+  },
+  {
+    "code": "E003",
+    "brand": "Navien",
+    "title": "Ignition Failure",
+    "fixes": "\u26a0\ufe0f GAS SAFETY: The burner failed to ignite after 5 attempts. Check gas supply to the Navien unit, verify gas pressure (4-10.5\" WC), and inspect the igniter.",
+    "slug": "navien-tankless-water-heater-e003"
+  },
+  {
+    "code": "E005",
+    "brand": "Navien",
+    "title": "Overheat Prevention",
+    "fixes": "\u26a0\ufe0f OVERHEATING: Water temperature exceeded 203\u00b0F. Check the Navien flow rate, descale the heat exchanger if needed, and verify temperature sensors.",
+    "slug": "navien-tankless-water-heater-e005"
+  },
+  {
+    "code": "E007",
+    "brand": "Navien",
+    "title": "Combustion Fan Error",
+    "fixes": "The combustion fan RPM is abnormal. Inspect the Navien fan motor, check for obstructions, and verify proper voltage supply.",
+    "slug": "navien-tankless-water-heater-e007"
+  },
+  {
+    "code": "E012",
+    "brand": "Navien",
+    "title": "Flame Loss",
+    "fixes": "Flame was lost during operation. Check the Navien flame rod for contamination, verify gas pressure stability, and ensure proper grounding.",
+    "slug": "navien-tankless-water-heater-e012"
+  },
+  {
+    "code": "E016",
+    "brand": "Navien",
+    "title": "Over Temperature",
+    "fixes": "\u26a0\ufe0f SAFETY: Outlet temperature exceeded 185\u00b0F. Verify adequate water flow through the Navien unit and check for scale buildup in the heat exchanger.",
+    "slug": "navien-tankless-water-heater-e016"
+  },
+  {
+    "code": "E030",
+    "brand": "Navien",
+    "title": "Exhaust Overheat",
+    "fixes": "\u26a0\ufe0f VENTILATION: Exhaust temperature is too high. Check the Navien vent system for blockages and ensure proper vent pipe installation.",
+    "slug": "navien-tankless-water-heater-e030"
+  },
+  {
+    "code": "E110",
+    "brand": "Navien",
+    "title": "Igniter Circuit Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The igniter circuit has failed. Test the Navien igniter for proper resistance and check control board connections.",
+    "slug": "navien-tankless-water-heater-e110"
+  },
+  {
+    "code": "E146",
+    "brand": "Navien",
+    "title": "Combustion Air Pressure",
+    "fixes": "\u26a0\ufe0f VENTILATION: Abnormal combustion air pressure detected. Inspect the Navien air intake and vent termination for blockages.",
+    "slug": "navien-tankless-water-heater-e146"
+  },
+  {
+    "code": "E382",
+    "brand": "Navien",
+    "title": "Flow Sensor Error",
+    "fixes": "The water flow sensor is malfunctioning. Clean the Navien flow sensor, check for debris, and verify proper installation.",
+    "slug": "navien-tankless-water-heater-e382"
+  },
+  {
+    "code": "E438",
+    "brand": "Navien",
+    "title": "Inlet Temperature Sensor",
+    "fixes": "The inlet thermistor has failed. Test the Navien inlet sensor resistance (10k\u03a9 at 77\u00b0F) and replace if out of specification.",
+    "slug": "navien-tankless-water-heater-e438"
+  },
+  {
+    "code": "E439",
+    "brand": "Navien",
+    "title": "Outlet Temperature Sensor",
+    "fixes": "The outlet thermistor is malfunctioning. Check the Navien outlet sensor connections and test resistance values.",
+    "slug": "navien-tankless-water-heater-e439"
+  },
+  {
+    "code": "E515",
+    "brand": "Navien",
+    "title": "Gas Valve Error",
+    "fixes": "\u26a0\ufe0f GAS CONTROL: The gas valve circuit has failed. Check the Navien gas valve connections and test valve coil resistance.",
+    "slug": "navien-tankless-water-heater-e515"
   }
 ]
