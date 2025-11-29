@@ -4793,5 +4793,2217 @@
     "title": "Normal Operation",
     "fixes": "Continuous light indicates the Craftsman opener is operating normally.",
     "slug": "craftsman-garage-door-continuous"
+  },
+  {
+    "code": "5B00",
+    "brand": "Canon",
+    "title": "Waste Ink Counter Full",
+    "fixes": "The waste ink counter has reached maximum. Contact Canon support to reset the counter and replace the waste ink absorber.",
+    "slug": "canon-printer-5bzerozero"
+  },
+  {
+    "code": "5B01",
+    "brand": "Canon",
+    "title": "Waste Ink Tank Nearly Full",
+    "fixes": "The waste ink tank is nearly full. Schedule Canon service to replace the waste ink tank soon.",
+    "slug": "canon-printer-5bzero1"
+  },
+  {
+    "code": "5B02",
+    "brand": "Canon",
+    "title": "Platen Waste Ink Absorber Full",
+    "fixes": "The platen waste ink absorber is full. Contact Canon to have it replaced and the counter reset.",
+    "slug": "canon-printer-5bzero2"
+  },
+  {
+    "code": "5B03",
+    "brand": "Canon",
+    "title": "Main Waste Ink Absorber Full",
+    "fixes": "The main waste ink absorber has reached capacity. Canon service is required to replace the absorber.",
+    "slug": "canon-printer-5bzero3"
+  },
+  {
+    "code": "5B04",
+    "brand": "Canon",
+    "title": "Waste Ink Absorber Nearly Full",
+    "fixes": "The waste ink absorber is nearly full. Continue printing with caution and schedule Canon service.",
+    "slug": "canon-printer-5bzero4"
+  },
+  {
+    "code": "5B05",
+    "brand": "Canon",
+    "title": "Ink Absorber Service Required",
+    "fixes": "The ink absorber requires service. Contact Canon support to schedule absorber replacement.",
+    "slug": "canon-printer-5bzero5"
+  },
+  {
+    "code": "5C00",
+    "brand": "Canon",
+    "title": "Ink Absorber Full Error",
+    "fixes": "The ink absorber is completely full. The Canon printer will not operate until the absorber is replaced.",
+    "slug": "canon-printer-5czerozero"
+  },
+  {
+    "code": "5C10",
+    "brand": "Canon",
+    "title": "Waste Ink System Full",
+    "fixes": "The waste ink system is full. Professional Canon service is required to replace components.",
+    "slug": "canon-printer-5c1zero"
+  },
+  {
+    "code": "5C20",
+    "brand": "Canon",
+    "title": "Platen Absorber Full",
+    "fixes": "The platen ink absorber is full. Contact Canon to have it replaced.",
+    "slug": "canon-printer-5c2zero"
+  },
+  {
+    "code": "6000",
+    "brand": "Canon",
+    "title": "Internal Hardware Error",
+    "fixes": "A critical internal hardware error has occurred. Restart the Canon printer and update firmware.",
+    "slug": "canon-printer-6zerozerozero"
+  },
+  {
+    "code": "6100",
+    "brand": "Canon",
+    "title": "Paper Feed Mechanism Error",
+    "fixes": "The paper feed mechanism has failed. Check the Canon paper feed rollers and gears for damage.",
+    "slug": "canon-printer-61zerozero"
+  },
+  {
+    "code": "6200",
+    "brand": "Canon",
+    "title": "Paper Output Error",
+    "fixes": "The paper output mechanism is jammed. Check the Canon output tray and remove any obstructions.",
+    "slug": "canon-printer-62zerozero"
+  },
+  {
+    "code": "6300",
+    "brand": "Canon",
+    "title": "Paper Jam in Rear",
+    "fixes": "Paper is jammed in the rear of the printer. Open the Canon rear access door and remove jammed paper.",
+    "slug": "canon-printer-63zerozero"
+  },
+  {
+    "code": "6400",
+    "brand": "Canon",
+    "title": "Carriage Unit Error",
+    "fixes": "The carriage unit has failed. Check for obstructions and ensure the Canon carriage moves freely.",
+    "slug": "canon-printer-64zerozero"
+  },
+  {
+    "code": "6500",
+    "brand": "Canon",
+    "title": "Scanner Unit Error",
+    "fixes": "The scanner unit has malfunctioned. Restart the Canon printer and check for scanner obstructions.",
+    "slug": "canon-printer-65zerozero"
+  },
+  {
+    "code": "6600",
+    "brand": "Canon",
+    "title": "Purge Unit Error",
+    "fixes": "The purge unit is not functioning. The Canon purge unit may need replacement.",
+    "slug": "canon-printer-66zerozero"
+  },
+  {
+    "code": "6700",
+    "brand": "Canon",
+    "title": "Ink Delivery System Error",
+    "fixes": "The ink delivery system has failed. Check all Canon ink tubes and connections.",
+    "slug": "canon-printer-67zerozero"
+  },
+  {
+    "code": "6800",
+    "brand": "Canon",
+    "title": "Ink Tank Error",
+    "fixes": "An ink tank is not installed correctly. Remove and reinstall all Canon ink tanks.",
+    "slug": "canon-printer-68zerozero"
+  },
+  {
+    "code": "6801",
+    "brand": "Canon",
+    "title": "Ink Tank Not Detected",
+    "fixes": "The printer cannot detect an ink tank. Ensure all Canon ink tanks are properly installed.",
+    "slug": "canon-printer-68zero1"
+  },
+  {
+    "code": "6900",
+    "brand": "Canon",
+    "title": "Ink Cartridge Not Recognized",
+    "fixes": "The ink cartridge is not recognized. Use genuine Canon cartridges and clean the contacts.",
+    "slug": "canon-printer-69zerozero"
+  },
+  {
+    "code": "6901",
+    "brand": "Canon",
+    "title": "Wrong Ink Cartridge",
+    "fixes": "An incorrect ink cartridge is installed. Install the correct Canon cartridge for your printer model.",
+    "slug": "canon-printer-69zero1"
+  },
+  {
+    "code": "6902",
+    "brand": "Canon",
+    "title": "Ink Cartridge Chip Error",
+    "fixes": "Cannot read the cartridge chip. Clean the Canon cartridge contacts and reinstall.",
+    "slug": "canon-printer-69zero2"
+  },
+  {
+    "code": "6A00",
+    "brand": "Canon",
+    "title": "Paper Feed Error",
+    "fixes": "Paper cannot be fed properly. Check the Canon paper path for obstructions and jams.",
+    "slug": "canon-printer-6azerozero"
+  },
+  {
+    "code": "6A80",
+    "brand": "Canon",
+    "title": "Paper Feed Roller Error",
+    "fixes": "The paper feed roller is worn or damaged. Replace the Canon paper feed roller assembly.",
+    "slug": "canon-printer-6a8zero"
+  },
+  {
+    "code": "6A81",
+    "brand": "Canon",
+    "title": "Paper Pickup Error",
+    "fixes": "The paper pickup mechanism has failed. Check the Canon pickup roller and separation pad.",
+    "slug": "canon-printer-6a81"
+  },
+  {
+    "code": "6B00",
+    "brand": "Canon",
+    "title": "Print Head Protection Error",
+    "fixes": "The printhead protection system has activated. Check for printhead damage and clean the Canon printhead.",
+    "slug": "canon-printer-6bzerozero"
+  },
+  {
+    "code": "6B10",
+    "brand": "Canon",
+    "title": "Print Head Temperature Error",
+    "fixes": "The printhead temperature is abnormal. Allow the Canon printer to cool and restart.",
+    "slug": "canon-printer-6b1zero"
+  },
+  {
+    "code": "6B20",
+    "brand": "Canon",
+    "title": "Print Head Voltage Error",
+    "fixes": "Incorrect voltage detected at the printhead. This may indicate a Canon printhead or board failure.",
+    "slug": "canon-printer-6b2zero"
+  },
+  {
+    "code": "6C00",
+    "brand": "Canon",
+    "title": "Encoder Error",
+    "fixes": "The encoder sensor has failed. Check the Canon encoder strip for dirt or damage.",
+    "slug": "canon-printer-6czerozero"
+  },
+  {
+    "code": "6C10",
+    "brand": "Canon",
+    "title": "Encoder Strip Dirty",
+    "fixes": "The encoder strip is dirty. Clean the Canon encoder strip with a lint-free cloth.",
+    "slug": "canon-printer-6c1zero"
+  },
+  {
+    "code": "6D00",
+    "brand": "Canon",
+    "title": "Carriage Position Error",
+    "fixes": "The carriage cannot determine its position. Check the Canon carriage encoder and strip.",
+    "slug": "canon-printer-6dzerozero"
+  },
+  {
+    "code": "6E00",
+    "brand": "Canon",
+    "title": "Motor Driver Error",
+    "fixes": "A motor driver has failed. The Canon motor driver circuit may need replacement.",
+    "slug": "canon-printer-6ezerozero"
+  },
+  {
+    "code": "6F00",
+    "brand": "Canon",
+    "title": "Duplex Unit Error",
+    "fixes": "The duplex unit is not functioning. Check the Canon duplex unit for paper jams or damage.",
+    "slug": "canon-printer-6fzerozero"
+  },
+  {
+    "code": "7000",
+    "brand": "Canon",
+    "title": "ADF Error",
+    "fixes": "The automatic document feeder has failed. Check the Canon ADF for paper jams and obstructions.",
+    "slug": "canon-printer-7zerozerozero"
+  },
+  {
+    "code": "7100",
+    "brand": "Canon",
+    "title": "ADF Paper Jam",
+    "fixes": "Paper is jammed in the ADF. Open the Canon ADF and carefully remove jammed paper.",
+    "slug": "canon-printer-71zerozero"
+  },
+  {
+    "code": "7200",
+    "brand": "Canon",
+    "title": "ADF Sensor Error",
+    "fixes": "An ADF sensor has failed. Check the Canon ADF sensors for dirt or damage.",
+    "slug": "canon-printer-72zerozero"
+  },
+  {
+    "code": "8000",
+    "brand": "Canon",
+    "title": "Communication Error",
+    "fixes": "The printer cannot communicate with the computer. Check the USB or network connection to the Canon printer.",
+    "slug": "canon-printer-8zerozerozero"
+  },
+  {
+    "code": "8100",
+    "brand": "Canon",
+    "title": "USB Communication Error",
+    "fixes": "USB communication has failed. Try a different USB cable or port with the Canon printer.",
+    "slug": "canon-printer-81zerozero"
+  },
+  {
+    "code": "8200",
+    "brand": "Canon",
+    "title": "Network Communication Error",
+    "fixes": "Network communication has failed. Check the Canon printer network settings and connection.",
+    "slug": "canon-printer-82zerozero"
+  },
+  {
+    "code": "9000",
+    "brand": "Canon",
+    "title": "EEPROM Error",
+    "fixes": "The EEPROM has failed. The Canon printer may require main board replacement.",
+    "slug": "canon-printer-9zerozerozero"
+  },
+  {
+    "code": "9100",
+    "brand": "Canon",
+    "title": "Memory Error",
+    "fixes": "A memory error has occurred. Restart the Canon printer and reduce print job complexity.",
+    "slug": "canon-printer-91zerozero"
+  },
+  {
+    "code": "0x01",
+    "brand": "Epson",
+    "title": "Fatal Error",
+    "fixes": "A fatal error has occurred. Turn off the Epson printer, wait 30 seconds, and restart.",
+    "slug": "epson-printer-zerozero1"
+  },
+  {
+    "code": "0x02",
+    "brand": "Epson",
+    "title": "Scanner Error",
+    "fixes": "The scanner unit has failed. Restart the Epson printer and check for scanner obstructions.",
+    "slug": "epson-printer-zerozero2"
+  },
+  {
+    "code": "0x03",
+    "brand": "Epson",
+    "title": "Carriage Error",
+    "fixes": "The carriage mechanism has failed. Check for obstructions in the Epson carriage path.",
+    "slug": "epson-printer-zerozero3"
+  },
+  {
+    "code": "0x04",
+    "brand": "Epson",
+    "title": "Paper Feed Error",
+    "fixes": "Paper cannot be fed properly. Check the Epson paper path and rollers.",
+    "slug": "epson-printer-zerozero4"
+  },
+  {
+    "code": "0x05",
+    "brand": "Epson",
+    "title": "Ink System Error",
+    "fixes": "The ink delivery system has failed. Check all Epson ink tubes and connections.",
+    "slug": "epson-printer-zerozero5"
+  },
+  {
+    "code": "0x06",
+    "brand": "Epson",
+    "title": "Print Head Error",
+    "fixes": "The printhead has failed. Run the Epson head cleaning utility or replace the printhead.",
+    "slug": "epson-printer-zerozero6"
+  },
+  {
+    "code": "0x07",
+    "brand": "Epson",
+    "title": "Motor Error",
+    "fixes": "A motor has malfunctioned. Restart the Epson printer and check for mechanical issues.",
+    "slug": "epson-printer-zerozero7"
+  },
+  {
+    "code": "0x08",
+    "brand": "Epson",
+    "title": "Sensor Error",
+    "fixes": "A sensor has failed. Check all Epson sensors for dirt or damage.",
+    "slug": "epson-printer-zerozero8"
+  },
+  {
+    "code": "0x09",
+    "brand": "Epson",
+    "title": "Waste Ink Pad Error",
+    "fixes": "The waste ink pad is full. Contact Epson support to replace the pad and reset the counter.",
+    "slug": "epson-printer-zerozero9"
+  },
+  {
+    "code": "0x0A",
+    "brand": "Epson",
+    "title": "Encoder Error",
+    "fixes": "The encoder has failed. Clean the Epson encoder strip and check the sensor.",
+    "slug": "epson-printer-zerozeroa"
+  },
+  {
+    "code": "0x0B",
+    "brand": "Epson",
+    "title": "PF Motor Error",
+    "fixes": "The paper feed motor has failed. Check the Epson PF motor and connections.",
+    "slug": "epson-printer-zerozerob"
+  },
+  {
+    "code": "0x0C",
+    "brand": "Epson",
+    "title": "CR Motor Error",
+    "fixes": "The carriage motor has failed. Check the Epson CR motor and drive belt.",
+    "slug": "epson-printer-zerozeroc"
+  },
+  {
+    "code": "0x0D",
+    "brand": "Epson",
+    "title": "Pump Error",
+    "fixes": "The ink pump has failed. The Epson pump assembly may need replacement.",
+    "slug": "epson-printer-zerozerod"
+  },
+  {
+    "code": "0x0E",
+    "brand": "Epson",
+    "title": "Cutter Error",
+    "fixes": "The paper cutter has jammed. Check the Epson cutter mechanism for obstructions.",
+    "slug": "epson-printer-zerozeroe"
+  },
+  {
+    "code": "0x0F",
+    "brand": "Epson",
+    "title": "CSIC Error",
+    "fixes": "The CSIC (Continuous Supply Ink Cartridge) system has failed. Check Epson CSIC connections.",
+    "slug": "epson-printer-zerozerof"
+  },
+  {
+    "code": "0x11",
+    "brand": "Epson",
+    "title": "Paper Jam Error",
+    "fixes": "Paper is jammed in the printer. Remove all paper and clear jams from the Epson printer.",
+    "slug": "epson-printer-zero11"
+  },
+  {
+    "code": "0x12",
+    "brand": "Epson",
+    "title": "Paper Out Error",
+    "fixes": "The paper tray is empty. Load paper into the Epson printer tray.",
+    "slug": "epson-printer-zero12"
+  },
+  {
+    "code": "0x13",
+    "brand": "Epson",
+    "title": "Paper Size Error",
+    "fixes": "The paper size setting is incorrect. Adjust the Epson printer settings to match loaded paper.",
+    "slug": "epson-printer-zero13"
+  },
+  {
+    "code": "0x14",
+    "brand": "Epson",
+    "title": "Cover Open Error",
+    "fixes": "A printer cover is open. Close all Epson printer covers securely.",
+    "slug": "epson-printer-zero14"
+  },
+  {
+    "code": "0x15",
+    "brand": "Epson",
+    "title": "Cartridge Error",
+    "fixes": "An ink cartridge has failed. Replace the indicated Epson ink cartridge.",
+    "slug": "epson-printer-zero15"
+  },
+  {
+    "code": "0x16",
+    "brand": "Epson",
+    "title": "Ink Low Error",
+    "fixes": "One or more ink cartridges are low. Replace the low Epson ink cartridges.",
+    "slug": "epson-printer-zero16"
+  },
+  {
+    "code": "0x17",
+    "brand": "Epson",
+    "title": "Ink Out Error",
+    "fixes": "An ink cartridge is empty. Replace the empty Epson ink cartridge immediately.",
+    "slug": "epson-printer-zero17"
+  },
+  {
+    "code": "0x18",
+    "brand": "Epson",
+    "title": "Temperature Error",
+    "fixes": "The printer temperature is abnormal. Allow the Epson printer to cool and restart.",
+    "slug": "epson-printer-zero18"
+  },
+  {
+    "code": "0x19",
+    "brand": "Epson",
+    "title": "Voltage Error",
+    "fixes": "Incorrect voltage detected. Check the Epson printer power supply and connections.",
+    "slug": "epson-printer-zero19"
+  },
+  {
+    "code": "0x1A",
+    "brand": "Epson",
+    "title": "Communication Error",
+    "fixes": "Cannot communicate with the computer. Check the connection to the Epson printer.",
+    "slug": "epson-printer-zero1a"
+  },
+  {
+    "code": "0x1B",
+    "brand": "Epson",
+    "title": "Memory Error",
+    "fixes": "A memory error has occurred. Restart the Epson printer and reduce job complexity.",
+    "slug": "epson-printer-zero1b"
+  },
+  {
+    "code": "0x1C",
+    "brand": "Epson",
+    "title": "Firmware Error",
+    "fixes": "A firmware error has occurred. Update the Epson printer firmware to the latest version.",
+    "slug": "epson-printer-zero1c"
+  },
+  {
+    "code": "0x1D",
+    "brand": "Epson",
+    "title": "Maintenance Error",
+    "fixes": "Maintenance is required. Contact Epson support to schedule service.",
+    "slug": "epson-printer-zero1d"
+  },
+  {
+    "code": "0x1E",
+    "brand": "Epson",
+    "title": "Service Required",
+    "fixes": "The printer requires professional service. Contact Epson support.",
+    "slug": "epson-printer-zero1e"
+  },
+  {
+    "code": "0x1F",
+    "brand": "Epson",
+    "title": "Hardware Failure",
+    "fixes": "A hardware component has failed. The Epson printer may need repair or replacement.",
+    "slug": "epson-printer-zero1f"
+  },
+  {
+    "code": "P01",
+    "brand": "Epson",
+    "title": "Paper Feed Failure",
+    "fixes": "Paper feed has failed. Check the Epson paper feed mechanism and rollers.",
+    "slug": "epson-printer-pzero1"
+  },
+  {
+    "code": "P02",
+    "brand": "Epson",
+    "title": "Paper Jam in Rear",
+    "fixes": "Paper is jammed in the rear. Open the Epson rear access and remove jammed paper.",
+    "slug": "epson-printer-pzero2"
+  },
+  {
+    "code": "P03",
+    "brand": "Epson",
+    "title": "Paper Jam in Front",
+    "fixes": "Paper is jammed in the front. Check the Epson front paper path and remove jams.",
+    "slug": "epson-printer-pzero3"
+  },
+  {
+    "code": "P04",
+    "brand": "Epson",
+    "title": "Paper Size Mismatch",
+    "fixes": "Paper size doesn't match settings. Adjust the Epson printer settings or load correct paper.",
+    "slug": "epson-printer-pzero4"
+  },
+  {
+    "code": "P05",
+    "brand": "Epson",
+    "title": "Paper Type Error",
+    "fixes": "The paper type is incorrect. Load the correct paper type in the Epson printer.",
+    "slug": "epson-printer-pzero5"
+  },
+  {
+    "code": "P06",
+    "brand": "Epson",
+    "title": "Paper Tray Error",
+    "fixes": "The paper tray is not installed correctly. Reinstall the Epson paper tray properly.",
+    "slug": "epson-printer-pzero6"
+  },
+  {
+    "code": "P07",
+    "brand": "Epson",
+    "title": "Paper Feed Roller Worn",
+    "fixes": "The paper feed roller is worn. Replace the Epson paper feed roller assembly.",
+    "slug": "epson-printer-pzero7"
+  },
+  {
+    "code": "P08",
+    "brand": "Epson",
+    "title": "Paper Pickup Error",
+    "fixes": "Cannot pickup paper. Check the Epson pickup roller and separation pad.",
+    "slug": "epson-printer-pzero8"
+  },
+  {
+    "code": "P09",
+    "brand": "Epson",
+    "title": "Paper Transport Error",
+    "fixes": "Paper transport has failed. Check the Epson paper transport mechanism.",
+    "slug": "epson-printer-pzero9"
+  },
+  {
+    "code": "P10",
+    "brand": "Epson",
+    "title": "Paper Output Error",
+    "fixes": "Cannot output paper. Check the Epson output tray and mechanism.",
+    "slug": "epson-printer-p1zero"
+  },
+  {
+    "code": "E-01",
+    "brand": "Sharp",
+    "title": "Door Switch Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The door switch is not functioning. Do not operate the Sharp microwave - contact a qualified technician.",
+    "slug": "sharp-microwave-e-zero1"
+  },
+  {
+    "code": "E-02",
+    "brand": "Sharp",
+    "title": "Magnetron Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The magnetron has failed. Turn off power and contact Sharp service - magnetron replacement requires specialized training.",
+    "slug": "sharp-microwave-e-zero2"
+  },
+  {
+    "code": "E-03",
+    "brand": "Sharp",
+    "title": "High Voltage Error",
+    "fixes": "\u26a0\ufe0f DANGER: High voltage circuit failure detected. Disconnect power immediately and contact a certified Sharp technician.",
+    "slug": "sharp-microwave-e-zero3"
+  },
+  {
+    "code": "E-04",
+    "brand": "Sharp",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor has failed. The Sharp microwave may not heat properly - professional service required.",
+    "slug": "sharp-microwave-e-zero4"
+  },
+  {
+    "code": "E-05",
+    "brand": "Sharp",
+    "title": "Humidity Sensor Error",
+    "fixes": "The humidity sensor is malfunctioning. The Sharp sensor cooking features will not work - replace the sensor.",
+    "slug": "sharp-microwave-e-zero5"
+  },
+  {
+    "code": "E-06",
+    "brand": "Sharp",
+    "title": "Inverter Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The inverter circuit has failed. Disconnect power and contact Sharp service for inverter replacement.",
+    "slug": "sharp-microwave-e-zero6"
+  },
+  {
+    "code": "E-07",
+    "brand": "Sharp",
+    "title": "Cooling Fan Error",
+    "fixes": "The cooling fan is not operating. Check the Sharp fan motor and ensure proper ventilation.",
+    "slug": "sharp-microwave-e-zero7"
+  },
+  {
+    "code": "E-08",
+    "brand": "Sharp",
+    "title": "Turntable Motor Error",
+    "fixes": "The turntable motor has failed. Check the Sharp turntable motor and drive coupling.",
+    "slug": "sharp-microwave-e-zero8"
+  },
+  {
+    "code": "E-09",
+    "brand": "Sharp",
+    "title": "Control Panel Error",
+    "fixes": "The control panel has malfunctioned. The Sharp control board may need replacement.",
+    "slug": "sharp-microwave-e-zero9"
+  },
+  {
+    "code": "E-10",
+    "brand": "Sharp",
+    "title": "Memory Error",
+    "fixes": "The memory chip has failed. The Sharp microwave control board needs replacement.",
+    "slug": "sharp-microwave-e-1zero"
+  },
+  {
+    "code": "E-11",
+    "brand": "Sharp",
+    "title": "Thermal Cutoff",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The thermal cutoff has tripped. Allow the Sharp microwave to cool and check ventilation.",
+    "slug": "sharp-microwave-e-11"
+  },
+  {
+    "code": "E-12",
+    "brand": "Sharp",
+    "title": "Power Supply Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The power supply has failed. Contact Sharp service for power supply replacement.",
+    "slug": "sharp-microwave-e-12"
+  },
+  {
+    "code": "E-13",
+    "brand": "Sharp",
+    "title": "Relay Error",
+    "fixes": "A relay has failed. The Sharp relay board may need replacement.",
+    "slug": "sharp-microwave-e-13"
+  },
+  {
+    "code": "E-14",
+    "brand": "Sharp",
+    "title": "Transformer Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The high voltage transformer has failed. Contact a certified Sharp technician.",
+    "slug": "sharp-microwave-e-14"
+  },
+  {
+    "code": "E-15",
+    "brand": "Sharp",
+    "title": "Capacitor Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The high voltage capacitor has failed. Professional Sharp service required.",
+    "slug": "sharp-microwave-e-15"
+  },
+  {
+    "code": "H97",
+    "brand": "Panasonic",
+    "title": "Magnetron Overheating",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The magnetron is overheating. Turn off the Panasonic microwave and allow it to cool for 30 minutes.",
+    "slug": "panasonic-microwave-h97"
+  },
+  {
+    "code": "H98",
+    "brand": "Panasonic",
+    "title": "Humidity Sensor Error",
+    "fixes": "The humidity sensor has failed. The Panasonic sensor cooking features will not function - replace the sensor.",
+    "slug": "panasonic-microwave-h98"
+  },
+  {
+    "code": "H99",
+    "brand": "Panasonic",
+    "title": "High Voltage Circuit Error",
+    "fixes": "\u26a0\ufe0f DANGER: High voltage circuit failure. Disconnect power and contact a certified Panasonic technician immediately.",
+    "slug": "panasonic-microwave-h99"
+  },
+  {
+    "code": "F1",
+    "brand": "Panasonic",
+    "title": "Door Switch Failure",
+    "fixes": "\u26a0\ufe0f SAFETY: A door switch has failed. Do not use the Panasonic microwave - contact service for door switch replacement.",
+    "slug": "panasonic-microwave-f1"
+  },
+  {
+    "code": "F2",
+    "brand": "Panasonic",
+    "title": "Inverter Circuit Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The inverter has failed. Contact Panasonic service for inverter board replacement.",
+    "slug": "panasonic-microwave-f2"
+  },
+  {
+    "code": "F3",
+    "brand": "Panasonic",
+    "title": "Magnetron Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The magnetron has failed. Professional Panasonic service required for magnetron replacement.",
+    "slug": "panasonic-microwave-f3"
+  },
+  {
+    "code": "F4",
+    "brand": "Panasonic",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor is malfunctioning. Replace the Panasonic temperature sensor.",
+    "slug": "panasonic-microwave-f4"
+  },
+  {
+    "code": "F5",
+    "brand": "Panasonic",
+    "title": "Cooling Fan Error",
+    "fixes": "The cooling fan has failed. Check the Panasonic fan motor and replace if necessary.",
+    "slug": "panasonic-microwave-f5"
+  },
+  {
+    "code": "F6",
+    "brand": "Panasonic",
+    "title": "Turntable Motor Error",
+    "fixes": "The turntable motor is not operating. Replace the Panasonic turntable motor assembly.",
+    "slug": "panasonic-microwave-f6"
+  },
+  {
+    "code": "F7",
+    "brand": "Panasonic",
+    "title": "Control Board Error",
+    "fixes": "The control board has failed. The Panasonic control board needs replacement.",
+    "slug": "panasonic-microwave-f7"
+  },
+  {
+    "code": "F8",
+    "brand": "Panasonic",
+    "title": "Thermal Cutoff Activated",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The thermal cutoff has tripped. Allow the Panasonic microwave to cool completely.",
+    "slug": "panasonic-microwave-f8"
+  },
+  {
+    "code": "F9",
+    "brand": "Panasonic",
+    "title": "Power Supply Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The power supply circuit has failed. Contact Panasonic service.",
+    "slug": "panasonic-microwave-f9"
+  },
+  {
+    "code": "E01",
+    "brand": "Panasonic",
+    "title": "Door Latch Error",
+    "fixes": "The door latch is not engaging properly. Check the Panasonic door latch mechanism.",
+    "slug": "panasonic-microwave-ezero1"
+  },
+  {
+    "code": "E02",
+    "brand": "Panasonic",
+    "title": "Keypad Error",
+    "fixes": "The keypad is not responding correctly. The Panasonic control panel may need replacement.",
+    "slug": "panasonic-microwave-ezero2"
+  },
+  {
+    "code": "E03",
+    "brand": "Panasonic",
+    "title": "Display Error",
+    "fixes": "The display is malfunctioning. The Panasonic display board needs replacement.",
+    "slug": "panasonic-microwave-ezero3"
+  },
+  {
+    "code": "F1",
+    "brand": "GE",
+    "title": "Door Switch Error",
+    "fixes": "\u26a0\ufe0f SAFETY: A door switch has failed. Do not operate the GE microwave - contact service for switch replacement.",
+    "slug": "ge-microwave-f1"
+  },
+  {
+    "code": "F2",
+    "brand": "GE",
+    "title": "Magnetron Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The magnetron has failed. Turn off power and contact a certified GE technician.",
+    "slug": "ge-microwave-f2"
+  },
+  {
+    "code": "F3",
+    "brand": "GE",
+    "title": "High Voltage Error",
+    "fixes": "\u26a0\ufe0f DANGER: High voltage circuit failure. Disconnect power immediately and contact GE service.",
+    "slug": "ge-microwave-f3"
+  },
+  {
+    "code": "F4",
+    "brand": "GE",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor has failed. Replace the GE temperature sensor probe.",
+    "slug": "ge-microwave-f4"
+  },
+  {
+    "code": "F5",
+    "brand": "GE",
+    "title": "Cooling Fan Error",
+    "fixes": "The cooling fan is not operating. Check the GE fan motor and connections.",
+    "slug": "ge-microwave-f5"
+  },
+  {
+    "code": "F6",
+    "brand": "GE",
+    "title": "Turntable Error",
+    "fixes": "The turntable motor has failed. Replace the GE turntable motor assembly.",
+    "slug": "ge-microwave-f6"
+  },
+  {
+    "code": "F7",
+    "brand": "GE",
+    "title": "Control Board Error",
+    "fixes": "The control board has malfunctioned. The GE control board needs replacement.",
+    "slug": "ge-microwave-f7"
+  },
+  {
+    "code": "F8",
+    "brand": "GE",
+    "title": "Thermal Cutoff",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The thermal cutoff has activated. Allow the GE microwave to cool completely.",
+    "slug": "ge-microwave-f8"
+  },
+  {
+    "code": "F9",
+    "brand": "GE",
+    "title": "Power Supply Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The power supply has failed. Contact GE service for repair.",
+    "slug": "ge-microwave-f9"
+  },
+  {
+    "code": "E10",
+    "brand": "GE",
+    "title": "Inverter Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The inverter circuit has failed. Professional GE service required.",
+    "slug": "ge-microwave-e1zero"
+  },
+  {
+    "code": "E11",
+    "brand": "GE",
+    "title": "Relay Error",
+    "fixes": "A relay has failed. The GE relay board may need replacement.",
+    "slug": "ge-microwave-e11"
+  },
+  {
+    "code": "E12",
+    "brand": "GE",
+    "title": "Transformer Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The transformer has failed. Contact a certified GE technician.",
+    "slug": "ge-microwave-e12"
+  },
+  {
+    "code": "E13",
+    "brand": "GE",
+    "title": "Capacitor Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The high voltage capacitor has failed. Professional service required.",
+    "slug": "ge-microwave-e13"
+  },
+  {
+    "code": "E14",
+    "brand": "GE",
+    "title": "Diode Error",
+    "fixes": "\u26a0\ufe0f HIGH VOLTAGE: The high voltage diode has failed. Contact GE service.",
+    "slug": "ge-microwave-e14"
+  },
+  {
+    "code": "E15",
+    "brand": "GE",
+    "title": "Sensor Error",
+    "fixes": "A sensor has failed. Replace the failed GE sensor component.",
+    "slug": "ge-microwave-e15"
+  },
+  {
+    "code": "E01",
+    "brand": "Bosch",
+    "title": "Water Fill Error",
+    "fixes": "Water is not entering the dishwasher. Check the Bosch water supply valve and inlet hose for blockages.",
+    "slug": "bosch-dishwasher-ezero1"
+  },
+  {
+    "code": "E02",
+    "brand": "Bosch",
+    "title": "Drain Error",
+    "fixes": "Water is not draining properly. Clean the Bosch drain filter and check the drain hose for clogs.",
+    "slug": "bosch-dishwasher-ezero2"
+  },
+  {
+    "code": "E03",
+    "brand": "Bosch",
+    "title": "Heating Error",
+    "fixes": "The water is not heating. Check the Bosch heating element and thermostat for proper operation.",
+    "slug": "bosch-dishwasher-ezero3"
+  },
+  {
+    "code": "E04",
+    "brand": "Bosch",
+    "title": "Water Level Sensor Error",
+    "fixes": "The water level sensor has failed. Replace the Bosch pressure sensor.",
+    "slug": "bosch-dishwasher-ezero4"
+  },
+  {
+    "code": "E05",
+    "brand": "Bosch",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor is malfunctioning. Replace the Bosch NTC sensor.",
+    "slug": "bosch-dishwasher-ezero5"
+  },
+  {
+    "code": "E06",
+    "brand": "Bosch",
+    "title": "Door Lock Error",
+    "fixes": "The door lock is not engaging. Check the Bosch door lock mechanism and switch.",
+    "slug": "bosch-dishwasher-ezero6"
+  },
+  {
+    "code": "E07",
+    "brand": "Bosch",
+    "title": "Circulation Pump Error",
+    "fixes": "The circulation pump has failed. Check the Bosch pump motor and impeller.",
+    "slug": "bosch-dishwasher-ezero7"
+  },
+  {
+    "code": "E08",
+    "brand": "Bosch",
+    "title": "Overflow Error",
+    "fixes": "\u26a0\ufe0f WATER LEAK: The overflow protection has activated. Check for leaks in the Bosch dishwasher.",
+    "slug": "bosch-dishwasher-ezero8"
+  },
+  {
+    "code": "E09",
+    "brand": "Bosch",
+    "title": "Heater Relay Error",
+    "fixes": "The heater relay has failed. Replace the Bosch relay on the control board.",
+    "slug": "bosch-dishwasher-ezero9"
+  },
+  {
+    "code": "E10",
+    "brand": "Bosch",
+    "title": "Control Board Error",
+    "fixes": "The control board has malfunctioned. The Bosch control board may need replacement.",
+    "slug": "bosch-dishwasher-e1zero"
+  },
+  {
+    "code": "E11",
+    "brand": "Bosch",
+    "title": "Water Hardness Sensor Error",
+    "fixes": "The water hardness sensor has failed. Replace the Bosch water hardness sensor.",
+    "slug": "bosch-dishwasher-e11"
+  },
+  {
+    "code": "E12",
+    "brand": "Bosch",
+    "title": "Lime Scale Error",
+    "fixes": "Excessive lime scale detected. Run a Bosch dishwasher cleaning cycle with descaler.",
+    "slug": "bosch-dishwasher-e12"
+  },
+  {
+    "code": "E13",
+    "brand": "Bosch",
+    "title": "Turbidity Sensor Error",
+    "fixes": "The turbidity sensor is dirty or failed. Clean or replace the Bosch turbidity sensor.",
+    "slug": "bosch-dishwasher-e13"
+  },
+  {
+    "code": "E14",
+    "brand": "Bosch",
+    "title": "Flow Meter Error",
+    "fixes": "The flow meter has failed. Replace the Bosch flow meter assembly.",
+    "slug": "bosch-dishwasher-e14"
+  },
+  {
+    "code": "E15",
+    "brand": "Bosch",
+    "title": "Water in Base Pan",
+    "fixes": "\u26a0\ufe0f LEAK DETECTED: Water in the base pan. Check all Bosch hose connections and the door seal.",
+    "slug": "bosch-dishwasher-e15"
+  },
+  {
+    "code": "E16",
+    "brand": "Bosch",
+    "title": "Fill Valve Error",
+    "fixes": "The fill valve is stuck open. Replace the Bosch water inlet valve.",
+    "slug": "bosch-dishwasher-e16"
+  },
+  {
+    "code": "E17",
+    "brand": "Bosch",
+    "title": "Water Pressure Low",
+    "fixes": "Water pressure is too low. Check the Bosch water supply and ensure pressure is 20-120 PSI.",
+    "slug": "bosch-dishwasher-e17"
+  },
+  {
+    "code": "E18",
+    "brand": "Bosch",
+    "title": "Drain Pump Blocked",
+    "fixes": "The drain pump is blocked. Clean the Bosch drain pump and filter.",
+    "slug": "bosch-dishwasher-e18"
+  },
+  {
+    "code": "E19",
+    "brand": "Bosch",
+    "title": "Heat Exchanger Error",
+    "fixes": "The heat exchanger has failed. The Bosch heat exchanger may need replacement.",
+    "slug": "bosch-dishwasher-e19"
+  },
+  {
+    "code": "E20",
+    "brand": "Bosch",
+    "title": "Drain Pump Motor Error",
+    "fixes": "The drain pump motor has failed. Replace the Bosch drain pump motor.",
+    "slug": "bosch-dishwasher-e2zero"
+  },
+  {
+    "code": "1-1",
+    "brand": "KitchenAid",
+    "title": "Water Fill Issue",
+    "fixes": "Water is not filling properly. Check the KitchenAid water supply valve and inlet screens.",
+    "slug": "kitchenaid-dishwasher-1-1"
+  },
+  {
+    "code": "2-1",
+    "brand": "KitchenAid",
+    "title": "Drain Problem",
+    "fixes": "Water is not draining. Clean the KitchenAid drain filter and check the drain hose.",
+    "slug": "kitchenaid-dishwasher-2-1"
+  },
+  {
+    "code": "3-1",
+    "brand": "KitchenAid",
+    "title": "Heating Element Error",
+    "fixes": "The heating element has failed. Test the KitchenAid heating element for continuity.",
+    "slug": "kitchenaid-dishwasher-3-1"
+  },
+  {
+    "code": "4-1",
+    "brand": "KitchenAid",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor is faulty. Replace the KitchenAid NTC sensor.",
+    "slug": "kitchenaid-dishwasher-4-1"
+  },
+  {
+    "code": "5-1",
+    "brand": "KitchenAid",
+    "title": "Door Latch Error",
+    "fixes": "The door latch is not engaging. Check the KitchenAid door latch mechanism.",
+    "slug": "kitchenaid-dishwasher-5-1"
+  },
+  {
+    "code": "6-1",
+    "brand": "KitchenAid",
+    "title": "Wash Motor Error",
+    "fixes": "The wash motor has failed. Check the KitchenAid wash motor and pump assembly.",
+    "slug": "kitchenaid-dishwasher-6-1"
+  },
+  {
+    "code": "7-1",
+    "brand": "KitchenAid",
+    "title": "Diverter Motor Error",
+    "fixes": "The diverter motor is not operating. Replace the KitchenAid diverter motor.",
+    "slug": "kitchenaid-dishwasher-7-1"
+  },
+  {
+    "code": "8-1",
+    "brand": "KitchenAid",
+    "title": "Water Level Error",
+    "fixes": "The water level is incorrect. Check the KitchenAid pressure sensor and air tube.",
+    "slug": "kitchenaid-dishwasher-8-1"
+  },
+  {
+    "code": "9-1",
+    "brand": "KitchenAid",
+    "title": "Dispenser Error",
+    "fixes": "The detergent dispenser is not opening. Check the KitchenAid dispenser actuator.",
+    "slug": "kitchenaid-dishwasher-9-1"
+  },
+  {
+    "code": "10-1",
+    "brand": "KitchenAid",
+    "title": "Control Board Error",
+    "fixes": "The control board has failed. The KitchenAid control board may need replacement.",
+    "slug": "kitchenaid-dishwasher-1zero-1"
+  },
+  {
+    "code": "F1E1",
+    "brand": "KitchenAid",
+    "title": "Control Board Failure",
+    "fixes": "The electronic control has failed. Replace the KitchenAid control board.",
+    "slug": "kitchenaid-dishwasher-f1e1"
+  },
+  {
+    "code": "F2E1",
+    "brand": "KitchenAid",
+    "title": "Keypad Error",
+    "fixes": "The keypad is not responding. Replace the KitchenAid control panel.",
+    "slug": "kitchenaid-dishwasher-f2e1"
+  },
+  {
+    "code": "F3E1",
+    "brand": "KitchenAid",
+    "title": "Thermistor Error",
+    "fixes": "The thermistor has failed. Replace the KitchenAid temperature sensor.",
+    "slug": "kitchenaid-dishwasher-f3e1"
+  },
+  {
+    "code": "F4E1",
+    "brand": "KitchenAid",
+    "title": "Water Inlet Error",
+    "fixes": "Water inlet valve failure. Replace the KitchenAid water inlet valve.",
+    "slug": "kitchenaid-dishwasher-f4e1"
+  },
+  {
+    "code": "F5E1",
+    "brand": "KitchenAid",
+    "title": "Door Switch Error",
+    "fixes": "The door switch has failed. Replace the KitchenAid door switch.",
+    "slug": "kitchenaid-dishwasher-f5e1"
+  },
+  {
+    "code": "F6E1",
+    "brand": "KitchenAid",
+    "title": "Flood Switch Error",
+    "fixes": "\u26a0\ufe0f LEAK: The flood switch has activated. Check for leaks in the KitchenAid dishwasher.",
+    "slug": "kitchenaid-dishwasher-f6e1"
+  },
+  {
+    "code": "F7E1",
+    "brand": "KitchenAid",
+    "title": "Heating Element Error",
+    "fixes": "The heating element circuit is open. Replace the KitchenAid heating element.",
+    "slug": "kitchenaid-dishwasher-f7e1"
+  },
+  {
+    "code": "F8E1",
+    "brand": "KitchenAid",
+    "title": "Slow Drain",
+    "fixes": "The dishwasher is draining slowly. Clean the KitchenAid drain system thoroughly.",
+    "slug": "kitchenaid-dishwasher-f8e1"
+  },
+  {
+    "code": "F9E1",
+    "brand": "KitchenAid",
+    "title": "Diverter Disk Error",
+    "fixes": "The diverter disk is stuck. Clean or replace the KitchenAid diverter assembly.",
+    "slug": "kitchenaid-dishwasher-f9e1"
+  },
+  {
+    "code": "FAE1",
+    "brand": "KitchenAid",
+    "title": "Vent Wax Motor Error",
+    "fixes": "The vent wax motor has failed. Replace the KitchenAid vent assembly.",
+    "slug": "kitchenaid-dishwasher-fae1"
+  },
+  {
+    "code": "53.10.01",
+    "brand": "HP",
+    "title": "Memory Error",
+    "fixes": "RAM module has failed. Replace the defective HP memory module.",
+    "slug": "hp-printer-53.1zero.zero1"
+  },
+  {
+    "code": "54.15",
+    "brand": "HP",
+    "title": "Sensor Error",
+    "fixes": "A sensor has failed. Check all HP printer sensors for proper operation.",
+    "slug": "hp-printer-54.15"
+  },
+  {
+    "code": "55.02",
+    "brand": "HP",
+    "title": "DC Controller Error",
+    "fixes": "The DC controller has failed. The HP DC controller board needs replacement.",
+    "slug": "hp-printer-55.zero2"
+  },
+  {
+    "code": "56.01",
+    "brand": "HP",
+    "title": "Illegal Input",
+    "fixes": "Illegal input detected. Check the HP printer input settings and connections.",
+    "slug": "hp-printer-56.zero1"
+  },
+  {
+    "code": "57.03",
+    "brand": "HP",
+    "title": "Fan Error",
+    "fixes": "A cooling fan has failed. Replace the failed HP fan motor.",
+    "slug": "hp-printer-57.zero3"
+  },
+  {
+    "code": "58.04",
+    "brand": "HP",
+    "title": "Environmental Sensor Error",
+    "fixes": "Environmental sensor failure. Replace the HP environmental sensor.",
+    "slug": "hp-printer-58.zero4"
+  },
+  {
+    "code": "59.40",
+    "brand": "HP",
+    "title": "Main Motor Error",
+    "fixes": "The main motor has failed. Replace the HP main motor assembly.",
+    "slug": "hp-printer-59.4zero"
+  },
+  {
+    "code": "62.00",
+    "brand": "HP",
+    "title": "No System",
+    "fixes": "System error detected. Restart the HP printer and update firmware.",
+    "slug": "hp-printer-62.zerozero"
+  },
+  {
+    "code": "63.00",
+    "brand": "HP",
+    "title": "Print Overrun",
+    "fixes": "Print data overrun. Reduce document complexity or add HP printer memory.",
+    "slug": "hp-printer-63.zerozero"
+  },
+  {
+    "code": "64.00",
+    "brand": "HP",
+    "title": "Scan Buffer Error",
+    "fixes": "Scan buffer error. Restart the HP printer and reduce scan resolution.",
+    "slug": "hp-printer-64.zerozero"
+  },
+  {
+    "code": "65.12.99",
+    "brand": "HP",
+    "title": "Output Device Error",
+    "fixes": "Output device failure. Check the HP output tray and mechanism.",
+    "slug": "hp-printer-65.12.99"
+  },
+  {
+    "code": "66.00.15",
+    "brand": "HP",
+    "title": "External Device Error",
+    "fixes": "External device failure. Check all HP external device connections.",
+    "slug": "hp-printer-66.zerozero.15"
+  },
+  {
+    "code": "67.03",
+    "brand": "HP",
+    "title": "Duplex Error",
+    "fixes": "Duplex mechanism error. Check the HP duplex unit for jams.",
+    "slug": "hp-printer-67.zero3"
+  },
+  {
+    "code": "68.00",
+    "brand": "HP",
+    "title": "NVRAM Error",
+    "fixes": "NVRAM storage error. The HP NVRAM may need replacement.",
+    "slug": "hp-printer-68.zerozero"
+  },
+  {
+    "code": "69.00",
+    "brand": "HP",
+    "title": "Duplexer Error",
+    "fixes": "Duplexer mechanism failure. Replace the HP duplexer assembly.",
+    "slug": "hp-printer-69.zerozero"
+  },
+  {
+    "code": "79.00FF",
+    "brand": "HP",
+    "title": "Firmware Error",
+    "fixes": "Critical firmware error. Update the HP printer firmware immediately.",
+    "slug": "hp-printer-79.zerozeroff"
+  },
+  {
+    "code": "80.00",
+    "brand": "HP",
+    "title": "Embedded Jetdirect Error",
+    "fixes": "Network card error. Reset the HP Jetdirect card or replace.",
+    "slug": "hp-printer-8zero.zerozero"
+  },
+  {
+    "code": "81.00",
+    "brand": "HP",
+    "title": "EIO Error",
+    "fixes": "EIO card failure. Remove and reseat the HP EIO card.",
+    "slug": "hp-printer-81.zerozero"
+  },
+  {
+    "code": "83.00",
+    "brand": "HP",
+    "title": "Paper Axis Error",
+    "fixes": "Paper axis motor error. Check the HP paper axis motor.",
+    "slug": "hp-printer-83.zerozero"
+  },
+  {
+    "code": "84.00",
+    "brand": "HP",
+    "title": "Fax Error",
+    "fixes": "Fax accessory error. Check the HP fax card connections.",
+    "slug": "hp-printer-84.zerozero"
+  },
+  {
+    "code": "1A",
+    "brand": "Brother",
+    "title": "Low Toner",
+    "fixes": "The toner cartridge is low. Replace the Brother toner cartridge soon.",
+    "slug": "brother-printer-1a"
+  },
+  {
+    "code": "1F",
+    "brand": "Brother",
+    "title": "Toner Cartridge Missing",
+    "fixes": "The toner cartridge is not installed. Install a Brother toner cartridge.",
+    "slug": "brother-printer-1f"
+  },
+  {
+    "code": "2A",
+    "brand": "Brother",
+    "title": "Drum Low",
+    "fixes": "The drum unit is nearing end of life. Order a replacement Brother drum unit.",
+    "slug": "brother-printer-2a"
+  },
+  {
+    "code": "2F",
+    "brand": "Brother",
+    "title": "Drum Missing",
+    "fixes": "The drum unit is not installed. Install the Brother drum unit.",
+    "slug": "brother-printer-2f"
+  },
+  {
+    "code": "3B",
+    "brand": "Brother",
+    "title": "Waste Toner Full",
+    "fixes": "The waste toner box is full. Replace the Brother waste toner box.",
+    "slug": "brother-printer-3b"
+  },
+  {
+    "code": "4A",
+    "brand": "Brother",
+    "title": "High Temperature",
+    "fixes": "The printer temperature is too high. Turn off the Brother printer and allow it to cool.",
+    "slug": "brother-printer-4a"
+  },
+  {
+    "code": "5B",
+    "brand": "Brother",
+    "title": "Registration Sensor Error",
+    "fixes": "The registration sensor has failed. Check the Brother registration sensor.",
+    "slug": "brother-printer-5b"
+  },
+  {
+    "code": "6A",
+    "brand": "Brother",
+    "title": "Fusing Unit Error",
+    "fixes": "The fusing unit has failed. The Brother fusing assembly may need replacement.",
+    "slug": "brother-printer-6a"
+  },
+  {
+    "code": "7B",
+    "brand": "Brother",
+    "title": "Polygon Motor Error",
+    "fixes": "The polygon motor has failed. Replace the Brother laser unit.",
+    "slug": "brother-printer-7b"
+  },
+  {
+    "code": "7F",
+    "brand": "Brother",
+    "title": "Laser Unit Error",
+    "fixes": "The laser unit has failed. Replace the Brother laser assembly.",
+    "slug": "brother-printer-7f"
+  },
+  {
+    "code": "8B",
+    "brand": "Brother",
+    "title": "Developing Motor Error",
+    "fixes": "The developing motor has failed. The Brother developing unit needs service.",
+    "slug": "brother-printer-8b"
+  },
+  {
+    "code": "8D",
+    "brand": "Brother",
+    "title": "Main Motor Locked",
+    "fixes": "The main motor is locked. Check for mechanical obstructions in the Brother printer.",
+    "slug": "brother-printer-8d"
+  },
+  {
+    "code": "9A",
+    "brand": "Brother",
+    "title": "Optical Sensor Error",
+    "fixes": "An optical sensor has failed. Replace the failed Brother optical sensor.",
+    "slug": "brother-printer-9a"
+  },
+  {
+    "code": "9B",
+    "brand": "Brother",
+    "title": "Exposure LED Error",
+    "fixes": "The exposure LED has failed. The Brother LED head may need replacement.",
+    "slug": "brother-printer-9b"
+  },
+  {
+    "code": "A1",
+    "brand": "Brother",
+    "title": "Internal Error",
+    "fixes": "An internal error has occurred. Restart the Brother printer and contact service if needed.",
+    "slug": "brother-printer-a1"
+  },
+  {
+    "code": "A2",
+    "brand": "Brother",
+    "title": "NVRAM Error",
+    "fixes": "The NVRAM has failed. The Brother control board may need replacement.",
+    "slug": "brother-printer-a2"
+  },
+  {
+    "code": "A3",
+    "brand": "Brother",
+    "title": "ROM Error",
+    "fixes": "The ROM has failed. The Brother control board needs replacement.",
+    "slug": "brother-printer-a3"
+  },
+  {
+    "code": "A4",
+    "brand": "Brother",
+    "title": "RAM Error",
+    "fixes": "The RAM has failed. Replace the Brother memory module.",
+    "slug": "brother-printer-a4"
+  },
+  {
+    "code": "A5",
+    "brand": "Brother",
+    "title": "CPU Error",
+    "fixes": "The CPU has failed. The Brother control board needs replacement.",
+    "slug": "brother-printer-a5"
+  },
+  {
+    "code": "B1",
+    "brand": "Brother",
+    "title": "Network Card Error",
+    "fixes": "The network card has failed. Reset or replace the Brother network card.",
+    "slug": "brother-printer-b1"
+  },
+  {
+    "code": "E1",
+    "brand": "Frigidaire",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor has failed. Replace the Frigidaire sensor and verify connections.",
+    "slug": "frigidaire-refrigerator-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Frigidaire",
+    "title": "Evaporator Fan Error",
+    "fixes": "The evaporator fan motor has failed. Check the Frigidaire fan motor and replace if necessary.",
+    "slug": "frigidaire-refrigerator-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Frigidaire",
+    "title": "Defrost Sensor Error",
+    "fixes": "The defrost sensor has failed. Replace the Frigidaire defrost thermistor.",
+    "slug": "frigidaire-refrigerator-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Frigidaire",
+    "title": "Freezer Sensor Error",
+    "fixes": "The freezer temperature sensor has failed. Replace the Frigidaire freezer sensor.",
+    "slug": "frigidaire-refrigerator-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Frigidaire",
+    "title": "Refrigerator Sensor Error",
+    "fixes": "The refrigerator sensor has failed. Replace the Frigidaire fresh food sensor.",
+    "slug": "frigidaire-refrigerator-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Frigidaire",
+    "title": "Ice Maker Error",
+    "fixes": "The ice maker has malfunctioned. Check the Frigidaire ice maker motor and heater.",
+    "slug": "frigidaire-refrigerator-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Frigidaire",
+    "title": "Water Dispenser Error",
+    "fixes": "The water dispenser has failed. Check the Frigidaire dispenser actuator and valve.",
+    "slug": "frigidaire-refrigerator-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Frigidaire",
+    "title": "Damper Control Error",
+    "fixes": "The air damper control has failed. Replace the Frigidaire damper motor.",
+    "slug": "frigidaire-refrigerator-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Frigidaire",
+    "title": "Compressor Error",
+    "fixes": "The compressor has failed. Contact Frigidaire service for compressor diagnosis.",
+    "slug": "frigidaire-refrigerator-e9"
+  },
+  {
+    "code": "SY EF",
+    "brand": "Frigidaire",
+    "title": "Evaporator Fan Circuit Error",
+    "fixes": "The evaporator fan circuit has a problem. Check the Frigidaire fan motor and control board.",
+    "slug": "frigidaire-refrigerator-sy-ef"
+  },
+  {
+    "code": "SY CE",
+    "brand": "Frigidaire",
+    "title": "Communication Error",
+    "fixes": "The control boards cannot communicate. Check all Frigidaire wire harness connections.",
+    "slug": "frigidaire-refrigerator-sy-ce"
+  },
+  {
+    "code": "SY CF",
+    "brand": "Frigidaire",
+    "title": "Condenser Fan Error",
+    "fixes": "The condenser fan has failed. Replace the Frigidaire condenser fan motor.",
+    "slug": "frigidaire-refrigerator-sy-cf"
+  },
+  {
+    "code": "OP",
+    "brand": "Frigidaire",
+    "title": "Door Open",
+    "fixes": "A door is open or the door switch has failed. Close all doors and check the Frigidaire door switches.",
+    "slug": "frigidaire-refrigerator-op"
+  },
+  {
+    "code": "H",
+    "brand": "Frigidaire",
+    "title": "High Temperature",
+    "fixes": "The temperature is too high. Check for proper airflow and verify the Frigidaire sealed system is functioning.",
+    "slug": "frigidaire-refrigerator-h"
+  },
+  {
+    "code": "DI",
+    "brand": "Frigidaire",
+    "title": "Dispenser Ice Error",
+    "fixes": "The ice dispenser has jammed. Clear any ice blockages from the Frigidaire dispenser chute.",
+    "slug": "frigidaire-refrigerator-di"
+  },
+  {
+    "code": "F1E1",
+    "brand": "Maytag",
+    "title": "Main Control Failure",
+    "fixes": "The main control board has failed. Replace the Maytag control board.",
+    "slug": "maytag-appliance-f1e1"
+  },
+  {
+    "code": "F1E2",
+    "brand": "Maytag",
+    "title": "Keypad Error",
+    "fixes": "The keypad has failed. Replace the Maytag control panel assembly.",
+    "slug": "maytag-appliance-f1e2"
+  },
+  {
+    "code": "F2E1",
+    "brand": "Maytag",
+    "title": "Keypad Stuck",
+    "fixes": "A key is stuck on the keypad. Clean or replace the Maytag control panel.",
+    "slug": "maytag-appliance-f2e1"
+  },
+  {
+    "code": "F3E1",
+    "brand": "Maytag",
+    "title": "Oven Temperature Sensor Error",
+    "fixes": "The oven sensor has failed. Replace the Maytag temperature sensor probe.",
+    "slug": "maytag-appliance-f3e1"
+  },
+  {
+    "code": "F3E2",
+    "brand": "Maytag",
+    "title": "Oven Sensor Shorted",
+    "fixes": "The oven sensor is shorted. Replace the Maytag oven sensor.",
+    "slug": "maytag-appliance-f3e2"
+  },
+  {
+    "code": "F4E1",
+    "brand": "Maytag",
+    "title": "Oven Relay Error",
+    "fixes": "An oven relay has failed. Replace the Maytag relay on the control board.",
+    "slug": "maytag-appliance-f4e1"
+  },
+  {
+    "code": "F5E1",
+    "brand": "Maytag",
+    "title": "Door Latch Error",
+    "fixes": "The door latch mechanism has failed. Replace the Maytag door lock assembly.",
+    "slug": "maytag-appliance-f5e1"
+  },
+  {
+    "code": "F5E2",
+    "brand": "Maytag",
+    "title": "Door Lock Motor Error",
+    "fixes": "The door lock motor has failed. Replace the Maytag door lock motor.",
+    "slug": "maytag-appliance-f5e2"
+  },
+  {
+    "code": "F6E1",
+    "brand": "Maytag",
+    "title": "Cooling Fan Error",
+    "fixes": "The cooling fan has failed. Replace the Maytag cooling fan motor.",
+    "slug": "maytag-appliance-f6e1"
+  },
+  {
+    "code": "F7E1",
+    "brand": "Maytag",
+    "title": "Heating Element Error",
+    "fixes": "A heating element has failed. Test and replace the faulty Maytag heating element.",
+    "slug": "maytag-appliance-f7e1"
+  },
+  {
+    "code": "F8E1",
+    "brand": "Maytag",
+    "title": "Oven Overheating",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The oven has exceeded safe temperature. Turn off the Maytag oven and check the temperature sensor.",
+    "slug": "maytag-appliance-f8e1"
+  },
+  {
+    "code": "F9E1",
+    "brand": "Maytag",
+    "title": "Oven Door Unlatch Error",
+    "fixes": "The door will not unlatch. Manually release the Maytag door lock and check the mechanism.",
+    "slug": "maytag-appliance-f9e1"
+  },
+  {
+    "code": "F0E1",
+    "brand": "Maytag",
+    "title": "Control Board Communication Error",
+    "fixes": "The control boards cannot communicate. Check all Maytag wire connections.",
+    "slug": "maytag-appliance-fzeroe1"
+  },
+  {
+    "code": "UL",
+    "brand": "Maytag",
+    "title": "Unbalanced Load",
+    "fixes": "The load is unbalanced. Redistribute laundry evenly in the Maytag washer.",
+    "slug": "maytag-appliance-ul"
+  },
+  {
+    "code": "HC",
+    "brand": "Maytag",
+    "title": "Hot and Cold Reversed",
+    "fixes": "\u26a0\ufe0f PLUMBING: The hot and cold water lines are reversed. Correct the Maytag water connections.",
+    "slug": "maytag-appliance-hc"
+  },
+  {
+    "code": "F1E1",
+    "brand": "Whirlpool",
+    "title": "Control Board Error",
+    "fixes": "The control board has failed. Replace the Whirlpool dishwasher control board.",
+    "slug": "whirlpool-dishwasher-f1e1"
+  },
+  {
+    "code": "F2E1",
+    "brand": "Whirlpool",
+    "title": "Keypad Error",
+    "fixes": "The keypad has failed. Replace the Whirlpool control panel.",
+    "slug": "whirlpool-dishwasher-f2e1"
+  },
+  {
+    "code": "F3E1",
+    "brand": "Whirlpool",
+    "title": "Thermistor Error",
+    "fixes": "The thermistor has failed. Replace the Whirlpool temperature sensor.",
+    "slug": "whirlpool-dishwasher-f3e1"
+  },
+  {
+    "code": "F4E1",
+    "brand": "Whirlpool",
+    "title": "Water Inlet Error",
+    "fixes": "The water inlet valve has failed. Replace the Whirlpool water inlet valve.",
+    "slug": "whirlpool-dishwasher-f4e1"
+  },
+  {
+    "code": "F5E1",
+    "brand": "Whirlpool",
+    "title": "Door Latch Error",
+    "fixes": "The door latch has failed. Replace the Whirlpool door latch assembly.",
+    "slug": "whirlpool-dishwasher-f5e1"
+  },
+  {
+    "code": "F6E1",
+    "brand": "Whirlpool",
+    "title": "Flood Switch Error",
+    "fixes": "\u26a0\ufe0f LEAK: The flood switch has activated. Check for leaks in the Whirlpool dishwasher.",
+    "slug": "whirlpool-dishwasher-f6e1"
+  },
+  {
+    "code": "F7E1",
+    "brand": "Whirlpool",
+    "title": "Heating Element Error",
+    "fixes": "The heating element has failed. Replace the Whirlpool heating element.",
+    "slug": "whirlpool-dishwasher-f7e1"
+  },
+  {
+    "code": "F8E1",
+    "brand": "Whirlpool",
+    "title": "Slow Drain",
+    "fixes": "The dishwasher is draining slowly. Clean the Whirlpool drain system.",
+    "slug": "whirlpool-dishwasher-f8e1"
+  },
+  {
+    "code": "F9E1",
+    "brand": "Whirlpool",
+    "title": "Diverter Motor Error",
+    "fixes": "The diverter motor has failed. Replace the Whirlpool diverter motor.",
+    "slug": "whirlpool-dishwasher-f9e1"
+  },
+  {
+    "code": "FA E1",
+    "brand": "Whirlpool",
+    "title": "Vent Wax Motor Error",
+    "fixes": "The vent motor has failed. Replace the Whirlpool vent assembly.",
+    "slug": "whirlpool-dishwasher-fa-e1"
+  },
+  {
+    "code": "1-1",
+    "brand": "Whirlpool",
+    "title": "Water Fill Problem",
+    "fixes": "Water is not filling properly. Check the Whirlpool water supply and inlet valve.",
+    "slug": "whirlpool-dishwasher-1-1"
+  },
+  {
+    "code": "2-1",
+    "brand": "Whirlpool",
+    "title": "Drain Issue",
+    "fixes": "Water is not draining. Clean the Whirlpool drain filter and pump.",
+    "slug": "whirlpool-dishwasher-2-1"
+  },
+  {
+    "code": "3-1",
+    "brand": "Whirlpool",
+    "title": "Heating Problem",
+    "fixes": "Water is not heating. Check the Whirlpool heating element and thermostat.",
+    "slug": "whirlpool-dishwasher-3-1"
+  },
+  {
+    "code": "4-1",
+    "brand": "Whirlpool",
+    "title": "Wash Motor Error",
+    "fixes": "The wash motor has failed. Replace the Whirlpool wash motor assembly.",
+    "slug": "whirlpool-dishwasher-4-1"
+  },
+  {
+    "code": "5-1",
+    "brand": "Whirlpool",
+    "title": "Door Switch Error",
+    "fixes": "The door switch has failed. Replace the Whirlpool door switch.",
+    "slug": "whirlpool-dishwasher-5-1"
+  },
+  {
+    "code": "tS",
+    "brand": "Samsung",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor has failed. Replace the Samsung dryer thermistor.",
+    "slug": "samsung-dryer-ts"
+  },
+  {
+    "code": "HC",
+    "brand": "Samsung",
+    "title": "Compressor Error",
+    "fixes": "The heat pump compressor has failed in the Samsung heat pump dryer.",
+    "slug": "samsung-dryer-hc"
+  },
+  {
+    "code": "FC",
+    "brand": "Samsung",
+    "title": "Fan Error",
+    "fixes": "The fan motor has failed. Replace the Samsung dryer fan motor.",
+    "slug": "samsung-dryer-fc"
+  },
+  {
+    "code": "1 HC",
+    "brand": "Samsung",
+    "title": "High Temperature",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The dryer temperature is too high. Check the Samsung dryer vent system for blockages.",
+    "slug": "samsung-dryer-1-hc"
+  },
+  {
+    "code": "HE",
+    "brand": "Samsung",
+    "title": "Heating Element Error",
+    "fixes": "The heating element has failed. Replace the Samsung dryer heating element.",
+    "slug": "samsung-dryer-he"
+  },
+  {
+    "code": "tE",
+    "brand": "Samsung",
+    "title": "Thermistor Error",
+    "fixes": "The thermistor has failed. Replace the Samsung temperature sensor.",
+    "slug": "samsung-dryer-te"
+  },
+  {
+    "code": "FE",
+    "brand": "Samsung",
+    "title": "Fan Motor Error",
+    "fixes": "The fan motor has failed. Replace the Samsung dryer blower motor.",
+    "slug": "samsung-dryer-fe"
+  },
+  {
+    "code": "dO",
+    "brand": "Samsung",
+    "title": "Door Open Error",
+    "fixes": "The door is open or the switch has failed. Close the Samsung dryer door and check the door switch.",
+    "slug": "samsung-dryer-do"
+  },
+  {
+    "code": "d5",
+    "brand": "Samsung",
+    "title": "Door Lock Error",
+    "fixes": "The door lock has failed. Replace the Samsung door lock assembly.",
+    "slug": "samsung-dryer-d5"
+  },
+  {
+    "code": "bE",
+    "brand": "Samsung",
+    "title": "Button Error",
+    "fixes": "A button is stuck on the control panel. Clean or replace the Samsung control panel.",
+    "slug": "samsung-dryer-be"
+  },
+  {
+    "code": "AC",
+    "brand": "Samsung",
+    "title": "Communication Error",
+    "fixes": "The control boards cannot communicate. Check all Samsung wire connections.",
+    "slug": "samsung-dryer-ac"
+  },
+  {
+    "code": "tO",
+    "brand": "Samsung",
+    "title": "Temperature Too High",
+    "fixes": "\u26a0\ufe0f SAFETY: Temperature exceeded safe limits. Check the Samsung dryer vent and thermostats.",
+    "slug": "samsung-dryer-to"
+  },
+  {
+    "code": "gE",
+    "brand": "Samsung",
+    "title": "Gas Error",
+    "fixes": "\u26a0\ufe0f GAS: The gas ignition system has failed. Check the Samsung dryer gas valve and igniter.",
+    "slug": "samsung-dryer-ge"
+  },
+  {
+    "code": "FL",
+    "brand": "Samsung",
+    "title": "Filter Warning",
+    "fixes": "The lint filter needs cleaning. Clean the Samsung dryer lint filter.",
+    "slug": "samsung-dryer-fl"
+  },
+  {
+    "code": "t5",
+    "brand": "Samsung",
+    "title": "Moisture Sensor Error",
+    "fixes": "The moisture sensor has failed. Clean or replace the Samsung moisture sensor bars.",
+    "slug": "samsung-dryer-t5"
+  },
+  {
+    "code": "d80",
+    "brand": "LG",
+    "title": "Vent Blocked",
+    "fixes": "\u26a0\ufe0f FIRE HAZARD: The dryer vent is 80% blocked. Clean the LG dryer vent system immediately.",
+    "slug": "lg-dryer-d8zero"
+  },
+  {
+    "code": "d90",
+    "brand": "LG",
+    "title": "Vent Severely Blocked",
+    "fixes": "\u26a0\ufe0f DANGER: The dryer vent is 90% blocked. Clean the LG dryer vent system before using.",
+    "slug": "lg-dryer-d9zero"
+  },
+  {
+    "code": "d95",
+    "brand": "LG",
+    "title": "Vent Almost Completely Blocked",
+    "fixes": "\u26a0\ufe0f CRITICAL: The dryer vent is 95% blocked. Do not use the LG dryer until vent is cleaned.",
+    "slug": "lg-dryer-d95"
+  },
+  {
+    "code": "tE1",
+    "brand": "LG",
+    "title": "Thermistor 1 Error",
+    "fixes": "Thermistor 1 has failed. Replace the LG dryer inlet thermistor.",
+    "slug": "lg-dryer-te1"
+  },
+  {
+    "code": "tE2",
+    "brand": "LG",
+    "title": "Thermistor 2 Error",
+    "fixes": "Thermistor 2 has failed. Replace the LG dryer exhaust thermistor.",
+    "slug": "lg-dryer-te2"
+  },
+  {
+    "code": "HS",
+    "brand": "LG",
+    "title": "Humidity Sensor Error",
+    "fixes": "The humidity sensor has failed. Replace the LG moisture sensor assembly.",
+    "slug": "lg-dryer-hs"
+  },
+  {
+    "code": "PS",
+    "brand": "LG",
+    "title": "Pressure Switch Error",
+    "fixes": "The pressure switch has failed. Replace the LG dryer pressure switch.",
+    "slug": "lg-dryer-ps"
+  },
+  {
+    "code": "F0",
+    "brand": "LG",
+    "title": "Flow Sense Error",
+    "fixes": "Airflow is restricted. Clean the LG dryer lint filter and exhaust vent.",
+    "slug": "lg-dryer-fzero"
+  },
+  {
+    "code": "nP",
+    "brand": "LG",
+    "title": "No Power to Motor",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: No power to the motor. Check the LG dryer motor and control board.",
+    "slug": "lg-dryer-np"
+  },
+  {
+    "code": "tCS",
+    "brand": "LG",
+    "title": "Compressor Temperature Sensor Error",
+    "fixes": "The compressor sensor has failed in the LG heat pump dryer.",
+    "slug": "lg-dryer-tcs"
+  },
+  {
+    "code": "CL",
+    "brand": "LG",
+    "title": "Child Lock Active",
+    "fixes": "The child lock is enabled. Press and hold the child lock button to disable on the LG dryer.",
+    "slug": "lg-dryer-cl"
+  },
+  {
+    "code": "dE",
+    "brand": "LG",
+    "title": "Door Error",
+    "fixes": "The door is open or the switch has failed. Close the LG dryer door and check the door switch.",
+    "slug": "lg-dryer-de"
+  },
+  {
+    "code": "LE",
+    "brand": "LG",
+    "title": "Motor Lock Error",
+    "fixes": "The motor is locked or overloaded. Check for obstructions in the LG dryer drum.",
+    "slug": "lg-dryer-le"
+  },
+  {
+    "code": "OE",
+    "brand": "LG",
+    "title": "Drain Error",
+    "fixes": "Water is not draining (condensing dryer). Check the LG dryer drain pump and hose.",
+    "slug": "lg-dryer-oe"
+  },
+  {
+    "code": "PF",
+    "brand": "LG",
+    "title": "Power Failure",
+    "fixes": "A power failure occurred. Press START to resume the LG dryer cycle.",
+    "slug": "lg-dryer-pf"
+  },
+  {
+    "code": "F-01",
+    "brand": "Whirlpool",
+    "title": "Main Control Board Error",
+    "fixes": "The main control board has failed. Replace the Whirlpool dryer control board.",
+    "slug": "whirlpool-dryer-f-zero1"
+  },
+  {
+    "code": "F-02",
+    "brand": "Whirlpool",
+    "title": "Keypad Error",
+    "fixes": "The keypad has failed. Replace the Whirlpool dryer control panel.",
+    "slug": "whirlpool-dryer-f-zero2"
+  },
+  {
+    "code": "F-22",
+    "brand": "Whirlpool",
+    "title": "Exhaust Thermistor Error",
+    "fixes": "The exhaust thermistor has failed. Replace the Whirlpool exhaust sensor.",
+    "slug": "whirlpool-dryer-f-22"
+  },
+  {
+    "code": "F-23",
+    "brand": "Whirlpool",
+    "title": "Inlet Thermistor Error",
+    "fixes": "The inlet thermistor has failed. Replace the Whirlpool inlet sensor.",
+    "slug": "whirlpool-dryer-f-23"
+  },
+  {
+    "code": "F-26",
+    "brand": "Whirlpool",
+    "title": "Drive Motor Error",
+    "fixes": "The drive motor has failed. Replace the Whirlpool dryer motor.",
+    "slug": "whirlpool-dryer-f-26"
+  },
+  {
+    "code": "F-28",
+    "brand": "Whirlpool",
+    "title": "Moisture Sensor Error",
+    "fixes": "The moisture sensor has failed. Clean or replace the Whirlpool moisture sensor bars.",
+    "slug": "whirlpool-dryer-f-28"
+  },
+  {
+    "code": "F-29",
+    "brand": "Whirlpool",
+    "title": "Door Latch Error",
+    "fixes": "The door latch has failed. Replace the Whirlpool door latch assembly.",
+    "slug": "whirlpool-dryer-f-29"
+  },
+  {
+    "code": "PF",
+    "brand": "Whirlpool",
+    "title": "Power Failure",
+    "fixes": "A power failure occurred during the cycle. Press START to resume the Whirlpool dryer.",
+    "slug": "whirlpool-dryer-pf"
+  },
+  {
+    "code": "AF",
+    "brand": "Whirlpool",
+    "title": "Restricted Airflow",
+    "fixes": "\u26a0\ufe0f FIRE HAZARD: Airflow is severely restricted. Clean the Whirlpool dryer vent system.",
+    "slug": "whirlpool-dryer-af"
+  },
+  {
+    "code": "L2",
+    "brand": "Whirlpool",
+    "title": "Low Line Voltage",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The line voltage is too low. Check the Whirlpool dryer power supply (240V required).",
+    "slug": "whirlpool-dryer-l2"
+  },
+  {
+    "code": "E1",
+    "brand": "GE",
+    "title": "Thermistor Error",
+    "fixes": "The thermistor has failed. Replace the GE dryer temperature sensor.",
+    "slug": "ge-dryer-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "GE",
+    "title": "High Limit Thermostat Error",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The high limit thermostat has opened. Check the GE dryer vent system.",
+    "slug": "ge-dryer-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "GE",
+    "title": "Blower Motor Error",
+    "fixes": "The blower motor has failed. Replace the GE dryer blower motor.",
+    "slug": "ge-dryer-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "GE",
+    "title": "Door Switch Error",
+    "fixes": "The door switch has failed. Replace the GE dryer door switch.",
+    "slug": "ge-dryer-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "GE",
+    "title": "Drive Motor Error",
+    "fixes": "The drive motor has failed. Replace the GE dryer motor assembly.",
+    "slug": "ge-dryer-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "GE",
+    "title": "Moisture Sensor Error",
+    "fixes": "The moisture sensor has failed. Clean or replace the GE moisture sensor bars.",
+    "slug": "ge-dryer-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "GE",
+    "title": "Control Board Error",
+    "fixes": "The control board has failed. Replace the GE dryer control board.",
+    "slug": "ge-dryer-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "GE",
+    "title": "Heating Element Error",
+    "fixes": "The heating element has failed. Replace the GE dryer heating element.",
+    "slug": "ge-dryer-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "GE",
+    "title": "Gas Ignition Error",
+    "fixes": "\u26a0\ufe0f GAS: The gas ignition system has failed. Check the GE dryer igniter and gas valve.",
+    "slug": "ge-dryer-e9"
+  },
+  {
+    "code": "PF",
+    "brand": "GE",
+    "title": "Power Failure",
+    "fixes": "A power failure occurred. Press START to resume the GE dryer cycle.",
+    "slug": "ge-dryer-pf"
+  },
+  {
+    "code": "PC-E1",
+    "brand": "LG",
+    "title": "Position Sensor Error",
+    "fixes": "The position sensor has failed. Replace the LG position sensor.",
+    "slug": "lg-appliance-pc-e1"
+  },
+  {
+    "code": "PC-E2",
+    "brand": "LG",
+    "title": "Hall Effect Sensor Error",
+    "fixes": "The hall effect sensor is malfunctioning. Replace the LG hall sensor.",
+    "slug": "lg-appliance-pc-e2"
+  },
+  {
+    "code": "UC-E1",
+    "brand": "Samsung",
+    "title": "Under Voltage Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: Voltage is too low. Check Samsung appliance power supply.",
+    "slug": "samsung-appliance-uc-e1"
+  },
+  {
+    "code": "UC-E2",
+    "brand": "Samsung",
+    "title": "Over Voltage Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: Voltage is too high. Check Samsung appliance power supply.",
+    "slug": "samsung-appliance-uc-e2"
+  },
+  {
+    "code": "0xC1",
+    "brand": "Epson",
+    "title": "Fatal Error",
+    "fixes": "A fatal error has occurred. Restart the Epson printer immediately.",
+    "slug": "epson-printer-0xc1"
+  },
+  {
+    "code": "0xC2",
+    "brand": "Epson",
+    "title": "Hardware Malfunction",
+    "fixes": "Hardware has malfunctioned. Contact Epson service for repair.",
+    "slug": "epson-printer-0xc2"
+  },
+  {
+    "code": "0xC3",
+    "brand": "Epson",
+    "title": "Printhead Alignment Error",
+    "fixes": "Printhead alignment has failed. Run Epson printhead alignment utility.",
+    "slug": "epson-printer-0xc3"
+  },
+  {
+    "code": "0xC4",
+    "brand": "Epson",
+    "title": "Ink Delivery Error",
+    "fixes": "Ink delivery system has failed. Check all Epson ink tubes.",
+    "slug": "epson-printer-0xc4"
+  },
+  {
+    "code": "0xC5",
+    "brand": "Epson",
+    "title": "Maintenance Error",
+    "fixes": "Maintenance system error. Contact Epson support for service.",
+    "slug": "epson-printer-0xc5"
+  },
+  {
+    "code": "79.00FD",
+    "brand": "HP",
+    "title": "Firmware Critical Error",
+    "fixes": "Critical firmware error. Update HP printer firmware to latest version.",
+    "slug": "hp-printer-79-00fd"
+  },
+  {
+    "code": "79.00FC",
+    "brand": "HP",
+    "title": "Firmware Corruption",
+    "fixes": "Firmware is corrupted. Reinstall HP printer firmware.",
+    "slug": "hp-printer-79-00fc"
+  },
+  {
+    "code": "79.00FB",
+    "brand": "HP",
+    "title": "Firmware Update Failed",
+    "fixes": "Firmware update has failed. Retry HP firmware update process.",
+    "slug": "hp-printer-79-00fb"
+  },
+  {
+    "code": "79.00FA",
+    "brand": "HP",
+    "title": "Memory Allocation Error",
+    "fixes": "Memory allocation failed. Restart HP printer and reduce job complexity.",
+    "slug": "hp-printer-79-00fa"
+  },
+  {
+    "code": "79.00F9",
+    "brand": "HP",
+    "title": "Processing Error",
+    "fixes": "Print processing error. Restart HP printer and resend job.",
+    "slug": "hp-printer-79-00f9"
+  },
+  {
+    "code": "79.00F8",
+    "brand": "HP",
+    "title": "Data Stream Error",
+    "fixes": "Data stream corruption. Check HP printer connection and resend job.",
+    "slug": "hp-printer-79-00f8"
   }
 ]

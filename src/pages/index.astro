@@ -1,19 +1,27 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import errorsData from '../data/errors.json';
+import { config } from '../config';
 
-// Limit to first 100 items for performance
-const errors = errorsData.slice(0, 100);
+// Load data based on site mode
+let data;
+if (config.dataFile === 'layoffs.json') {
+	const layoffsData = await import('../data/layoffs.json');
+	data = layoffsData.default;
+} else {
+	const errorsData = await import('../data/errors.json');
+	// Limit to first 100 items for performance
+	data = errorsData.default.slice(0, 100);
+}
 ---
 
-<Layout title="RepairHelper - Find Appliance Error Code Fixes Fast" meta="Search thousands of appliance error codes and find replacement parts instantly. Get expert fixes for Whirlpool, Samsung, LG, Bosch, and more.">
+<Layout title={`${config.title} - ${config.subtitle}`} meta={config.metaDescription}>
 	<!-- Hero Section -->
 	<div class="text-center py-12 sm:py-16">
 		<h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 tracking-tight mb-4">
-			Find Replacement Parts & Fixes <span class="text-blue-600">Fast</span>
+			{config.subtitle.split(' ').slice(0, -1).join(' ')} <span class={`text-${config.theme}`}>{config.subtitle.split(' ').slice(-1)}</span>
 		</h1>
 		<p class="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
-			Search thousands of appliance error codes. Get instant solutions and find the right replacement parts.
+			{config.metaDescription}
 		</p>
 		
 		<!-- Search Bar -->
@@ -38,18 +46,18 @@ const errors = errorsData.slice(0, 100);
 	</div>
 
 	<!-- Stats Section -->
-	<div class="bg-blue-50 rounded-2xl p-8 mb-12">
+	<div class={`bg-${config.theme.replace('-600', '-50')} rounded-2xl p-8 mb-12`}>
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
 			<div>
-				<div class="text-4xl font-bold text-blue-600 mb-2">{errors.length}+</div>
-				<div class="text-gray-600">Error Codes</div>
+				<div class={`text-4xl font-bold text-${config.theme} mb-2`}>{data.length}+</div>
+				<div class="text-gray-600">{config.dataFile === 'layoffs.json' ? 'WARN Notices' : 'Error Codes'}</div>
 			</div>
 			<div>
-				<div class="text-4xl font-bold text-blue-600 mb-2">{new Set(errors.map(e => e.brand)).size}</div>
-				<div class="text-gray-600">Major Brands</div>
+				<div class={`text-4xl font-bold text-${config.theme} mb-2`}>{new Set(data.map(e => e.brand)).size}</div>
+				<div class="text-gray-600">{config.dataFile === 'layoffs.json' ? 'Companies' : 'Major Brands'}</div>
 			</div>
 			<div>
-				<div class="text-4xl font-bold text-blue-600 mb-2">24/7</div>
+				<div class={`text-4xl font-bold text-${config.theme} mb-2`}>24/7</div>
 				<div class="text-gray-600">Instant Access</div>
 			</div>
 		</div>
@@ -57,12 +65,12 @@ const errors = errorsData.slice(0, 100);
 
 	<!-- Error Codes Grid -->
 	<div class="mb-16">
-		<h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">Browse All Error Codes</h2>
+		<h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">{config.dataFile === 'layoffs.json' ? 'Browse All Layoffs' : 'Browse All Error Codes'}</h2>
 		<div id="errorGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-			{errors.map((error) => (
+			{data.map((error) => (
 				<a 
 					href={`/${error.slug.toString().toLowerCase().trim()}`}
-					class="error-card group bg-white p-6 rounded-xl border-2 border-gray-200 hover:border-blue-500 hover:shadow-lg transition duration-200 ease-in-out"
+					class={`error-card group bg-white p-6 rounded-xl border-2 border-gray-200 hover:border-${config.theme} hover:shadow-lg transition duration-200 ease-in-out`}
 					data-code={error.code.toLowerCase()}
 					data-brand={error.brand.toLowerCase()}
 					data-title={error.title.toLowerCase()}
@@ -70,9 +78,9 @@ const errors = errorsData.slice(0, 100);
 					<div class="flex items-start justify-between mb-3">
 						<div>
 							<div class="text-sm font-medium text-gray-500 mb-1">{error.brand}</div>
-							<h3 class="text-2xl font-bold text-gray-900 group-hover:text-blue-600">{error.code}</h3>
+							<h3 class={`text-2xl font-bold text-gray-900 group-hover:text-${config.theme}`}>{config.dataFile === 'layoffs.json' ? error.title.split(' ').slice(-1) : error.code}</h3>
 						</div>
-						<svg class="h-5 w-5 text-gray-400 group-hover:text-blue-600 transform group-hover:translate-x-1 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+						<svg class={`h-5 w-5 text-gray-400 group-hover:text-${config.theme} transform group-hover:translate-x-1 transition-transform flex-shrink-0`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
 							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
 						</svg>
 					</div>
