@@ -67,9 +67,11 @@ if (config.dataFile === 'layoffs.json') {
 	<div class="mb-16">
 		<h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">{config.dataFile === 'layoffs.json' ? 'Browse All Layoffs' : 'Browse All Error Codes'}</h2>
 		<div id="errorGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-			{data.map((error) => (
+			{data.map((error) => {
+				if (!error.slug) return null;
+				return (
 				<a 
-					href={`/${error.slug.toString().toLowerCase().trim()}`}
+					href={`/${error.slug?.toString().toLowerCase().trim()}`}
 					class={`error-card group bg-white p-6 rounded-xl border-2 border-gray-200 hover:border-${config.theme} hover:shadow-lg transition duration-200 ease-in-out`}
 					data-code={error.code.toLowerCase()}
 					data-brand={error.brand.toLowerCase()}
@@ -86,7 +88,8 @@ if (config.dataFile === 'layoffs.json') {
 					</div>
 					<p class="text-gray-600 text-sm line-clamp-2">{error.title}</p>
 				</a>
-			))}
+				);
+			})}
 		</div>
 		<div id="noResults" class="hidden text-center py-12">
 			<p class="text-xl text-gray-600">No error codes found matching your search.</p>
