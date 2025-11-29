@@ -12,13 +12,13 @@ interface SiteConfig {
 
 const configs: Record<string, SiteConfig> = {
     layoffs: {
-        theme: 'red-600',
-        title: 'WarnTracker',
-        subtitle: 'Track WARN Notices & Mass Layoffs',
-        ctaText: 'Get Resume Help',
-        ctaLink: 'https://resume.io',
+        theme: 'indigo-600',
+        title: 'ErrorCodeHelp',
+        subtitle: 'OBD2 & System Error Database',
+        ctaText: 'Get Best OBD2 Scanner',
+        ctaLink: 'https://www.amazon.com/s?k=obd2+scanner&tag=applianceerror-20',
         dataFile: 'layoffs.json',
-        metaDescription: 'Track WARN notices and mass layoffs across companies. Stay informed about workforce reductions and employment changes.',
+        metaDescription: 'Comprehensive database of OBD2 and system error codes. Find meanings, causes, and fixes for your check engine light.',
     },
     errors: {
         theme: 'green-600',

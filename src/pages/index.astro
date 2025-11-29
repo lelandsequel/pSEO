@@ -17,10 +17,10 @@ const cleanData = rawData.filter((item) => {
 });
 
 // 4. Config variables
-const title = isLayoffSite ? "WarnTracker" : "RepairHelper";
-const subtitle = isLayoffSite ? "Track Mass Layoffs & WARN Notices" : "Find Replacement Parts & Fixes Fast";
-const placeholder = isLayoffSite ? "Search companies (e.g. Tesla, Google)..." : "Search error codes (e.g. F01, Samsung)...";
-const theme = isLayoffSite ? "bg-red-600" : "bg-blue-600";
+const title = isLayoffSite ? "ErrorCodeHelp" : "RepairHelper";
+const subtitle = isLayoffSite ? "OBD2 & System Error Database" : "Find Replacement Parts & Fixes Fast";
+const placeholder = isLayoffSite ? "Search OBD2 codes (e.g. P0300)..." : "Search error codes (e.g. F01, Samsung)...";
+const theme = isLayoffSite ? "bg-indigo-600" : "bg-blue-600";
 ---
 
 <Layout title={title} meta={subtitle}>
