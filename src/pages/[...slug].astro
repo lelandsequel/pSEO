@@ -34,7 +34,8 @@ const { item } = Astro.props;
 // Monetization Logic
 const brand = item?.brand || "Appliance";
 const code = item?.code || "";
-const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(brand)}+${encodeURIComponent(code)}+replacement+part&tag=YOUR_TAG-20`;
+const model = "washer"; // Default model type
+const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(brand)}+${encodeURIComponent(model)}+error+${encodeURIComponent(code)}+replacement+part&tag=applianceerro-20`;
 
 ---
 
