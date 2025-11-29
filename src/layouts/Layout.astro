@@ -1,0 +1,66 @@
+---
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+    meta?: string;
+}
+
+const { title, meta } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={meta || "Astro description"} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body class="bg-gray-50 flex flex-col min-h-screen font-sans text-gray-900">
+        <!-- Navbar -->
+        <nav class="bg-white border-b border-gray-200 sticky top-0 z-50">
+            <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex justify-between h-16">
+                    <div class="flex">
+                        <div class="flex-shrink-0 flex items-center">
+                            <a href="/" class="text-xl font-bold text-blue-600 tracking-tight">RepairHelper</a>
+                        </div>
+                    </div>
+                    <div class="flex items-center">
+                        <div class="relative">
+                            <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                <svg class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                                </svg>
+                            </div>
+                            <input type="text" placeholder="Search Errors..." class="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-gray-50 placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition duration-150 ease-in-out" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+		<main class="flex-grow max-w-4xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8">
+			<slot />
+		</main>
+
+        <!-- Footer -->
+        <footer class="bg-white border-t border-gray-200 mt-auto">
+            <div class="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
+                <div class="md:flex md:items-center md:justify-between">
+                    <div class="flex justify-center md:order-2 space-x-6">
+                        <a href="#" class="text-gray-400 hover:text-gray-500">Privacy Policy</a>
+                        <a href="#" class="text-gray-400 hover:text-gray-500">Disclaimer</a>
+                    </div>
+                    <div class="mt-8 md:mt-0 md:order-1">
+                        <p class="text-center text-base text-gray-400">&copy; {new Date().getFullYear()} RepairHelper. All rights reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+	</body>
+</html>

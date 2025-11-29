@@ -1,0 +1,121 @@
+---
+import Layout from '../layouts/Layout.astro';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+
+export async function getStaticPaths() {
+  const siteId = import.meta.env.SITE_ID || process.env.SITE_ID;
+  
+  if (!siteId) {
+      console.warn("No SITE_ID set, returning empty paths");
+      return [];
+  }
+
+  // In dev mode, process.cwd() is the project root.
+  // In build, it might be different, but for this task we are running dev.
+  const dataPath = path.join(process.cwd(), 'src/data', `${siteId}.json`);
+  
+  try {
+    const fileContent = await fs.readFile(dataPath, 'utf-8');
+    const data = JSON.parse(fileContent);
+    
+    return data.map((item: any) => ({
+      params: { slug: item.code },
+      props: { item },
+    }));
+  } catch (error) {
+    console.error(`Error loading data from ${dataPath}:`, error);
+    return [];
+  }
+}
+
+const { item } = Astro.props;
+
+// Monetization Logic
+const brand = item?.brand || "Appliance";
+const code = item?.code || "";
+const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(brand)}+${encodeURIComponent(code)}+replacement+part&tag=YOUR_TAG-20`;
+
+---
+
+<Layout title={item ? `${item.code} Error Code Fix` : 'Not Found'} meta={item ? `Learn how to fix the ${item.code} error code. Potential causes and solutions.` : ''}>
+    {item ? (
+        <div class="space-y-8">
+            <!-- Header Section -->
+            <div class="border-b border-gray-200 pb-5">
+                <h3 class="text-lg leading-6 font-medium text-gray-900">
+                    Error Code Troubleshooting
+                </h3>
+                <h1 class="mt-2 text-4xl font-extrabold text-gray-900 tracking-tight sm:text-5xl">
+                    {item.code}: <span class="text-blue-600">{item.title}</span>
+                </h1>
+            </div>
+
+            <!-- Potential Fixes Section -->
+            <div class="bg-white overflow-hidden shadow rounded-lg border border-gray-200">
+                <div class="px-4 py-5 sm:p-6">
+                    <h2 class="text-lg font-medium text-gray-900 mb-4 flex items-center">
+                        <svg class="h-5 w-5 text-green-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        Potential Fixes
+                    </h2>
+                    <div class="prose max-w-none text-gray-600">
+                        <p>{item.fixes}</p>
+                    </div>
+                    
+                    <!-- CTA Button -->
+                    <div class="mt-6">
+                        <a href={amazonUrl} target="_blank" rel="noopener noreferrer" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700 md:py-4 md:text-lg md:px-10 transition duration-150 ease-in-out shadow-sm hover:shadow-lg transform hover:-translate-y-0.5">
+                            Find Replacement Part for {item.code}
+                            <svg class="ml-2 -mr-1 h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                            </svg>
+                        </a>
+                        <p class="mt-2 text-center text-sm text-gray-500">
+                            Fast shipping • 365-day return policy
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Symptoms Section -->
+            <div class="bg-white overflow-hidden shadow rounded-lg border border-gray-200">
+                <div class="px-4 py-5 sm:p-6">
+                    <h2 class="text-lg font-medium text-gray-900 mb-4">Common Symptoms</h2>
+                    <ul class="list-disc pl-5 space-y-2 text-gray-600">
+                        <li>Appliance stops mid-cycle.</li>
+                        <li>Display flashes "{item.code}" repeatedly.</li>
+                        <li>Beeping sound accompanies the error code.</li>
+                        <li>Door may remain locked or fail to open.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Related Errors Section -->
+            <div>
+                <h2 class="text-2xl font-bold text-gray-900 mb-4">Related Error Codes</h2>
+                <div class="grid grid-cols-1 gap-4 sm:grid-cols-3">
+                    <a href="/F02" class="block p-6 bg-white rounded-lg border border-gray-200 hover:shadow-md transition duration-150 ease-in-out">
+                        <h3 class="text-lg font-bold text-gray-900">F02</h3>
+                        <p class="text-sm text-gray-500 mt-1">Door Lock Fault</p>
+                    </a>
+                    <a href="/4E" class="block p-6 bg-white rounded-lg border border-gray-200 hover:shadow-md transition duration-150 ease-in-out">
+                        <h3 class="text-lg font-bold text-gray-900">4E</h3>
+                        <p class="text-sm text-gray-500 mt-1">Water Supply Error</p>
+                    </a>
+                    <a href="/IE" class="block p-6 bg-white rounded-lg border border-gray-200 hover:shadow-md transition duration-150 ease-in-out">
+                        <h3 class="text-lg font-bold text-gray-900">IE</h3>
+                        <p class="text-sm text-gray-500 mt-1">Inlet Error</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    ) : (
+        <div class="text-center py-20">
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">404 - Error Not Found</h1>
+            <p class="text-gray-600 mb-8">We couldn't find the error code you're looking for.</p>
+            <a href="/" class="text-blue-600 hover:text-blue-800 font-medium">Go back home</a>
+        </div>
+    )}
+</Layout>
