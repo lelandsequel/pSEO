@@ -3498,5 +3498,2616 @@
     "title": "P0500: Computer Output Circuits Generic Error",
     "content": "The P0500 code indicates a issue within the Computer Output Circuits. This is a generic powertrain code, which means it covers all makes and models of vehicles. When this code is triggered, the Check Engine Light will illuminate on your dashboard. Diagnosing P0500 typically requires an OBD2 scanner to read the specific freeze frame data.",
     "code": "P0500"
+  },
+  {
+    "slug": "bmw-code-cc-id-003-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-003: Central Control ID Issue",
+    "content": "The CC-ID-003 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-003"
+  },
+  {
+    "slug": "bmw-code-cc-id-014-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-014: Central Control ID Issue",
+    "content": "The CC-ID-014 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-014"
+  },
+  {
+    "slug": "bmw-code-cc-id-015-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-015: Central Control ID Issue",
+    "content": "The CC-ID-015 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-015"
+  },
+  {
+    "slug": "bmw-code-cc-id-001-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-001: Central Control ID Issue",
+    "content": "The CC-ID-001 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-001"
+  },
+  {
+    "slug": "bmw-code-cc-id-034-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-034: Central Control ID Issue",
+    "content": "The CC-ID-034 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-034"
+  },
+  {
+    "slug": "bmw-code-cc-id-038-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-038: Central Control ID Issue",
+    "content": "The CC-ID-038 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-038"
+  },
+  {
+    "slug": "bmw-code-cc-id-033-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-033: Central Control ID Issue",
+    "content": "The CC-ID-033 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-033"
+  },
+  {
+    "slug": "bmw-code-cc-id-040-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-040: Central Control ID Issue",
+    "content": "The CC-ID-040 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-040"
+  },
+  {
+    "slug": "bmw-code-cc-id-008-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-008: Central Control ID Issue",
+    "content": "The CC-ID-008 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-008"
+  },
+  {
+    "slug": "bmw-code-cc-id-011-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-011: Central Control ID Issue",
+    "content": "The CC-ID-011 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-011"
+  },
+  {
+    "slug": "bmw-code-cc-id-007-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-007: Central Control ID Issue",
+    "content": "The CC-ID-007 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-007"
+  },
+  {
+    "slug": "bmw-code-cc-id-005-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-005: Central Control ID Issue",
+    "content": "The CC-ID-005 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-005"
+  },
+  {
+    "slug": "bmw-code-cc-id-010-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-010: Central Control ID Issue",
+    "content": "The CC-ID-010 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-010"
+  },
+  {
+    "slug": "bmw-code-cc-id-043-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-043: Central Control ID Issue",
+    "content": "The CC-ID-043 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-043"
+  },
+  {
+    "slug": "bmw-code-cc-id-039-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-039: Central Control ID Issue",
+    "content": "The CC-ID-039 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-039"
+  },
+  {
+    "slug": "bmw-code-cc-id-031-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-031: Central Control ID Issue",
+    "content": "The CC-ID-031 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-031"
+  },
+  {
+    "slug": "bmw-code-cc-id-032-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-032: Central Control ID Issue",
+    "content": "The CC-ID-032 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-032"
+  },
+  {
+    "slug": "bmw-code-cc-id-047-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-047: Central Control ID Issue",
+    "content": "The CC-ID-047 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-047"
+  },
+  {
+    "slug": "bmw-code-cc-id-004-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-004: Central Control ID Issue",
+    "content": "The CC-ID-004 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-004"
+  },
+  {
+    "slug": "bmw-code-cc-id-006-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-006: Central Control ID Issue",
+    "content": "The CC-ID-006 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-006"
+  },
+  {
+    "slug": "bmw-code-cc-id-017-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-017: Central Control ID Issue",
+    "content": "The CC-ID-017 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-017"
+  },
+  {
+    "slug": "bmw-code-cc-id-041-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-041: Central Control ID Issue",
+    "content": "The CC-ID-041 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-041"
+  },
+  {
+    "slug": "bmw-code-cc-id-030-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-030: Central Control ID Issue",
+    "content": "The CC-ID-030 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-030"
+  },
+  {
+    "slug": "bmw-code-cc-id-044-fix",
+    "brand": "BMW",
+    "title": "BMW Code CC-ID-044: Central Control ID Issue",
+    "content": "The CC-ID-044 code in BMW vehicles indicates a central control id malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the central control id.",
+    "code": "CC-ID-044"
+  },
+  {
+    "slug": "bmw-code-2a11-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A11: DMTL System Issue",
+    "content": "The 2A11 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A11"
+  },
+  {
+    "slug": "bmw-code-2a0f-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A0F: DMTL System Issue",
+    "content": "The 2A0F code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A0F"
+  },
+  {
+    "slug": "bmw-code-2a17-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A17: DMTL System Issue",
+    "content": "The 2A17 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A17"
+  },
+  {
+    "slug": "bmw-code-2a08-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A08: DMTL System Issue",
+    "content": "The 2A08 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A08"
+  },
+  {
+    "slug": "bmw-code-2a36-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A36: DMTL System Issue",
+    "content": "The 2A36 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A36"
+  },
+  {
+    "slug": "bmw-code-2a05-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A05: DMTL System Issue",
+    "content": "The 2A05 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A05"
+  },
+  {
+    "slug": "bmw-code-2a25-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A25: DMTL System Issue",
+    "content": "The 2A25 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A25"
+  },
+  {
+    "slug": "bmw-code-2a0a-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A0A: DMTL System Issue",
+    "content": "The 2A0A code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A0A"
+  },
+  {
+    "slug": "bmw-code-2a1e-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A1E: DMTL System Issue",
+    "content": "The 2A1E code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A1E"
+  },
+  {
+    "slug": "bmw-code-2a3f-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A3F: DMTL System Issue",
+    "content": "The 2A3F code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A3F"
+  },
+  {
+    "slug": "bmw-code-2a29-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A29: DMTL System Issue",
+    "content": "The 2A29 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A29"
+  },
+  {
+    "slug": "bmw-code-2a0b-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A0B: DMTL System Issue",
+    "content": "The 2A0B code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A0B"
+  },
+  {
+    "slug": "bmw-code-2a0d-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A0D: DMTL System Issue",
+    "content": "The 2A0D code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A0D"
+  },
+  {
+    "slug": "bmw-code-2a28-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A28: DMTL System Issue",
+    "content": "The 2A28 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A28"
+  },
+  {
+    "slug": "bmw-code-2a2e-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A2E: DMTL System Issue",
+    "content": "The 2A2E code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A2E"
+  },
+  {
+    "slug": "bmw-code-2a09-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A09: DMTL System Issue",
+    "content": "The 2A09 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A09"
+  },
+  {
+    "slug": "bmw-code-2a1b-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A1B: DMTL System Issue",
+    "content": "The 2A1B code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A1B"
+  },
+  {
+    "slug": "bmw-code-2a33-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A33: DMTL System Issue",
+    "content": "The 2A33 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A33"
+  },
+  {
+    "slug": "bmw-code-2a3e-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A3E: DMTL System Issue",
+    "content": "The 2A3E code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A3E"
+  },
+  {
+    "slug": "bmw-code-2a2d-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A2D: DMTL System Issue",
+    "content": "The 2A2D code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A2D"
+  },
+  {
+    "slug": "bmw-code-2a20-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A20: DMTL System Issue",
+    "content": "The 2A20 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A20"
+  },
+  {
+    "slug": "bmw-code-2a1c-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A1C: DMTL System Issue",
+    "content": "The 2A1C code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A1C"
+  },
+  {
+    "slug": "bmw-code-2a45-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A45: DMTL System Issue",
+    "content": "The 2A45 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A45"
+  },
+  {
+    "slug": "bmw-code-2a04-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A04: DMTL System Issue",
+    "content": "The 2A04 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A04"
+  },
+  {
+    "slug": "bmw-code-2a40-fix",
+    "brand": "BMW",
+    "title": "BMW Code 2A40: DMTL System Issue",
+    "content": "The 2A40 code in BMW vehicles indicates a dmtl system malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the dmtl system.",
+    "code": "2A40"
+  },
+  {
+    "slug": "bmw-code-4f1c-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F1C: Transmission Control Issue",
+    "content": "The 4F1C code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F1C"
+  },
+  {
+    "slug": "bmw-code-4f0b-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F0B: Transmission Control Issue",
+    "content": "The 4F0B code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F0B"
+  },
+  {
+    "slug": "bmw-code-4f09-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F09: Transmission Control Issue",
+    "content": "The 4F09 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F09"
+  },
+  {
+    "slug": "bmw-code-4f18-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F18: Transmission Control Issue",
+    "content": "The 4F18 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F18"
+  },
+  {
+    "slug": "bmw-code-4f29-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F29: Transmission Control Issue",
+    "content": "The 4F29 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F29"
+  },
+  {
+    "slug": "bmw-code-4f05-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F05: Transmission Control Issue",
+    "content": "The 4F05 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F05"
+  },
+  {
+    "slug": "bmw-code-4f04-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F04: Transmission Control Issue",
+    "content": "The 4F04 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F04"
+  },
+  {
+    "slug": "bmw-code-4f14-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F14: Transmission Control Issue",
+    "content": "The 4F14 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F14"
+  },
+  {
+    "slug": "bmw-code-4f22-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F22: Transmission Control Issue",
+    "content": "The 4F22 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F22"
+  },
+  {
+    "slug": "bmw-code-4f20-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F20: Transmission Control Issue",
+    "content": "The 4F20 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F20"
+  },
+  {
+    "slug": "bmw-code-4f26-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F26: Transmission Control Issue",
+    "content": "The 4F26 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F26"
+  },
+  {
+    "slug": "bmw-code-4f1e-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F1E: Transmission Control Issue",
+    "content": "The 4F1E code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F1E"
+  },
+  {
+    "slug": "bmw-code-4f00-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F00: Transmission Control Issue",
+    "content": "The 4F00 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F00"
+  },
+  {
+    "slug": "bmw-code-4f2f-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F2F: Transmission Control Issue",
+    "content": "The 4F2F code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F2F"
+  },
+  {
+    "slug": "bmw-code-4f19-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F19: Transmission Control Issue",
+    "content": "The 4F19 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: service engine soon light. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F19"
+  },
+  {
+    "slug": "bmw-code-4f08-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F08: Transmission Control Issue",
+    "content": "The 4F08 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F08"
+  },
+  {
+    "slug": "bmw-code-4f2e-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F2E: Transmission Control Issue",
+    "content": "The 4F2E code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F2E"
+  },
+  {
+    "slug": "bmw-code-4f12-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F12: Transmission Control Issue",
+    "content": "The 4F12 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F12"
+  },
+  {
+    "slug": "bmw-code-4f2c-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F2C: Transmission Control Issue",
+    "content": "The 4F2C code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: transmission shifting issues. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F2C"
+  },
+  {
+    "slug": "bmw-code-4f27-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F27: Transmission Control Issue",
+    "content": "The 4F27 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: check engine light illuminated. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F27"
+  },
+  {
+    "slug": "bmw-code-4f15-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F15: Transmission Control Issue",
+    "content": "The 4F15 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F15"
+  },
+  {
+    "slug": "bmw-code-4f0f-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F0F: Transmission Control Issue",
+    "content": "The 4F0F code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F0F"
+  },
+  {
+    "slug": "bmw-code-4f16-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F16: Transmission Control Issue",
+    "content": "The 4F16 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: reduced engine performance. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F16"
+  },
+  {
+    "slug": "bmw-code-4f17-fix",
+    "brand": "BMW",
+    "title": "BMW Code 4F17: Transmission Control Issue",
+    "content": "The 4F17 code in BMW vehicles indicates a transmission control malfunction. Common symptoms include: rough idle or stalling. This is a manufacturer-specific code that requires a BMW-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the transmission control.",
+    "code": "4F17"
+  },
+  {
+    "slug": "ford-code-p1286-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1286: Powertrain Issue",
+    "content": "The P1286 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1286"
+  },
+  {
+    "slug": "ford-code-p1131-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1131: Powertrain Issue",
+    "content": "The P1131 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1131"
+  },
+  {
+    "slug": "ford-code-p1246-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1246: Powertrain Issue",
+    "content": "The P1246 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1246"
+  },
+  {
+    "slug": "ford-code-p1234-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1234: Powertrain Issue",
+    "content": "The P1234 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1234"
+  },
+  {
+    "slug": "ford-code-p1120-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1120: Powertrain Issue",
+    "content": "The P1120 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1120"
+  },
+  {
+    "slug": "ford-code-p1226-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1226: Powertrain Issue",
+    "content": "The P1226 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1226"
+  },
+  {
+    "slug": "ford-code-p1168-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1168: Powertrain Issue",
+    "content": "The P1168 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1168"
+  },
+  {
+    "slug": "ford-code-p1240-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1240: Powertrain Issue",
+    "content": "The P1240 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1240"
+  },
+  {
+    "slug": "ford-code-p1165-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1165: Powertrain Issue",
+    "content": "The P1165 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1165"
+  },
+  {
+    "slug": "ford-code-p1275-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1275: Powertrain Issue",
+    "content": "The P1275 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1275"
+  },
+  {
+    "slug": "ford-code-p1166-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1166: Powertrain Issue",
+    "content": "The P1166 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1166"
+  },
+  {
+    "slug": "ford-code-p1110-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1110: Powertrain Issue",
+    "content": "The P1110 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1110"
+  },
+  {
+    "slug": "ford-code-p1194-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1194: Powertrain Issue",
+    "content": "The P1194 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1194"
+  },
+  {
+    "slug": "ford-code-p1118-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1118: Powertrain Issue",
+    "content": "The P1118 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1118"
+  },
+  {
+    "slug": "ford-code-p1273-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1273: Powertrain Issue",
+    "content": "The P1273 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1273"
+  },
+  {
+    "slug": "ford-code-p1180-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1180: Powertrain Issue",
+    "content": "The P1180 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1180"
+  },
+  {
+    "slug": "ford-code-p1205-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1205: Powertrain Issue",
+    "content": "The P1205 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1205"
+  },
+  {
+    "slug": "ford-code-p1117-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1117: Powertrain Issue",
+    "content": "The P1117 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1117"
+  },
+  {
+    "slug": "ford-code-p1187-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1187: Powertrain Issue",
+    "content": "The P1187 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1187"
+  },
+  {
+    "slug": "ford-code-p1122-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1122: Powertrain Issue",
+    "content": "The P1122 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1122"
+  },
+  {
+    "slug": "ford-code-p1298-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1298: Powertrain Issue",
+    "content": "The P1298 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1298"
+  },
+  {
+    "slug": "ford-code-p1213-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1213: Powertrain Issue",
+    "content": "The P1213 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1213"
+  },
+  {
+    "slug": "ford-code-p1272-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1272: Powertrain Issue",
+    "content": "The P1272 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1272"
+  },
+  {
+    "slug": "ford-code-p1206-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1206: Powertrain Issue",
+    "content": "The P1206 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1206"
+  },
+  {
+    "slug": "ford-code-p1144-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1144: Powertrain Issue",
+    "content": "The P1144 code in Ford vehicles indicates a powertrain malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the powertrain.",
+    "code": "P1144"
+  },
+  {
+    "slug": "ford-code-p1618-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1618: Fuel System Issue",
+    "content": "The P1618 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1618"
+  },
+  {
+    "slug": "ford-code-p1445-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1445: Fuel System Issue",
+    "content": "The P1445 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1445"
+  },
+  {
+    "slug": "ford-code-p1641-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1641: Fuel System Issue",
+    "content": "The P1641 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1641"
+  },
+  {
+    "slug": "ford-code-p1681-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1681: Fuel System Issue",
+    "content": "The P1681 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1681"
+  },
+  {
+    "slug": "ford-code-p1666-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1666: Fuel System Issue",
+    "content": "The P1666 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1666"
+  },
+  {
+    "slug": "ford-code-p1644-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1644: Fuel System Issue",
+    "content": "The P1644 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1644"
+  },
+  {
+    "slug": "ford-code-p1539-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1539: Fuel System Issue",
+    "content": "The P1539 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1539"
+  },
+  {
+    "slug": "ford-code-p1469-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1469: Fuel System Issue",
+    "content": "The P1469 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1469"
+  },
+  {
+    "slug": "ford-code-p1431-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1431: Fuel System Issue",
+    "content": "The P1431 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1431"
+  },
+  {
+    "slug": "ford-code-p1668-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1668: Fuel System Issue",
+    "content": "The P1668 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1668"
+  },
+  {
+    "slug": "ford-code-p1479-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1479: Fuel System Issue",
+    "content": "The P1479 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1479"
+  },
+  {
+    "slug": "ford-code-p1656-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1656: Fuel System Issue",
+    "content": "The P1656 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1656"
+  },
+  {
+    "slug": "ford-code-p1425-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1425: Fuel System Issue",
+    "content": "The P1425 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1425"
+  },
+  {
+    "slug": "ford-code-p1485-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1485: Fuel System Issue",
+    "content": "The P1485 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1485"
+  },
+  {
+    "slug": "ford-code-p1411-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1411: Fuel System Issue",
+    "content": "The P1411 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1411"
+  },
+  {
+    "slug": "ford-code-p1689-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1689: Fuel System Issue",
+    "content": "The P1689 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1689"
+  },
+  {
+    "slug": "ford-code-p1572-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1572: Fuel System Issue",
+    "content": "The P1572 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1572"
+  },
+  {
+    "slug": "ford-code-p1410-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1410: Fuel System Issue",
+    "content": "The P1410 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1410"
+  },
+  {
+    "slug": "ford-code-p1545-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1545: Fuel System Issue",
+    "content": "The P1545 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1545"
+  },
+  {
+    "slug": "ford-code-p1648-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1648: Fuel System Issue",
+    "content": "The P1648 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1648"
+  },
+  {
+    "slug": "ford-code-p1447-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1447: Fuel System Issue",
+    "content": "The P1447 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1447"
+  },
+  {
+    "slug": "ford-code-p1441-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1441: Fuel System Issue",
+    "content": "The P1441 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1441"
+  },
+  {
+    "slug": "ford-code-p1474-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1474: Fuel System Issue",
+    "content": "The P1474 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1474"
+  },
+  {
+    "slug": "ford-code-p1460-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1460: Fuel System Issue",
+    "content": "The P1460 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1460"
+  },
+  {
+    "slug": "ford-code-p1514-fix",
+    "brand": "Ford",
+    "title": "Ford Code P1514: Fuel System Issue",
+    "content": "The P1514 code in Ford vehicles indicates a fuel system malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1514"
+  },
+  {
+    "slug": "ford-code-u1216-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1216: Network Communication Issue",
+    "content": "The U1216 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1216"
+  },
+  {
+    "slug": "ford-code-u1101-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1101: Network Communication Issue",
+    "content": "The U1101 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1101"
+  },
+  {
+    "slug": "ford-code-u1161-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1161: Network Communication Issue",
+    "content": "The U1161 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1161"
+  },
+  {
+    "slug": "ford-code-u1147-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1147: Network Communication Issue",
+    "content": "The U1147 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1147"
+  },
+  {
+    "slug": "ford-code-u1224-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1224: Network Communication Issue",
+    "content": "The U1224 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1224"
+  },
+  {
+    "slug": "ford-code-u1169-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1169: Network Communication Issue",
+    "content": "The U1169 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1169"
+  },
+  {
+    "slug": "ford-code-u1239-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1239: Network Communication Issue",
+    "content": "The U1239 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1239"
+  },
+  {
+    "slug": "ford-code-u1163-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1163: Network Communication Issue",
+    "content": "The U1163 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1163"
+  },
+  {
+    "slug": "ford-code-u1149-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1149: Network Communication Issue",
+    "content": "The U1149 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1149"
+  },
+  {
+    "slug": "ford-code-u1137-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1137: Network Communication Issue",
+    "content": "The U1137 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1137"
+  },
+  {
+    "slug": "ford-code-u1235-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1235: Network Communication Issue",
+    "content": "The U1235 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1235"
+  },
+  {
+    "slug": "ford-code-u1117-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1117: Network Communication Issue",
+    "content": "The U1117 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1117"
+  },
+  {
+    "slug": "ford-code-u1106-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1106: Network Communication Issue",
+    "content": "The U1106 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1106"
+  },
+  {
+    "slug": "ford-code-u1129-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1129: Network Communication Issue",
+    "content": "The U1129 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1129"
+  },
+  {
+    "slug": "ford-code-u1107-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1107: Network Communication Issue",
+    "content": "The U1107 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1107"
+  },
+  {
+    "slug": "ford-code-u1220-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1220: Network Communication Issue",
+    "content": "The U1220 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1220"
+  },
+  {
+    "slug": "ford-code-u1173-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1173: Network Communication Issue",
+    "content": "The U1173 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: check engine light on. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1173"
+  },
+  {
+    "slug": "ford-code-u1208-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1208: Network Communication Issue",
+    "content": "The U1208 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1208"
+  },
+  {
+    "slug": "ford-code-u1179-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1179: Network Communication Issue",
+    "content": "The U1179 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1179"
+  },
+  {
+    "slug": "ford-code-u1200-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1200: Network Communication Issue",
+    "content": "The U1200 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: transmission problems. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1200"
+  },
+  {
+    "slug": "ford-code-u1229-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1229: Network Communication Issue",
+    "content": "The U1229 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1229"
+  },
+  {
+    "slug": "ford-code-u1226-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1226: Network Communication Issue",
+    "content": "The U1226 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1226"
+  },
+  {
+    "slug": "ford-code-u1114-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1114: Network Communication Issue",
+    "content": "The U1114 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: rough running engine. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1114"
+  },
+  {
+    "slug": "ford-code-u1143-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1143: Network Communication Issue",
+    "content": "The U1143 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: hard starting condition. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1143"
+  },
+  {
+    "slug": "ford-code-u1141-fix",
+    "brand": "Ford",
+    "title": "Ford Code U1141: Network Communication Issue",
+    "content": "The U1141 code in Ford vehicles indicates a network communication malfunction. Common symptoms include: poor fuel economy. This is a manufacturer-specific code that requires a Ford-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the network communication.",
+    "code": "U1141"
+  },
+  {
+    "slug": "mercedes-code-p1243-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1243: Engine Control Issue",
+    "content": "The P1243 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1243"
+  },
+  {
+    "slug": "mercedes-code-p1180-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1180: Engine Control Issue",
+    "content": "The P1180 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1180"
+  },
+  {
+    "slug": "mercedes-code-p1179-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1179: Engine Control Issue",
+    "content": "The P1179 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1179"
+  },
+  {
+    "slug": "mercedes-code-p1140-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1140: Engine Control Issue",
+    "content": "The P1140 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1140"
+  },
+  {
+    "slug": "mercedes-code-p1100-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1100: Engine Control Issue",
+    "content": "The P1100 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1100"
+  },
+  {
+    "slug": "mercedes-code-p1184-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1184: Engine Control Issue",
+    "content": "The P1184 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1184"
+  },
+  {
+    "slug": "mercedes-code-p1218-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1218: Engine Control Issue",
+    "content": "The P1218 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1218"
+  },
+  {
+    "slug": "mercedes-code-p1234-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1234: Engine Control Issue",
+    "content": "The P1234 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1234"
+  },
+  {
+    "slug": "mercedes-code-p1143-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1143: Engine Control Issue",
+    "content": "The P1143 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1143"
+  },
+  {
+    "slug": "mercedes-code-p1209-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1209: Engine Control Issue",
+    "content": "The P1209 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1209"
+  },
+  {
+    "slug": "mercedes-code-p1121-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1121: Engine Control Issue",
+    "content": "The P1121 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1121"
+  },
+  {
+    "slug": "mercedes-code-p1174-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1174: Engine Control Issue",
+    "content": "The P1174 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1174"
+  },
+  {
+    "slug": "mercedes-code-p1116-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1116: Engine Control Issue",
+    "content": "The P1116 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1116"
+  },
+  {
+    "slug": "mercedes-code-p1161-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1161: Engine Control Issue",
+    "content": "The P1161 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1161"
+  },
+  {
+    "slug": "mercedes-code-p1103-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1103: Engine Control Issue",
+    "content": "The P1103 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1103"
+  },
+  {
+    "slug": "mercedes-code-p1139-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1139: Engine Control Issue",
+    "content": "The P1139 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1139"
+  },
+  {
+    "slug": "mercedes-code-p1151-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1151: Engine Control Issue",
+    "content": "The P1151 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1151"
+  },
+  {
+    "slug": "mercedes-code-p1233-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1233: Engine Control Issue",
+    "content": "The P1233 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1233"
+  },
+  {
+    "slug": "mercedes-code-p1159-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1159: Engine Control Issue",
+    "content": "The P1159 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1159"
+  },
+  {
+    "slug": "mercedes-code-p1142-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1142: Engine Control Issue",
+    "content": "The P1142 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1142"
+  },
+  {
+    "slug": "mercedes-code-p1167-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1167: Engine Control Issue",
+    "content": "The P1167 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1167"
+  },
+  {
+    "slug": "mercedes-code-p1189-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1189: Engine Control Issue",
+    "content": "The P1189 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1189"
+  },
+  {
+    "slug": "mercedes-code-p1194-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1194: Engine Control Issue",
+    "content": "The P1194 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1194"
+  },
+  {
+    "slug": "mercedes-code-p1225-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1225: Engine Control Issue",
+    "content": "The P1225 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1225"
+  },
+  {
+    "slug": "mercedes-code-p1111-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code P1111: Engine Control Issue",
+    "content": "The P1111 code in Mercedes vehicles indicates a engine control malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1111"
+  },
+  {
+    "slug": "mercedes-code-b1107-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1107: Body Control Issue",
+    "content": "The B1107 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1107"
+  },
+  {
+    "slug": "mercedes-code-b1188-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1188: Body Control Issue",
+    "content": "The B1188 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1188"
+  },
+  {
+    "slug": "mercedes-code-b1106-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1106: Body Control Issue",
+    "content": "The B1106 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1106"
+  },
+  {
+    "slug": "mercedes-code-b1131-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1131: Body Control Issue",
+    "content": "The B1131 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1131"
+  },
+  {
+    "slug": "mercedes-code-b1117-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1117: Body Control Issue",
+    "content": "The B1117 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1117"
+  },
+  {
+    "slug": "mercedes-code-b1110-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1110: Body Control Issue",
+    "content": "The B1110 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1110"
+  },
+  {
+    "slug": "mercedes-code-b1138-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1138: Body Control Issue",
+    "content": "The B1138 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1138"
+  },
+  {
+    "slug": "mercedes-code-b1195-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1195: Body Control Issue",
+    "content": "The B1195 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1195"
+  },
+  {
+    "slug": "mercedes-code-b1122-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1122: Body Control Issue",
+    "content": "The B1122 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1122"
+  },
+  {
+    "slug": "mercedes-code-b1103-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1103: Body Control Issue",
+    "content": "The B1103 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1103"
+  },
+  {
+    "slug": "mercedes-code-b1139-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1139: Body Control Issue",
+    "content": "The B1139 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1139"
+  },
+  {
+    "slug": "mercedes-code-b1121-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1121: Body Control Issue",
+    "content": "The B1121 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1121"
+  },
+  {
+    "slug": "mercedes-code-b1133-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1133: Body Control Issue",
+    "content": "The B1133 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1133"
+  },
+  {
+    "slug": "mercedes-code-b1143-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1143: Body Control Issue",
+    "content": "The B1143 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1143"
+  },
+  {
+    "slug": "mercedes-code-b1114-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1114: Body Control Issue",
+    "content": "The B1114 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1114"
+  },
+  {
+    "slug": "mercedes-code-b1174-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1174: Body Control Issue",
+    "content": "The B1174 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1174"
+  },
+  {
+    "slug": "mercedes-code-b1147-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1147: Body Control Issue",
+    "content": "The B1147 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1147"
+  },
+  {
+    "slug": "mercedes-code-b1149-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1149: Body Control Issue",
+    "content": "The B1149 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1149"
+  },
+  {
+    "slug": "mercedes-code-b1194-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1194: Body Control Issue",
+    "content": "The B1194 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1194"
+  },
+  {
+    "slug": "mercedes-code-b1113-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1113: Body Control Issue",
+    "content": "The B1113 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1113"
+  },
+  {
+    "slug": "mercedes-code-b1135-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1135: Body Control Issue",
+    "content": "The B1135 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1135"
+  },
+  {
+    "slug": "mercedes-code-b1190-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1190: Body Control Issue",
+    "content": "The B1190 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1190"
+  },
+  {
+    "slug": "mercedes-code-b1145-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1145: Body Control Issue",
+    "content": "The B1145 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1145"
+  },
+  {
+    "slug": "mercedes-code-b1129-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1129: Body Control Issue",
+    "content": "The B1129 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1129"
+  },
+  {
+    "slug": "mercedes-code-b1199-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code B1199: Body Control Issue",
+    "content": "The B1199 code in Mercedes vehicles indicates a body control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the body control.",
+    "code": "B1199"
+  },
+  {
+    "slug": "mercedes-code-c1101-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1101: Chassis Issue",
+    "content": "The C1101 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1101"
+  },
+  {
+    "slug": "mercedes-code-c1121-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1121: Chassis Issue",
+    "content": "The C1121 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1121"
+  },
+  {
+    "slug": "mercedes-code-c1129-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1129: Chassis Issue",
+    "content": "The C1129 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1129"
+  },
+  {
+    "slug": "mercedes-code-c1132-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1132: Chassis Issue",
+    "content": "The C1132 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1132"
+  },
+  {
+    "slug": "mercedes-code-c1164-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1164: Chassis Issue",
+    "content": "The C1164 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1164"
+  },
+  {
+    "slug": "mercedes-code-c1165-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1165: Chassis Issue",
+    "content": "The C1165 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1165"
+  },
+  {
+    "slug": "mercedes-code-c1124-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1124: Chassis Issue",
+    "content": "The C1124 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1124"
+  },
+  {
+    "slug": "mercedes-code-c1163-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1163: Chassis Issue",
+    "content": "The C1163 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1163"
+  },
+  {
+    "slug": "mercedes-code-c1147-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1147: Chassis Issue",
+    "content": "The C1147 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1147"
+  },
+  {
+    "slug": "mercedes-code-c1161-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1161: Chassis Issue",
+    "content": "The C1161 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1161"
+  },
+  {
+    "slug": "mercedes-code-c1160-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1160: Chassis Issue",
+    "content": "The C1160 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1160"
+  },
+  {
+    "slug": "mercedes-code-c1110-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1110: Chassis Issue",
+    "content": "The C1110 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1110"
+  },
+  {
+    "slug": "mercedes-code-c1114-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1114: Chassis Issue",
+    "content": "The C1114 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1114"
+  },
+  {
+    "slug": "mercedes-code-c1178-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1178: Chassis Issue",
+    "content": "The C1178 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1178"
+  },
+  {
+    "slug": "mercedes-code-c1139-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1139: Chassis Issue",
+    "content": "The C1139 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1139"
+  },
+  {
+    "slug": "mercedes-code-c1151-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1151: Chassis Issue",
+    "content": "The C1151 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: esp/abs warning light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1151"
+  },
+  {
+    "slug": "mercedes-code-c1112-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1112: Chassis Issue",
+    "content": "The C1112 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1112"
+  },
+  {
+    "slug": "mercedes-code-c1104-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1104: Chassis Issue",
+    "content": "The C1104 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1104"
+  },
+  {
+    "slug": "mercedes-code-c1167-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1167: Chassis Issue",
+    "content": "The C1167 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1167"
+  },
+  {
+    "slug": "mercedes-code-c1117-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1117: Chassis Issue",
+    "content": "The C1117 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1117"
+  },
+  {
+    "slug": "mercedes-code-c1127-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1127: Chassis Issue",
+    "content": "The C1127 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1127"
+  },
+  {
+    "slug": "mercedes-code-c1157-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1157: Chassis Issue",
+    "content": "The C1157 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1157"
+  },
+  {
+    "slug": "mercedes-code-c1173-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1173: Chassis Issue",
+    "content": "The C1173 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: air suspension malfunction. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1173"
+  },
+  {
+    "slug": "mercedes-code-c1166-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1166: Chassis Issue",
+    "content": "The C1166 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1166"
+  },
+  {
+    "slug": "mercedes-code-c1143-fix",
+    "brand": "Mercedes",
+    "title": "Mercedes Code C1143: Chassis Issue",
+    "content": "The C1143 code in Mercedes vehicles indicates a chassis malfunction. Common symptoms include: service a/b indicator. This is a manufacturer-specific code that requires a Mercedes-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the chassis.",
+    "code": "C1143"
+  },
+  {
+    "slug": "honda-code-p1186-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1186: VTEC System Issue",
+    "content": "The P1186 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1186"
+  },
+  {
+    "slug": "honda-code-p1279-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1279: VTEC System Issue",
+    "content": "The P1279 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1279"
+  },
+  {
+    "slug": "honda-code-p1212-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1212: VTEC System Issue",
+    "content": "The P1212 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1212"
+  },
+  {
+    "slug": "honda-code-p1201-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1201: VTEC System Issue",
+    "content": "The P1201 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1201"
+  },
+  {
+    "slug": "honda-code-p1224-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1224: VTEC System Issue",
+    "content": "The P1224 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1224"
+  },
+  {
+    "slug": "honda-code-p1190-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1190: VTEC System Issue",
+    "content": "The P1190 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1190"
+  },
+  {
+    "slug": "honda-code-p1208-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1208: VTEC System Issue",
+    "content": "The P1208 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1208"
+  },
+  {
+    "slug": "honda-code-p1139-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1139: VTEC System Issue",
+    "content": "The P1139 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1139"
+  },
+  {
+    "slug": "honda-code-p1158-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1158: VTEC System Issue",
+    "content": "The P1158 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1158"
+  },
+  {
+    "slug": "honda-code-p1181-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1181: VTEC System Issue",
+    "content": "The P1181 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1181"
+  },
+  {
+    "slug": "honda-code-p1255-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1255: VTEC System Issue",
+    "content": "The P1255 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1255"
+  },
+  {
+    "slug": "honda-code-p1293-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1293: VTEC System Issue",
+    "content": "The P1293 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1293"
+  },
+  {
+    "slug": "honda-code-p1172-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1172: VTEC System Issue",
+    "content": "The P1172 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1172"
+  },
+  {
+    "slug": "honda-code-p1154-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1154: VTEC System Issue",
+    "content": "The P1154 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1154"
+  },
+  {
+    "slug": "honda-code-p1175-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1175: VTEC System Issue",
+    "content": "The P1175 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1175"
+  },
+  {
+    "slug": "honda-code-p1215-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1215: VTEC System Issue",
+    "content": "The P1215 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1215"
+  },
+  {
+    "slug": "honda-code-p1144-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1144: VTEC System Issue",
+    "content": "The P1144 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1144"
+  },
+  {
+    "slug": "honda-code-p1198-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1198: VTEC System Issue",
+    "content": "The P1198 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1198"
+  },
+  {
+    "slug": "honda-code-p1250-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1250: VTEC System Issue",
+    "content": "The P1250 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1250"
+  },
+  {
+    "slug": "honda-code-p1273-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1273: VTEC System Issue",
+    "content": "The P1273 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1273"
+  },
+  {
+    "slug": "honda-code-p1289-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1289: VTEC System Issue",
+    "content": "The P1289 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1289"
+  },
+  {
+    "slug": "honda-code-p1183-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1183: VTEC System Issue",
+    "content": "The P1183 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1183"
+  },
+  {
+    "slug": "honda-code-p1171-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1171: VTEC System Issue",
+    "content": "The P1171 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1171"
+  },
+  {
+    "slug": "honda-code-p1137-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1137: VTEC System Issue",
+    "content": "The P1137 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1137"
+  },
+  {
+    "slug": "honda-code-p1149-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1149: VTEC System Issue",
+    "content": "The P1149 code in Honda vehicles indicates a vtec system malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the vtec system.",
+    "code": "P1149"
+  },
+  {
+    "slug": "honda-code-p1554-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1554: Fuel System Issue",
+    "content": "The P1554 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1554"
+  },
+  {
+    "slug": "honda-code-p1463-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1463: Fuel System Issue",
+    "content": "The P1463 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1463"
+  },
+  {
+    "slug": "honda-code-p1577-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1577: Fuel System Issue",
+    "content": "The P1577 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1577"
+  },
+  {
+    "slug": "honda-code-p1444-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1444: Fuel System Issue",
+    "content": "The P1444 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1444"
+  },
+  {
+    "slug": "honda-code-p1527-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1527: Fuel System Issue",
+    "content": "The P1527 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1527"
+  },
+  {
+    "slug": "honda-code-p1581-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1581: Fuel System Issue",
+    "content": "The P1581 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1581"
+  },
+  {
+    "slug": "honda-code-p1495-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1495: Fuel System Issue",
+    "content": "The P1495 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1495"
+  },
+  {
+    "slug": "honda-code-p1502-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1502: Fuel System Issue",
+    "content": "The P1502 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1502"
+  },
+  {
+    "slug": "honda-code-p1490-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1490: Fuel System Issue",
+    "content": "The P1490 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1490"
+  },
+  {
+    "slug": "honda-code-p1517-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1517: Fuel System Issue",
+    "content": "The P1517 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1517"
+  },
+  {
+    "slug": "honda-code-p1487-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1487: Fuel System Issue",
+    "content": "The P1487 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1487"
+  },
+  {
+    "slug": "honda-code-p1467-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1467: Fuel System Issue",
+    "content": "The P1467 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1467"
+  },
+  {
+    "slug": "honda-code-p1520-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1520: Fuel System Issue",
+    "content": "The P1520 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1520"
+  },
+  {
+    "slug": "honda-code-p1548-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1548: Fuel System Issue",
+    "content": "The P1548 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1548"
+  },
+  {
+    "slug": "honda-code-p1588-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1588: Fuel System Issue",
+    "content": "The P1588 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1588"
+  },
+  {
+    "slug": "honda-code-p1415-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1415: Fuel System Issue",
+    "content": "The P1415 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1415"
+  },
+  {
+    "slug": "honda-code-p1569-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1569: Fuel System Issue",
+    "content": "The P1569 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1569"
+  },
+  {
+    "slug": "honda-code-p1436-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1436: Fuel System Issue",
+    "content": "The P1436 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1436"
+  },
+  {
+    "slug": "honda-code-p1481-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1481: Fuel System Issue",
+    "content": "The P1481 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1481"
+  },
+  {
+    "slug": "honda-code-p1403-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1403: Fuel System Issue",
+    "content": "The P1403 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1403"
+  },
+  {
+    "slug": "honda-code-p1582-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1582: Fuel System Issue",
+    "content": "The P1582 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1582"
+  },
+  {
+    "slug": "honda-code-p1430-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1430: Fuel System Issue",
+    "content": "The P1430 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1430"
+  },
+  {
+    "slug": "honda-code-p1493-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1493: Fuel System Issue",
+    "content": "The P1493 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1493"
+  },
+  {
+    "slug": "honda-code-p1574-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1574: Fuel System Issue",
+    "content": "The P1574 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1574"
+  },
+  {
+    "slug": "honda-code-p1573-fix",
+    "brand": "Honda",
+    "title": "Honda Code P1573: Fuel System Issue",
+    "content": "The P1573 code in Honda vehicles indicates a fuel system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the fuel system.",
+    "code": "P1573"
+  },
+  {
+    "slug": "honda-code-p3146-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3146: Hybrid Battery Issue",
+    "content": "The P3146 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3146"
+  },
+  {
+    "slug": "honda-code-p3187-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3187: Hybrid Battery Issue",
+    "content": "The P3187 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3187"
+  },
+  {
+    "slug": "honda-code-p3128-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3128: Hybrid Battery Issue",
+    "content": "The P3128 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3128"
+  },
+  {
+    "slug": "honda-code-p3181-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3181: Hybrid Battery Issue",
+    "content": "The P3181 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3181"
+  },
+  {
+    "slug": "honda-code-p3150-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3150: Hybrid Battery Issue",
+    "content": "The P3150 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3150"
+  },
+  {
+    "slug": "honda-code-p3152-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3152: Hybrid Battery Issue",
+    "content": "The P3152 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3152"
+  },
+  {
+    "slug": "honda-code-p3112-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3112: Hybrid Battery Issue",
+    "content": "The P3112 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3112"
+  },
+  {
+    "slug": "honda-code-p3132-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3132: Hybrid Battery Issue",
+    "content": "The P3132 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: poor acceleration. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3132"
+  },
+  {
+    "slug": "honda-code-p3170-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3170: Hybrid Battery Issue",
+    "content": "The P3170 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3170"
+  },
+  {
+    "slug": "honda-code-p3160-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3160: Hybrid Battery Issue",
+    "content": "The P3160 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3160"
+  },
+  {
+    "slug": "honda-code-p3145-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3145: Hybrid Battery Issue",
+    "content": "The P3145 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3145"
+  },
+  {
+    "slug": "honda-code-p3153-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3153: Hybrid Battery Issue",
+    "content": "The P3153 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3153"
+  },
+  {
+    "slug": "honda-code-p3115-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3115: Hybrid Battery Issue",
+    "content": "The P3115 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3115"
+  },
+  {
+    "slug": "honda-code-p3172-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3172: Hybrid Battery Issue",
+    "content": "The P3172 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3172"
+  },
+  {
+    "slug": "honda-code-p3176-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3176: Hybrid Battery Issue",
+    "content": "The P3176 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3176"
+  },
+  {
+    "slug": "honda-code-p3175-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3175: Hybrid Battery Issue",
+    "content": "The P3175 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3175"
+  },
+  {
+    "slug": "honda-code-p3196-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3196: Hybrid Battery Issue",
+    "content": "The P3196 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3196"
+  },
+  {
+    "slug": "honda-code-p3193-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3193: Hybrid Battery Issue",
+    "content": "The P3193 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3193"
+  },
+  {
+    "slug": "honda-code-p3162-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3162: Hybrid Battery Issue",
+    "content": "The P3162 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3162"
+  },
+  {
+    "slug": "honda-code-p3134-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3134: Hybrid Battery Issue",
+    "content": "The P3134 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3134"
+  },
+  {
+    "slug": "honda-code-p3173-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3173: Hybrid Battery Issue",
+    "content": "The P3173 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3173"
+  },
+  {
+    "slug": "honda-code-p3195-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3195: Hybrid Battery Issue",
+    "content": "The P3195 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: vtec not engaging. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3195"
+  },
+  {
+    "slug": "honda-code-p3123-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3123: Hybrid Battery Issue",
+    "content": "The P3123 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3123"
+  },
+  {
+    "slug": "honda-code-p3110-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3110: Hybrid Battery Issue",
+    "content": "The P3110 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: ima light (hybrid models). This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3110"
+  },
+  {
+    "slug": "honda-code-p3165-fix",
+    "brand": "Honda",
+    "title": "Honda Code P3165: Hybrid Battery Issue",
+    "content": "The P3165 code in Honda vehicles indicates a hybrid battery malfunction. Common symptoms include: battery charge issues. This is a manufacturer-specific code that requires a Honda-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid battery.",
+    "code": "P3165"
+  },
+  {
+    "slug": "toyota-code-p1265-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1265: Engine Control Issue",
+    "content": "The P1265 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1265"
+  },
+  {
+    "slug": "toyota-code-p1287-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1287: Engine Control Issue",
+    "content": "The P1287 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1287"
+  },
+  {
+    "slug": "toyota-code-p1260-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1260: Engine Control Issue",
+    "content": "The P1260 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1260"
+  },
+  {
+    "slug": "toyota-code-p1140-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1140: Engine Control Issue",
+    "content": "The P1140 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1140"
+  },
+  {
+    "slug": "toyota-code-p1233-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1233: Engine Control Issue",
+    "content": "The P1233 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1233"
+  },
+  {
+    "slug": "toyota-code-p1177-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1177: Engine Control Issue",
+    "content": "The P1177 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1177"
+  },
+  {
+    "slug": "toyota-code-p1175-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1175: Engine Control Issue",
+    "content": "The P1175 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1175"
+  },
+  {
+    "slug": "toyota-code-p1281-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1281: Engine Control Issue",
+    "content": "The P1281 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1281"
+  },
+  {
+    "slug": "toyota-code-p1203-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1203: Engine Control Issue",
+    "content": "The P1203 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1203"
+  },
+  {
+    "slug": "toyota-code-p1133-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1133: Engine Control Issue",
+    "content": "The P1133 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1133"
+  },
+  {
+    "slug": "toyota-code-p1164-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1164: Engine Control Issue",
+    "content": "The P1164 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1164"
+  },
+  {
+    "slug": "toyota-code-p1122-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1122: Engine Control Issue",
+    "content": "The P1122 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1122"
+  },
+  {
+    "slug": "toyota-code-p1257-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1257: Engine Control Issue",
+    "content": "The P1257 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1257"
+  },
+  {
+    "slug": "toyota-code-p1253-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1253: Engine Control Issue",
+    "content": "The P1253 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1253"
+  },
+  {
+    "slug": "toyota-code-p1256-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1256: Engine Control Issue",
+    "content": "The P1256 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1256"
+  },
+  {
+    "slug": "toyota-code-p1279-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1279: Engine Control Issue",
+    "content": "The P1279 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1279"
+  },
+  {
+    "slug": "toyota-code-p1107-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1107: Engine Control Issue",
+    "content": "The P1107 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1107"
+  },
+  {
+    "slug": "toyota-code-p1165-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1165: Engine Control Issue",
+    "content": "The P1165 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1165"
+  },
+  {
+    "slug": "toyota-code-p1234-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1234: Engine Control Issue",
+    "content": "The P1234 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1234"
+  },
+  {
+    "slug": "toyota-code-p1298-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1298: Engine Control Issue",
+    "content": "The P1298 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1298"
+  },
+  {
+    "slug": "toyota-code-p1295-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1295: Engine Control Issue",
+    "content": "The P1295 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1295"
+  },
+  {
+    "slug": "toyota-code-p1247-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1247: Engine Control Issue",
+    "content": "The P1247 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1247"
+  },
+  {
+    "slug": "toyota-code-p1207-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1207: Engine Control Issue",
+    "content": "The P1207 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1207"
+  },
+  {
+    "slug": "toyota-code-p1166-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1166: Engine Control Issue",
+    "content": "The P1166 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1166"
+  },
+  {
+    "slug": "toyota-code-p1270-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P1270: Engine Control Issue",
+    "content": "The P1270 code in Toyota vehicles indicates a engine control malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the engine control.",
+    "code": "P1270"
+  },
+  {
+    "slug": "toyota-code-p3106-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3106: Hybrid System Issue",
+    "content": "The P3106 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3106"
+  },
+  {
+    "slug": "toyota-code-p3213-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3213: Hybrid System Issue",
+    "content": "The P3213 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3213"
+  },
+  {
+    "slug": "toyota-code-p3154-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3154: Hybrid System Issue",
+    "content": "The P3154 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3154"
+  },
+  {
+    "slug": "toyota-code-p3223-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3223: Hybrid System Issue",
+    "content": "The P3223 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3223"
+  },
+  {
+    "slug": "toyota-code-p3204-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3204: Hybrid System Issue",
+    "content": "The P3204 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3204"
+  },
+  {
+    "slug": "toyota-code-p3186-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3186: Hybrid System Issue",
+    "content": "The P3186 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3186"
+  },
+  {
+    "slug": "toyota-code-p3166-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3166: Hybrid System Issue",
+    "content": "The P3166 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3166"
+  },
+  {
+    "slug": "toyota-code-p3208-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3208: Hybrid System Issue",
+    "content": "The P3208 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3208"
+  },
+  {
+    "slug": "toyota-code-p3216-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3216: Hybrid System Issue",
+    "content": "The P3216 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3216"
+  },
+  {
+    "slug": "toyota-code-p3215-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3215: Hybrid System Issue",
+    "content": "The P3215 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3215"
+  },
+  {
+    "slug": "toyota-code-p3126-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3126: Hybrid System Issue",
+    "content": "The P3126 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3126"
+  },
+  {
+    "slug": "toyota-code-p3233-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3233: Hybrid System Issue",
+    "content": "The P3233 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3233"
+  },
+  {
+    "slug": "toyota-code-p3198-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3198: Hybrid System Issue",
+    "content": "The P3198 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3198"
+  },
+  {
+    "slug": "toyota-code-p3100-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3100: Hybrid System Issue",
+    "content": "The P3100 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3100"
+  },
+  {
+    "slug": "toyota-code-p3229-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3229: Hybrid System Issue",
+    "content": "The P3229 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3229"
+  },
+  {
+    "slug": "toyota-code-p3211-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3211: Hybrid System Issue",
+    "content": "The P3211 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3211"
+  },
+  {
+    "slug": "toyota-code-p3124-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3124: Hybrid System Issue",
+    "content": "The P3124 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3124"
+  },
+  {
+    "slug": "toyota-code-p3242-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3242: Hybrid System Issue",
+    "content": "The P3242 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3242"
+  },
+  {
+    "slug": "toyota-code-p3157-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3157: Hybrid System Issue",
+    "content": "The P3157 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3157"
+  },
+  {
+    "slug": "toyota-code-p3245-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3245: Hybrid System Issue",
+    "content": "The P3245 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3245"
+  },
+  {
+    "slug": "toyota-code-p3159-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3159: Hybrid System Issue",
+    "content": "The P3159 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3159"
+  },
+  {
+    "slug": "toyota-code-p3102-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3102: Hybrid System Issue",
+    "content": "The P3102 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3102"
+  },
+  {
+    "slug": "toyota-code-p3224-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3224: Hybrid System Issue",
+    "content": "The P3224 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3224"
+  },
+  {
+    "slug": "toyota-code-p3183-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3183: Hybrid System Issue",
+    "content": "The P3183 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3183"
+  },
+  {
+    "slug": "toyota-code-p3236-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code P3236: Hybrid System Issue",
+    "content": "The P3236 code in Toyota vehicles indicates a hybrid system malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the hybrid system.",
+    "code": "P3236"
+  },
+  {
+    "slug": "toyota-code-c1295-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1295: ABS/VSC Issue",
+    "content": "The C1295 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1295"
+  },
+  {
+    "slug": "toyota-code-c1288-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1288: ABS/VSC Issue",
+    "content": "The C1288 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1288"
+  },
+  {
+    "slug": "toyota-code-c1208-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1208: ABS/VSC Issue",
+    "content": "The C1208 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1208"
+  },
+  {
+    "slug": "toyota-code-c1258-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1258: ABS/VSC Issue",
+    "content": "The C1258 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1258"
+  },
+  {
+    "slug": "toyota-code-c1278-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1278: ABS/VSC Issue",
+    "content": "The C1278 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1278"
+  },
+  {
+    "slug": "toyota-code-c1200-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1200: ABS/VSC Issue",
+    "content": "The C1200 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1200"
+  },
+  {
+    "slug": "toyota-code-c1234-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1234: ABS/VSC Issue",
+    "content": "The C1234 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1234"
+  },
+  {
+    "slug": "toyota-code-c1217-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1217: ABS/VSC Issue",
+    "content": "The C1217 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1217"
+  },
+  {
+    "slug": "toyota-code-c1274-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1274: ABS/VSC Issue",
+    "content": "The C1274 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1274"
+  },
+  {
+    "slug": "toyota-code-c1220-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1220: ABS/VSC Issue",
+    "content": "The C1220 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1220"
+  },
+  {
+    "slug": "toyota-code-c1292-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1292: ABS/VSC Issue",
+    "content": "The C1292 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1292"
+  },
+  {
+    "slug": "toyota-code-c1255-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1255: ABS/VSC Issue",
+    "content": "The C1255 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1255"
+  },
+  {
+    "slug": "toyota-code-c1218-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1218: ABS/VSC Issue",
+    "content": "The C1218 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1218"
+  },
+  {
+    "slug": "toyota-code-c1223-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1223: ABS/VSC Issue",
+    "content": "The C1223 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1223"
+  },
+  {
+    "slug": "toyota-code-c1222-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1222: ABS/VSC Issue",
+    "content": "The C1222 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1222"
+  },
+  {
+    "slug": "toyota-code-c1214-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1214: ABS/VSC Issue",
+    "content": "The C1214 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1214"
+  },
+  {
+    "slug": "toyota-code-c1226-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1226: ABS/VSC Issue",
+    "content": "The C1226 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1226"
+  },
+  {
+    "slug": "toyota-code-c1229-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1229: ABS/VSC Issue",
+    "content": "The C1229 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1229"
+  },
+  {
+    "slug": "toyota-code-c1249-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1249: ABS/VSC Issue",
+    "content": "The C1249 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1249"
+  },
+  {
+    "slug": "toyota-code-c1239-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1239: ABS/VSC Issue",
+    "content": "The C1239 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: hybrid system warning. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1239"
+  },
+  {
+    "slug": "toyota-code-c1248-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1248: ABS/VSC Issue",
+    "content": "The C1248 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: reduced power mode. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1248"
+  },
+  {
+    "slug": "toyota-code-c1270-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1270: ABS/VSC Issue",
+    "content": "The C1270 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: check engine light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1270"
+  },
+  {
+    "slug": "toyota-code-c1225-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1225: ABS/VSC Issue",
+    "content": "The C1225 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1225"
+  },
+  {
+    "slug": "toyota-code-c1271-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1271: ABS/VSC Issue",
+    "content": "The C1271 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: vsc/traction control light. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1271"
+  },
+  {
+    "slug": "toyota-code-c1266-fix",
+    "brand": "Toyota",
+    "title": "Toyota Code C1266: ABS/VSC Issue",
+    "content": "The C1266 code in Toyota vehicles indicates a abs/vsc malfunction. Common symptoms include: battery cooling fan issues. This is a manufacturer-specific code that requires a Toyota-compatible diagnostic scanner to properly diagnose. Professional diagnosis is recommended as this code may indicate multiple potential issues within the abs/vsc.",
+    "code": "C1266"
   }
 ]
