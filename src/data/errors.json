@@ -1370,5 +1370,572 @@
     "title": "Motor Error or PCB Error",
     "fixes": "This code indicates a potential issue with the motor itself or the main control board (PCB). This could be due to a malfunctioning motor, a faulty control board, or an electrical wiring issue.",
     "slug": "se"
+  },
+  {
+    "code": "1E",
+    "brand": "Samsung",
+    "title": "Water Level Sensor Error",
+    "fixes": "The water level sensor is malfunctioning or has a faulty connection. Check the sensor wiring and connections, or replace the sensor if necessary.",
+    "slug": "1e"
+  },
+  {
+    "code": "8E",
+    "brand": "Samsung",
+    "title": "Overcurrent Error",
+    "fixes": "The motor is drawing too much current, indicating a potential motor or control board issue. Unplug the unit and contact a technician for motor inspection.",
+    "slug": "8e"
+  },
+  {
+    "code": "9E",
+    "brand": "Samsung",
+    "title": "Power Supply Error",
+    "fixes": "There is an issue with the electrical power supply to the washer. Check the power cord connection and verify proper voltage at the outlet.",
+    "slug": "9e"
+  },
+  {
+    "code": "AE",
+    "brand": "Samsung",
+    "title": "Communication Error",
+    "fixes": "The main control board cannot communicate with other components. Reset the washer by unplugging for 5 minutes, or check internal wiring connections.",
+    "slug": "ae"
+  },
+  {
+    "code": "bE",
+    "brand": "Samsung",
+    "title": "Motor Relay Error",
+    "fixes": "The motor relay on the control board has failed or stuck. This typically requires replacement of the main control board.",
+    "slug": "be"
+  },
+  {
+    "code": "CE",
+    "brand": "Samsung",
+    "title": "Water Temperature Error",
+    "fixes": "The water temperature is too high, exceeding 122\u00b0F (50\u00b0C). Check the hot water supply temperature and ensure cold water is also connected.",
+    "slug": "ce"
+  },
+  {
+    "code": "dE",
+    "brand": "Samsung",
+    "title": "Door Lock Error",
+    "fixes": "The door is not locking properly or the lock mechanism has failed. Ensure the door is fully closed and check for obstructions in the door latch.",
+    "slug": "de"
+  },
+  {
+    "code": "FE",
+    "brand": "Samsung",
+    "title": "Fan Error",
+    "fixes": "The cooling fan is not operating correctly. Check for obstructions and verify the fan motor is receiving power.",
+    "slug": "fe"
+  },
+  {
+    "code": "LE",
+    "brand": "Samsung",
+    "title": "Water Leak Error",
+    "fixes": "A water leak has been detected in the base of the washer. Check all hose connections and inspect the door seal for damage.",
+    "slug": "le"
+  },
+  {
+    "code": "E2",
+    "brand": "Samsung",
+    "title": "Stuck Key Error",
+    "fixes": "A button on the control panel is stuck or continuously pressed. Clean the control panel and check for stuck buttons.",
+    "slug": "e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Samsung",
+    "title": "Motor Overload",
+    "fixes": "The motor is overloaded or overheating. Reduce the load size and ensure proper ventilation around the washer.",
+    "slug": "e3"
+  },
+  {
+    "code": "FL",
+    "brand": "Samsung",
+    "title": "Door Lock Failure",
+    "fixes": "The door lock mechanism has completely failed. Replace the door lock assembly to restore function.",
+    "slug": "fl"
+  },
+  {
+    "code": "nd",
+    "brand": "Samsung",
+    "title": "No Drain",
+    "fixes": "The washer is unable to drain water from the tub. Check the drain pump and hose for blockages.",
+    "slug": "nd"
+  },
+  {
+    "code": "nF",
+    "brand": "Samsung",
+    "title": "Water Fill Failure",
+    "fixes": "The washer cannot fill with water. Verify water supply is on and inlet filters are clean.",
+    "slug": "nf"
+  },
+  {
+    "code": "F20",
+    "brand": "Whirlpool",
+    "title": "No Water Detected",
+    "fixes": "The washer is not detecting water entering the tub. Check water supply valves, inlet screens, and the pressure switch.",
+    "slug": "f20"
+  },
+  {
+    "code": "F21",
+    "brand": "Whirlpool",
+    "title": "Long Drain",
+    "fixes": "The drain cycle is taking longer than expected. Clean the drain pump filter and check for restrictions in the drain system.",
+    "slug": "f21"
+  },
+  {
+    "code": "F22",
+    "brand": "Whirlpool",
+    "title": "Door Lock Error",
+    "fixes": "The door will not lock or unlock properly. Inspect the door lock mechanism and wiring for faults.",
+    "slug": "f22"
+  },
+  {
+    "code": "F23",
+    "brand": "Whirlpool",
+    "title": "Heater Error",
+    "fixes": "The water heater is not reaching the target temperature. Test the heating element and replace if defective.",
+    "slug": "f23"
+  },
+  {
+    "code": "F24",
+    "brand": "Whirlpool",
+    "title": "Temperature Sensor Error",
+    "fixes": "The water temperature sensor is reading out of range. Check the thermistor connections and resistance values.",
+    "slug": "f24"
+  },
+  {
+    "code": "F26",
+    "brand": "Whirlpool",
+    "title": "Door Switch Error",
+    "fixes": "The door switch is not detecting the door position correctly. Clean the door switch contacts or replace the switch.",
+    "slug": "f26"
+  },
+  {
+    "code": "F27",
+    "brand": "Whirlpool",
+    "title": "Overflow Error",
+    "fixes": "The pressure switch indicates an overflow condition. Check for a stuck pressure switch or faulty water inlet valve.",
+    "slug": "f27"
+  },
+  {
+    "code": "F28",
+    "brand": "Whirlpool",
+    "title": "Serial Communication Failure",
+    "fixes": "Communication has failed between control boards. Verify all wire harness connections are secure.",
+    "slug": "f28"
+  },
+  {
+    "code": "F29",
+    "brand": "Whirlpool",
+    "title": "Door Unlock Error",
+    "fixes": "The door lock will not release after the cycle. Manually release the lock and check the lock mechanism.",
+    "slug": "f29"
+  },
+  {
+    "code": "F30",
+    "brand": "Whirlpool",
+    "title": "Dispenser System Failure",
+    "fixes": "The detergent dispenser system is not operating. Check the dispenser motor and ensure it's not jammed.",
+    "slug": "f30"
+  },
+  {
+    "code": "F31",
+    "brand": "Whirlpool",
+    "title": "MCU Failure",
+    "fixes": "The motor control unit has experienced a critical failure. Replace the MCU to restore washer operation.",
+    "slug": "f31"
+  },
+  {
+    "code": "F33",
+    "brand": "Whirlpool",
+    "title": "Pump Drive System Error",
+    "fixes": "The drain pump drive system has failed. Check the pump motor and drive mechanism for damage.",
+    "slug": "f33"
+  },
+  {
+    "code": "F34",
+    "brand": "Whirlpool",
+    "title": "Pump System Error",
+    "fixes": "The drain pump is not operating correctly. Test the pump for continuity and check for blockages.",
+    "slug": "f34"
+  },
+  {
+    "code": "dE1",
+    "brand": "LG",
+    "title": "Door Open Error",
+    "fixes": "The door is open or not latching properly. Close the door completely and check for obstructions.",
+    "slug": "de1"
+  },
+  {
+    "code": "dE2",
+    "brand": "LG",
+    "title": "Door Switch Error",
+    "fixes": "The door switch is not detecting the door position. Clean the switch contacts or replace the door switch.",
+    "slug": "de2"
+  },
+  {
+    "code": "LE1",
+    "brand": "LG",
+    "title": "Hall Sensor Error",
+    "fixes": "The motor hall sensor is not detecting rotation. This typically requires motor replacement.",
+    "slug": "le1"
+  },
+  {
+    "code": "OE1",
+    "brand": "LG",
+    "title": "Drain Hose Error",
+    "fixes": "The drain hose is positioned incorrectly or is clogged. Ensure the drain hose is not more than 8 feet high.",
+    "slug": "oe1"
+  },
+  {
+    "code": "tE1",
+    "brand": "LG",
+    "title": "Heater Sensor Error",
+    "fixes": "The heating element temperature sensor has failed. Check the sensor wiring and resistance.",
+    "slug": "te1"
+  },
+  {
+    "code": "tE2",
+    "brand": "LG",
+    "title": "Vent Sensor Error",
+    "fixes": "The dryer vent temperature sensor is malfunctioning. Inspect the sensor and its connections.",
+    "slug": "te2"
+  },
+  {
+    "code": "EE",
+    "brand": "LG",
+    "title": "EEPROM Error",
+    "fixes": "The control board's memory chip has an error. Try resetting the washer or replace the control board.",
+    "slug": "ee"
+  },
+  {
+    "code": "AE",
+    "brand": "LG",
+    "title": "Auto Restart Error",
+    "fixes": "The washer attempted to auto-restart after a power failure but failed. Manually restart the cycle.",
+    "slug": "ae"
+  },
+  {
+    "code": "E1",
+    "brand": "LG",
+    "title": "Water Leak Error",
+    "fixes": "A water leak has been detected. Check all hoses and connections for leaks and inspect the door seal.",
+    "slug": "e1"
+  },
+  {
+    "code": "E3",
+    "brand": "LG",
+    "title": "Load Size Error",
+    "fixes": "The washer cannot determine the load size. Ensure clothes are distributed evenly in the drum.",
+    "slug": "e3"
+  },
+  {
+    "code": "E6",
+    "brand": "LG",
+    "title": "Clutch Error",
+    "fixes": "The clutch mechanism is not engaging properly. This typically requires professional service.",
+    "slug": "e6"
+  },
+  {
+    "code": "CL",
+    "brand": "LG",
+    "title": "Child Lock Active",
+    "fixes": "The child lock feature is enabled. Press and hold the child lock button for 3 seconds to disable.",
+    "slug": "cl"
+  },
+  {
+    "code": "dL",
+    "brand": "LG",
+    "title": "Door Lock Active",
+    "fixes": "The door is locked and cannot be opened. Wait for the cycle to complete or perform a drain cycle.",
+    "slug": "dl"
+  },
+  {
+    "code": "FL",
+    "brand": "LG",
+    "title": "Door Lock Failure",
+    "fixes": "The door lock mechanism has completely failed. Replace the door lock assembly.",
+    "slug": "fl"
+  },
+  {
+    "code": "E10",
+    "brand": "GE",
+    "title": "Fill Timeout",
+    "fixes": "The washer did not fill with water in the allotted time. Check water supply valves and inlet hoses for restrictions.",
+    "slug": "e10"
+  },
+  {
+    "code": "E11",
+    "brand": "GE",
+    "title": "Drain Timeout",
+    "fixes": "The washer did not drain within the expected time. Clean the drain pump filter and check for clogs.",
+    "slug": "e11"
+  },
+  {
+    "code": "E20",
+    "brand": "GE",
+    "title": "Drain Pump Error",
+    "fixes": "The drain pump is not operating correctly. Check for blockages and test the pump motor for continuity.",
+    "slug": "e20"
+  },
+  {
+    "code": "E21",
+    "brand": "GE",
+    "title": "Drain Hose Error",
+    "fixes": "The drain hose is kinked or clogged. Straighten the hose and remove any obstructions.",
+    "slug": "e21"
+  },
+  {
+    "code": "E22",
+    "brand": "GE",
+    "title": "Door Lock Error",
+    "fixes": "The door will not lock properly. Ensure the door is fully closed and check the lock mechanism.",
+    "slug": "e22"
+  },
+  {
+    "code": "E23",
+    "brand": "GE",
+    "title": "Door Lock Failure",
+    "fixes": "The door lock has failed and needs replacement. Install a new door lock assembly.",
+    "slug": "e23"
+  },
+  {
+    "code": "E30",
+    "brand": "GE",
+    "title": "Pressure Sensor Error",
+    "fixes": "The water level pressure sensor is malfunctioning. Check the air tube and pressure switch connections.",
+    "slug": "e30"
+  },
+  {
+    "code": "E31",
+    "brand": "GE",
+    "title": "Pressure System Error",
+    "fixes": "The pressure sensing system has detected an error. Inspect the pressure switch and air dome.",
+    "slug": "e31"
+  },
+  {
+    "code": "E40",
+    "brand": "GE",
+    "title": "Door Open Error",
+    "fixes": "The door is open or not latching. Close the door firmly and check for obstructions in the latch.",
+    "slug": "e40"
+  },
+  {
+    "code": "E41",
+    "brand": "GE",
+    "title": "Door Switch Error",
+    "fixes": "The door switch is not functioning properly. Test the switch and replace if necessary.",
+    "slug": "e41"
+  },
+  {
+    "code": "E50",
+    "brand": "GE",
+    "title": "Motor Error",
+    "fixes": "The motor is not operating correctly or has failed. Check motor connections and test for proper operation.",
+    "slug": "e50"
+  },
+  {
+    "code": "E51",
+    "brand": "GE",
+    "title": "Motor Speed Error",
+    "fixes": "The motor cannot reach the target speed. Inspect the motor and drive belt for issues.",
+    "slug": "e51"
+  },
+  {
+    "code": "E52",
+    "brand": "GE",
+    "title": "Motor Tachometer Error",
+    "fixes": "The motor speed sensor is not working. Check the tach connections and replace if faulty.",
+    "slug": "e52"
+  },
+  {
+    "code": "E60",
+    "brand": "GE",
+    "title": "Heater Error",
+    "fixes": "The water heater is not functioning. Test the heating element for continuity and proper resistance.",
+    "slug": "e60"
+  },
+  {
+    "code": "E61",
+    "brand": "GE",
+    "title": "Heater Timeout",
+    "fixes": "The water did not reach target temperature in time. Check the heater and thermistor.",
+    "slug": "e61"
+  },
+  {
+    "code": "E62",
+    "brand": "GE",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor is reading out of range. Test the thermistor resistance and replace if needed.",
+    "slug": "e62"
+  },
+  {
+    "code": "E70",
+    "brand": "GE",
+    "title": "NTC Sensor Error",
+    "fixes": "The NTC temperature sensor has failed. Check sensor connections and resistance values.",
+    "slug": "e70"
+  },
+  {
+    "code": "E80",
+    "brand": "GE",
+    "title": "Overflow Error",
+    "fixes": "The washer has detected an overflow condition. Check the pressure switch and water inlet valve.",
+    "slug": "e80"
+  },
+  {
+    "code": "E81",
+    "brand": "GE",
+    "title": "Water Level Error",
+    "fixes": "The water level is not correct for the selected cycle. Inspect the pressure system components.",
+    "slug": "e81"
+  },
+  {
+    "code": "E82",
+    "brand": "GE",
+    "title": "Selector Switch Error",
+    "fixes": "The cycle selector switch is not functioning. Clean the switch contacts or replace the switch.",
+    "slug": "e82"
+  },
+  {
+    "code": "E90",
+    "brand": "GE",
+    "title": "Communication Error",
+    "fixes": "The control boards cannot communicate. Check all wire harness connections between boards.",
+    "slug": "e90"
+  },
+  {
+    "code": "E91",
+    "brand": "GE",
+    "title": "Control Board Error",
+    "fixes": "The main control board has detected an internal error. Reset or replace the control board.",
+    "slug": "e91"
+  },
+  {
+    "code": "E92",
+    "brand": "GE",
+    "title": "Mismatch Error",
+    "fixes": "There is a mismatch between control board settings. Verify the correct control board is installed.",
+    "slug": "e92"
+  },
+  {
+    "code": "E93",
+    "brand": "GE",
+    "title": "Configuration Error",
+    "fixes": "The washer configuration is incorrect. Reconfigure the settings or replace the control board.",
+    "slug": "e93"
+  },
+  {
+    "code": "E94",
+    "brand": "GE",
+    "title": "Cycle Error",
+    "fixes": "An error occurred during the wash cycle. Reset the washer and select a new cycle.",
+    "slug": "e94"
+  },
+  {
+    "code": "F12",
+    "brand": "Kenmore",
+    "title": "Motor Control Error",
+    "fixes": "The motor control unit is not functioning correctly. This typically requires MCU replacement.",
+    "slug": "f12"
+  },
+  {
+    "code": "F20",
+    "brand": "Kenmore",
+    "title": "Water Fill Error",
+    "fixes": "No water is entering the washer. Check water supply valves and inlet screens.",
+    "slug": "f20"
+  },
+  {
+    "code": "F21",
+    "brand": "Kenmore",
+    "title": "Drain Pump Error",
+    "fixes": "The drain pump is not working properly. Clean the pump filter and check for obstructions.",
+    "slug": "f21"
+  },
+  {
+    "code": "F22",
+    "brand": "Kenmore",
+    "title": "Door Lock Failure",
+    "fixes": "The door lock mechanism has failed. Replace the door lock assembly.",
+    "slug": "f22"
+  },
+  {
+    "code": "F23",
+    "brand": "Kenmore",
+    "title": "Heater Error",
+    "fixes": "The water heater is not working. Test the heating element and replace if defective.",
+    "slug": "f23"
+  },
+  {
+    "code": "F24",
+    "brand": "Kenmore",
+    "title": "Temperature Sensor Error",
+    "fixes": "The water temperature sensor is faulty. Check thermistor connections and resistance.",
+    "slug": "f24"
+  },
+  {
+    "code": "F26",
+    "brand": "Kenmore",
+    "title": "Door Switch Error",
+    "fixes": "The door switch is not detecting properly. Clean or replace the door switch.",
+    "slug": "f26"
+  },
+  {
+    "code": "F27",
+    "brand": "Kenmore",
+    "title": "Overflow Error",
+    "fixes": "An overflow condition has been detected. Check the pressure switch and water valve.",
+    "slug": "f27"
+  },
+  {
+    "code": "F28",
+    "brand": "Kenmore",
+    "title": "Communication Failure",
+    "fixes": "Control board communication has failed. Verify all connections are secure.",
+    "slug": "f28"
+  },
+  {
+    "code": "F29",
+    "brand": "Kenmore",
+    "title": "Door Unlock Error",
+    "fixes": "The door will not unlock. Manually release and check the lock mechanism.",
+    "slug": "f29"
+  },
+  {
+    "code": "F30",
+    "brand": "Kenmore",
+    "title": "Dispenser Failure",
+    "fixes": "The detergent dispenser system has failed. Check the dispenser motor.",
+    "slug": "f30"
+  },
+  {
+    "code": "F31",
+    "brand": "Kenmore",
+    "title": "MCU Failure",
+    "fixes": "The motor control unit has failed critically. Replace the MCU.",
+    "slug": "f31"
+  },
+  {
+    "code": "F33",
+    "brand": "Kenmore",
+    "title": "Pump Drive Error",
+    "fixes": "The drain pump drive system has failed. Check the pump motor and drive.",
+    "slug": "f33"
+  },
+  {
+    "code": "F34",
+    "brand": "Kenmore",
+    "title": "Pump System Error",
+    "fixes": "The drain pump system is not operating. Test the pump and check for blockages.",
+    "slug": "f34"
+  },
+  {
+    "code": "F35",
+    "brand": "Kenmore",
+    "title": "Analog Pressure Sensor Error",
+    "fixes": "The analog pressure sensor has failed. Replace the pressure sensor assembly.",
+    "slug": "f35"
   }
 ]
