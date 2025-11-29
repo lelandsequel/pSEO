@@ -2,13 +2,16 @@
 import Layout from '../layouts/Layout.astro';
 import errorData from '../data/errors.json';
 import layoffData from '../data/layoffs.json';
+import saasData from '../data/saas.json';
 
 // 1. Determine Identity
 const siteId = import.meta.env.SITE_ID || 'errors';
-const isLayoffSite = siteId === 'layoffs';
 
 // 2. Select Data Source
-const rawData = isLayoffSite ? layoffData : errorData;
+let rawData;
+if (siteId === 'layoffs') rawData = layoffData;
+else if (siteId === 'saas') rawData = saasData;
+else rawData = errorData;
 
 // 3. THE FIX: Filter the data BEFORE using it
 // This removes any "ghost" records causing the crash
@@ -17,10 +20,24 @@ const cleanData = rawData.filter((item) => {
 });
 
 // 4. Config variables
-const title = isLayoffSite ? "ErrorCodeHelp" : "RepairHelper";
-const subtitle = isLayoffSite ? "OBD2 & System Error Database" : "Find Replacement Parts & Fixes Fast";
-const placeholder = isLayoffSite ? "Search OBD2 codes (e.g. P0300)..." : "Search error codes (e.g. F01, Samsung)...";
-const theme = isLayoffSite ? "bg-indigo-600" : "bg-blue-600";
+let title, subtitle, placeholder, theme;
+
+if (siteId === 'layoffs') {
+    title = "ErrorCodeHelp";
+    subtitle = "OBD2 & System Error Database";
+    placeholder = "Search OBD2 codes (e.g. P0300)...";
+    theme = "bg-indigo-600";
+} else if (siteId === 'saas') {
+    title = "SaaS Battleground";
+    subtitle = "Unbiased B2B Software Comparisons";
+    placeholder = "Search comparisons (e.g. HubSpot vs Salesforce)...";
+    theme = "bg-purple-900";
+} else {
+    title = "RepairHelper";
+    subtitle = "Find Replacement Parts & Fixes Fast";
+    placeholder = "Search error codes (e.g. F01, Samsung)...";
+    theme = "bg-blue-600";
+}
 ---
 
 <Layout title={title} meta={subtitle}>

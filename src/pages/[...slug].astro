@@ -1,24 +1,19 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { config, isLayoffsMode } from '../config';
-
-// Load data based on site mode
-let data;
-if (config.dataFile === 'layoffs.json') {
-	const layoffsData = await import('../data/layoffs.json');
-	data = layoffsData.default;
-} else {
-	const errorsData = await import('../data/errors.json');
-	data = errorsData.default;
-}
+import { config } from '../config';
 
 export async function getStaticPaths() {
 	// Load data based on site mode
 	let dataSource;
-	if (import.meta.env.SITE_ID === 'layoffs') {
+    const siteId = import.meta.env.SITE_ID || 'errors';
+    
+	if (siteId === 'layoffs') {
 		const layoffsData = await import('../data/layoffs.json');
 		dataSource = layoffsData.default;
-	} else {
+	} else if (siteId === 'saas') {
+        const saasData = await import('../data/saas.json');
+        dataSource = saasData.default;
+    } else {
 		const errorsData = await import('../data/errors.json');
 		dataSource = errorsData.default;
 	}
@@ -36,6 +31,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const siteId = import.meta.env.SITE_ID || 'errors';
 
 // Monetization Logic
 const brand = entry?.brand || "Appliance";
@@ -55,7 +51,7 @@ const ctaUrl = config.ctaLink || amazonUrl;
                     Error Code Troubleshooting
                 </h3>
                 				<h1 class="mt-2 text-4xl font-extrabold text-gray-900 tracking-tight sm:text-5xl">
-					{isLayoffsMode() ? entry.brand : entry.code}: <span class={`text-${config.theme}`}>{entry.title}</span>
+					{siteId !== 'errors' ? entry.brand : entry.code}: <span class={`text-${config.theme}`}>{entry.title}</span>
 				</h1>
             </div>
 
@@ -69,13 +65,13 @@ const ctaUrl = config.ctaLink || amazonUrl;
                         Potential Fixes
                     </h2>
                     					<div class="prose max-w-none text-gray-600">
-						<p>{isLayoffsMode() ? entry.content : entry.fixes}</p>
+						<p>{siteId !== 'errors' ? entry.content : entry.fixes}</p>
 					</div>
                     
                     <!-- CTA Button -->
                     <div class="mt-6">
                         						<a href={ctaUrl} target="_blank" rel="noopener noreferrer" class={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-${config.theme} hover:bg-${config.theme.replace('600', '700')} md:py-4 md:text-lg md:px-10 transition duration-150 ease-in-out shadow-sm hover:shadow-lg transform hover:-translate-y-0.5`}>
-							{config.ctaText} {!isLayoffsMode() ? `for ${entry.code}` : ''}
+							{config.ctaText} {siteId === 'errors' ? `for ${entry.code}` : ''}
 							<svg class="ml-2 -mr-1 h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                             </svg>

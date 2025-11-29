@@ -29,6 +29,15 @@ const configs: Record<string, SiteConfig> = {
         dataFile: 'errors.json',
         metaDescription: 'Search thousands of appliance error codes and find replacement parts instantly. Get expert fixes for all major brands.',
     },
+    saas: {
+        theme: 'purple-900',
+        title: 'SaaS Battleground',
+        subtitle: 'Unbiased B2B Software Comparisons',
+        ctaText: 'Start Free Trial',
+        ctaLink: '#',
+        dataFile: 'saas.json',
+        metaDescription: 'Compare top B2B software tools. In-depth reviews of Project Management, CRM, and Marketing platforms.',
+    },
 };
 
 // Get SITE_ID from environment, default to 'errors'
