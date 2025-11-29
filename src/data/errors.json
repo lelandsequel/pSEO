@@ -1937,5 +1937,985 @@
     "title": "Analog Pressure Sensor Error",
     "fixes": "The analog pressure sensor has failed. Replace the pressure sensor assembly.",
     "slug": "f35"
+  },
+  {
+    "code": "F1",
+    "brand": "Viking",
+    "title": "NTC Sensor Failure",
+    "fixes": "The temperature sensor has failed in your Viking appliance. Contact Viking authorized service to replace the genuine NTC sensor and recalibrate the system.",
+    "slug": "viking-f1"
+  },
+  {
+    "code": "F2",
+    "brand": "Viking",
+    "title": "Door Lock Mechanism Error",
+    "fixes": "The Viking door lock assembly is not engaging properly. Verify the door alignment and check the electronic lock module for proper voltage.",
+    "slug": "viking-f2"
+  },
+  {
+    "code": "F3",
+    "brand": "Viking",
+    "title": "Drain Pump Malfunction",
+    "fixes": "The Viking drain pump is not operating within specifications. Inspect the pump impeller for debris and test the pump motor resistance.",
+    "slug": "viking-f3"
+  },
+  {
+    "code": "F4",
+    "brand": "Viking",
+    "title": "Water Inlet Valve Error",
+    "fixes": "The water inlet valve is not responding correctly. Check the Viking valve solenoids and ensure proper water pressure (20-120 PSI).",
+    "slug": "viking-f4"
+  },
+  {
+    "code": "F5",
+    "brand": "Viking",
+    "title": "Pressure Switch Failure",
+    "fixes": "The analog pressure sensor has failed. Replace with genuine Viking pressure switch and verify the air tube is clear.",
+    "slug": "viking-f5"
+  },
+  {
+    "code": "F6",
+    "brand": "Viking",
+    "title": "Motor Control Error",
+    "fixes": "The inverter motor control has detected a fault. Check the motor windings and hall sensor connections on your Viking unit.",
+    "slug": "viking-f6"
+  },
+  {
+    "code": "F7",
+    "brand": "Viking",
+    "title": "Heating Element Failure",
+    "fixes": "The heating element circuit is open or shorted. Test the Viking heating element for continuity (should read 10-15 ohms).",
+    "slug": "viking-f7"
+  },
+  {
+    "code": "F8",
+    "brand": "Viking",
+    "title": "Communication Error",
+    "fixes": "The main control board cannot communicate with the user interface. Inspect the ribbon cable connection and reseat the UI board.",
+    "slug": "viking-f8"
+  },
+  {
+    "code": "F9",
+    "brand": "Viking",
+    "title": "Overflow Protection",
+    "fixes": "The overflow protection system has activated. Check the pressure system and ensure the Viking drain pump is functioning properly.",
+    "slug": "viking-f9"
+  },
+  {
+    "code": "F10",
+    "brand": "Viking",
+    "title": "Motor Overload",
+    "fixes": "The motor has exceeded current limits. Reduce load size and verify the Viking motor bearings are not seized.",
+    "slug": "viking-f10"
+  },
+  {
+    "code": "E1",
+    "brand": "Sub-Zero",
+    "title": "Evaporator Sensor Error",
+    "fixes": "The evaporator temperature sensor is reading out of range. Replace the Sub-Zero sensor and verify proper refrigerant charge.",
+    "slug": "sub-zero-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Sub-Zero",
+    "title": "Condenser Fan Failure",
+    "fixes": "The condenser fan motor is not operating. Check the fan motor and ensure the Sub-Zero condenser coils are clean.",
+    "slug": "sub-zero-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Sub-Zero",
+    "title": "Defrost Heater Error",
+    "fixes": "The defrost heater circuit has failed. Test the Sub-Zero defrost heater and thermal fuse for continuity.",
+    "slug": "sub-zero-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Sub-Zero",
+    "title": "Ice Maker Malfunction",
+    "fixes": "The ice maker module is not cycling properly. Verify water supply and check the Sub-Zero ice maker motor and heater.",
+    "slug": "sub-zero-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Sub-Zero",
+    "title": "Air Damper Error",
+    "fixes": "The air damper control is not responding. Inspect the damper motor and ensure the Sub-Zero damper moves freely.",
+    "slug": "sub-zero-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Sub-Zero",
+    "title": "Compressor Failure",
+    "fixes": "The compressor is not starting or running inefficiently. Check the start relay and verify proper voltage to the Sub-Zero compressor.",
+    "slug": "sub-zero-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Sub-Zero",
+    "title": "Door Ajar Warning",
+    "fixes": "The door switch indicates the door is not fully closed. Adjust the Sub-Zero door alignment and check the magnetic door seal.",
+    "slug": "sub-zero-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Sub-Zero",
+    "title": "Water Filter Alert",
+    "fixes": "The water filter has reached its service life. Replace with genuine Sub-Zero water filter cartridge.",
+    "slug": "sub-zero-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Sub-Zero",
+    "title": "Control Board Error",
+    "fixes": "The main control board has detected an internal fault. Reset the Sub-Zero unit and if error persists, replace the control board.",
+    "slug": "sub-zero-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Sub-Zero",
+    "title": "Temperature Alarm",
+    "fixes": "The cabinet temperature has exceeded safe limits. Check for airflow obstructions and verify the Sub-Zero sealed system is functioning.",
+    "slug": "sub-zero-e10"
+  },
+  {
+    "code": "F1",
+    "brand": "Wolf",
+    "title": "Ignition Failure",
+    "fixes": "The gas ignition system is not lighting the burner. Clean the Wolf igniter and verify proper gas flow to the burner.",
+    "slug": "wolf-f1"
+  },
+  {
+    "code": "F2",
+    "brand": "Wolf",
+    "title": "Oven Temperature Sensor Error",
+    "fixes": "The oven temperature probe is reading incorrectly. Replace the Wolf RTD sensor and recalibrate the oven.",
+    "slug": "wolf-f2"
+  },
+  {
+    "code": "F3",
+    "brand": "Wolf",
+    "title": "Convection Fan Motor Error",
+    "fixes": "The convection fan is not operating at correct speed. Check the Wolf fan motor and ensure the fan blade is not obstructed.",
+    "slug": "wolf-f3"
+  },
+  {
+    "code": "F4",
+    "brand": "Wolf",
+    "title": "Door Lock Failure",
+    "fixes": "The self-clean door lock is not engaging. Inspect the Wolf door lock motor and verify the lock mechanism moves freely.",
+    "slug": "wolf-f4"
+  },
+  {
+    "code": "F5",
+    "brand": "Wolf",
+    "title": "Relay Board Failure",
+    "fixes": "The relay control board has failed. Replace the Wolf relay board and check for any shorted components.",
+    "slug": "wolf-f5"
+  },
+  {
+    "code": "F6",
+    "brand": "Wolf",
+    "title": "Cooling Fan Error",
+    "fixes": "The cooling fan is not operating properly. Test the Wolf cooling fan motor and ensure proper ventilation clearances.",
+    "slug": "wolf-f6"
+  },
+  {
+    "code": "F7",
+    "brand": "Wolf",
+    "title": "Keypad Communication Error",
+    "fixes": "The control panel cannot communicate with the main board. Reseat the Wolf keypad connector and check the ribbon cable.",
+    "slug": "wolf-f7"
+  },
+  {
+    "code": "F8",
+    "brand": "Wolf",
+    "title": "Broil Element Failure",
+    "fixes": "The broil heating element has failed. Test the Wolf broil element for continuity (should read 15-30 ohms).",
+    "slug": "wolf-f8"
+  },
+  {
+    "code": "F9",
+    "brand": "Wolf",
+    "title": "Bake Element Failure",
+    "fixes": "The bake heating element is not heating. Check the Wolf bake element and high-limit thermostat.",
+    "slug": "wolf-f9"
+  },
+  {
+    "code": "F10",
+    "brand": "Wolf",
+    "title": "Self-Clean Timeout",
+    "fixes": "The self-clean cycle did not complete properly. Ensure the Wolf oven door is locked and the temperature sensor is functioning.",
+    "slug": "wolf-f10"
+  },
+  {
+    "code": "E1",
+    "brand": "Thermador",
+    "title": "Temperature Sensor Fault",
+    "fixes": "The oven temperature sensor is malfunctioning. Replace the Thermador sensor probe and verify resistance at room temperature (1080-1100 ohms).",
+    "slug": "thermador-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Thermador",
+    "title": "Door Lock Error",
+    "fixes": "The door lock mechanism is not functioning during self-clean. Check the Thermador door lock motor and switch assembly.",
+    "slug": "thermador-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Thermador",
+    "title": "Relay Control Failure",
+    "fixes": "The relay board has detected a fault. Inspect the Thermador relay board for burnt components and replace if necessary.",
+    "slug": "thermador-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Thermador",
+    "title": "Cooling System Error",
+    "fixes": "The cooling fan system is not operating correctly. Test the Thermador cooling fan motor and check for proper voltage.",
+    "slug": "thermador-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Thermador",
+    "title": "Convection System Fault",
+    "fixes": "The convection fan or element has failed. Check the Thermador convection motor and heating element for continuity.",
+    "slug": "thermador-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Thermador",
+    "title": "Control Panel Error",
+    "fixes": "The electronic control panel is not responding. Reset the Thermador oven and check the control board connections.",
+    "slug": "thermador-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Thermador",
+    "title": "Bake Element Circuit Open",
+    "fixes": "The bake element circuit is open. Test the Thermador bake element and thermal fuse for continuity.",
+    "slug": "thermador-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Thermador",
+    "title": "Broil Element Circuit Open",
+    "fixes": "The broil element has failed. Replace the Thermador broil element and check the wiring harness.",
+    "slug": "thermador-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Thermador",
+    "title": "Communication Error",
+    "fixes": "Communication between control boards has failed. Inspect all Thermador wire harness connections and reseat connectors.",
+    "slug": "thermador-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Thermador",
+    "title": "Self-Clean Error",
+    "fixes": "The self-clean cycle has encountered an error. Ensure the Thermador door is properly locked and temperature sensor is accurate.",
+    "slug": "thermador-e10"
+  },
+  {
+    "code": "F01",
+    "brand": "Miele",
+    "title": "NTC Temperature Sensor Error",
+    "fixes": "The temperature sensor has failed in your Miele appliance. Replace with genuine Miele NTC sensor and verify proper connection.",
+    "slug": "miele-f01"
+  },
+  {
+    "code": "F02",
+    "brand": "Miele",
+    "title": "Motor Tacho Error",
+    "fixes": "The motor speed sensor is not detecting rotation. Check the Miele motor tacho sensor and wiring harness.",
+    "slug": "miele-f02"
+  },
+  {
+    "code": "F03",
+    "brand": "Miele",
+    "title": "Drain Pump Blocked",
+    "fixes": "The drain pump is blocked or not operating. Clean the Miele drain pump filter and check for foreign objects.",
+    "slug": "miele-f03"
+  },
+  {
+    "code": "F04",
+    "brand": "Miele",
+    "title": "Water Inlet Fault",
+    "fixes": "Water is not entering the machine properly. Check the Miele inlet valve and ensure water pressure is 14.5-145 PSI.",
+    "slug": "miele-f04"
+  },
+  {
+    "code": "F05",
+    "brand": "Miele",
+    "title": "Door Lock Malfunction",
+    "fixes": "The door lock is not engaging correctly. Inspect the Miele door lock mechanism and electrical connections.",
+    "slug": "miele-f05"
+  },
+  {
+    "code": "F06",
+    "brand": "Miele",
+    "title": "Pressure Sensor Error",
+    "fixes": "The water level pressure sensor has failed. Replace the Miele pressure sensor and check the air tube.",
+    "slug": "miele-f06"
+  },
+  {
+    "code": "F07",
+    "brand": "Miele",
+    "title": "Heating System Fault",
+    "fixes": "The heating element or relay has failed. Test the Miele heating element and check the relay board.",
+    "slug": "miele-f07"
+  },
+  {
+    "code": "F08",
+    "brand": "Miele",
+    "title": "Motor Control Error",
+    "fixes": "The motor control module has detected a fault. Check the Miele motor and control board connections.",
+    "slug": "miele-f08"
+  },
+  {
+    "code": "F09",
+    "brand": "Miele",
+    "title": "Overflow Protection Active",
+    "fixes": "The overflow protection has been triggered. Check for leaks and verify the Miele pressure switch is functioning.",
+    "slug": "miele-f09"
+  },
+  {
+    "code": "F10",
+    "brand": "Miele",
+    "title": "Communication Error",
+    "fixes": "The control boards cannot communicate. Inspect all Miele wire connections and reseat the control modules.",
+    "slug": "miele-f10"
+  },
+  {
+    "code": "E1",
+    "brand": "Dacor",
+    "title": "Oven Sensor Failure",
+    "fixes": "The oven temperature sensor is reading incorrectly. Replace the Dacor sensor probe and verify proper installation.",
+    "slug": "dacor-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Dacor",
+    "title": "Door Lock Error",
+    "fixes": "The self-clean door lock is malfunctioning. Check the Dacor door lock assembly and motor.",
+    "slug": "dacor-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Dacor",
+    "title": "Relay Board Fault",
+    "fixes": "The relay control board has failed. Inspect the Dacor relay board for damaged components.",
+    "slug": "dacor-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Dacor",
+    "title": "Cooling Fan Failure",
+    "fixes": "The cooling fan motor is not operating. Test the Dacor cooling fan and check for obstructions.",
+    "slug": "dacor-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Dacor",
+    "title": "Convection Error",
+    "fixes": "The convection system is not functioning. Check the Dacor convection fan motor and element.",
+    "slug": "dacor-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Dacor",
+    "title": "Control Board Error",
+    "fixes": "The main control board has detected an error. Reset the Dacor oven and verify all connections.",
+    "slug": "dacor-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Dacor",
+    "title": "Bake Element Open",
+    "fixes": "The bake heating element circuit is open. Test the Dacor bake element for continuity.",
+    "slug": "dacor-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Dacor",
+    "title": "Broil Element Open",
+    "fixes": "The broil element has failed. Replace the Dacor broil element and check wiring.",
+    "slug": "dacor-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Dacor",
+    "title": "Keypad Error",
+    "fixes": "The control panel is not responding correctly. Clean the Dacor keypad and check the membrane switch.",
+    "slug": "dacor-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Dacor",
+    "title": "Temperature Limit Error",
+    "fixes": "The oven has exceeded safe temperature limits. Check the Dacor high-limit thermostat and temperature sensor.",
+    "slug": "dacor-e10"
+  },
+  {
+    "code": "A1",
+    "brand": "Fisher & Paykel",
+    "title": "Motor Speed Error",
+    "fixes": "The motor is not reaching target speed. Check the Fisher & Paykel motor and drive belt for proper operation.",
+    "slug": "fisher-and-paykel-a1"
+  },
+  {
+    "code": "A2",
+    "brand": "Fisher & Paykel",
+    "title": "Water Level Error",
+    "fixes": "The water level sensor is not detecting correctly. Inspect the Fisher & Paykel pressure system and sensor.",
+    "slug": "fisher-and-paykel-a2"
+  },
+  {
+    "code": "A3",
+    "brand": "Fisher & Paykel",
+    "title": "Drain Timeout",
+    "fixes": "Water is not draining within the allotted time. Clean the Fisher & Paykel drain pump and check for blockages.",
+    "slug": "fisher-and-paykel-a3"
+  },
+  {
+    "code": "A4",
+    "brand": "Fisher & Paykel",
+    "title": "Door Lock Fault",
+    "fixes": "The door lock is not engaging properly. Check the Fisher & Paykel door lock assembly and wiring.",
+    "slug": "fisher-and-paykel-a4"
+  },
+  {
+    "code": "A5",
+    "brand": "Fisher & Paykel",
+    "title": "Temperature Sensor Error",
+    "fixes": "The water temperature sensor has failed. Replace the Fisher & Paykel thermistor and verify connections.",
+    "slug": "fisher-and-paykel-a5"
+  },
+  {
+    "code": "A6",
+    "brand": "Fisher & Paykel",
+    "title": "Overflow Protection",
+    "fixes": "The overflow sensor has been triggered. Check for leaks and verify the Fisher & Paykel pressure switch.",
+    "slug": "fisher-and-paykel-a6"
+  },
+  {
+    "code": "A7",
+    "brand": "Fisher & Paykel",
+    "title": "Motor Control Error",
+    "fixes": "The motor control board has detected a fault. Inspect the Fisher & Paykel motor control module.",
+    "slug": "fisher-and-paykel-a7"
+  },
+  {
+    "code": "A8",
+    "brand": "Fisher & Paykel",
+    "title": "Heating Element Failure",
+    "fixes": "The heating element is not functioning. Test the Fisher & Paykel heater for continuity.",
+    "slug": "fisher-and-paykel-a8"
+  },
+  {
+    "code": "A9",
+    "brand": "Fisher & Paykel",
+    "title": "Communication Error",
+    "fixes": "The control boards cannot communicate. Check all Fisher & Paykel wire harness connections.",
+    "slug": "fisher-and-paykel-a9"
+  },
+  {
+    "code": "A10",
+    "brand": "Fisher & Paykel",
+    "title": "Inlet Valve Error",
+    "fixes": "The water inlet valve is not operating correctly. Test the Fisher & Paykel inlet valve solenoids.",
+    "slug": "fisher-and-paykel-a10"
+  },
+  {
+    "code": "E1",
+    "brand": "Gaggenau",
+    "title": "Temperature Sensor Malfunction",
+    "fixes": "The precision temperature sensor has failed. Replace with genuine Gaggenau sensor and recalibrate the system.",
+    "slug": "gaggenau-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Gaggenau",
+    "title": "Door Lock System Error",
+    "fixes": "The electronic door lock is not functioning. Check the Gaggenau lock mechanism and control module.",
+    "slug": "gaggenau-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Gaggenau",
+    "title": "Heating Element Fault",
+    "fixes": "The heating element circuit has failed. Test the Gaggenau heating element and thermal protection devices.",
+    "slug": "gaggenau-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Gaggenau",
+    "title": "Cooling System Error",
+    "fixes": "The cooling fan system is malfunctioning. Inspect the Gaggenau cooling fan motor and temperature sensors.",
+    "slug": "gaggenau-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Gaggenau",
+    "title": "Control Board Failure",
+    "fixes": "The main control board has detected an internal error. Reset the Gaggenau appliance and check for firmware updates.",
+    "slug": "gaggenau-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Gaggenau",
+    "title": "Convection System Fault",
+    "fixes": "The convection fan or element is not operating. Check the Gaggenau convection motor and heating element.",
+    "slug": "gaggenau-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Gaggenau",
+    "title": "Communication Error",
+    "fixes": "The control modules cannot communicate. Inspect all Gaggenau wire connections and control boards.",
+    "slug": "gaggenau-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Gaggenau",
+    "title": "Relay Board Error",
+    "fixes": "The relay control board has failed. Replace the Gaggenau relay board and check for short circuits.",
+    "slug": "gaggenau-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Gaggenau",
+    "title": "Self-Clean Error",
+    "fixes": "The pyrolytic self-clean cycle has encountered an error. Verify the Gaggenau door lock and temperature limits.",
+    "slug": "gaggenau-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Gaggenau",
+    "title": "Sensor Calibration Error",
+    "fixes": "The sensor calibration is out of specification. Perform Gaggenau factory calibration procedure or replace sensors.",
+    "slug": "gaggenau-e10"
+  },
+  {
+    "code": "E1",
+    "brand": "Speed Queen",
+    "title": "Water Level Error",
+    "fixes": "The water level sensor is not detecting properly. Check the Speed Queen pressure switch and air tube for blockages.",
+    "slug": "speed-queen-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Speed Queen",
+    "title": "Drain Timeout",
+    "fixes": "Water is not draining within the expected time. Clean the Speed Queen drain pump and check for clogs in the drain hose.",
+    "slug": "speed-queen-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Speed Queen",
+    "title": "Motor Overload",
+    "fixes": "The motor has exceeded current limits. Reduce load size and check the Speed Queen motor for proper operation.",
+    "slug": "speed-queen-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Speed Queen",
+    "title": "Door Lock Error",
+    "fixes": "The door lock is not engaging. Ensure the door is fully closed and check the Speed Queen lock mechanism.",
+    "slug": "speed-queen-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Speed Queen",
+    "title": "Temperature Sensor Fault",
+    "fixes": "The water temperature sensor has failed. Replace the Speed Queen thermistor and verify connections.",
+    "slug": "speed-queen-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Speed Queen",
+    "title": "Inlet Valve Error",
+    "fixes": "The water inlet valve is not operating correctly. Test the Speed Queen inlet valve and check water supply.",
+    "slug": "speed-queen-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Speed Queen",
+    "title": "Drive System Error",
+    "fixes": "The drive belt or motor has a fault. Inspect the Speed Queen drive belt and motor for wear.",
+    "slug": "speed-queen-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Speed Queen",
+    "title": "Control Board Error",
+    "fixes": "The main control board has detected an error. Reset the Speed Queen washer and check connections.",
+    "slug": "speed-queen-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Speed Queen",
+    "title": "Overflow Protection",
+    "fixes": "The overflow sensor has been triggered. Check the Speed Queen pressure system and inlet valve.",
+    "slug": "speed-queen-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Speed Queen",
+    "title": "Unbalanced Load",
+    "fixes": "The load is severely unbalanced. Redistribute laundry and ensure the Speed Queen washer is level.",
+    "slug": "speed-queen-e10"
+  },
+  {
+    "code": "F1",
+    "brand": "Roper",
+    "title": "Control Board Error",
+    "fixes": "The electronic control board has failed. Replace the Roper control board and verify all connections.",
+    "slug": "roper-f1"
+  },
+  {
+    "code": "F2",
+    "brand": "Roper",
+    "title": "Drain Pump Error",
+    "fixes": "The drain pump is not operating. Clean the Roper drain pump filter and test the pump motor.",
+    "slug": "roper-f2"
+  },
+  {
+    "code": "F3",
+    "brand": "Roper",
+    "title": "Temperature Sensor Error",
+    "fixes": "The water temperature sensor is faulty. Replace the Roper thermistor and check wiring.",
+    "slug": "roper-f3"
+  },
+  {
+    "code": "F4",
+    "brand": "Roper",
+    "title": "Door Lock Failure",
+    "fixes": "The door lock mechanism has failed. Inspect the Roper door lock assembly and replace if necessary.",
+    "slug": "roper-f4"
+  },
+  {
+    "code": "F5",
+    "brand": "Roper",
+    "title": "Water Inlet Error",
+    "fixes": "Water is not entering the washer. Check the Roper inlet valve and water supply.",
+    "slug": "roper-f5"
+  },
+  {
+    "code": "F6",
+    "brand": "Roper",
+    "title": "Motor Error",
+    "fixes": "The motor is not operating correctly. Test the Roper motor and check for proper voltage.",
+    "slug": "roper-f6"
+  },
+  {
+    "code": "F7",
+    "brand": "Roper",
+    "title": "Pressure Switch Error",
+    "fixes": "The water level pressure switch has failed. Replace the Roper pressure switch.",
+    "slug": "roper-f7"
+  },
+  {
+    "code": "F8",
+    "brand": "Roper",
+    "title": "Overflow Error",
+    "fixes": "An overflow condition has been detected. Check the Roper pressure system and inlet valve.",
+    "slug": "roper-f8"
+  },
+  {
+    "code": "F9",
+    "brand": "Roper",
+    "title": "Communication Error",
+    "fixes": "The control boards cannot communicate. Check all Roper wire connections.",
+    "slug": "roper-f9"
+  },
+  {
+    "code": "F10",
+    "brand": "Roper",
+    "title": "Heating Element Error",
+    "fixes": "The heating element has failed. Test the Roper heating element for continuity.",
+    "slug": "roper-f10"
+  },
+  {
+    "code": "F1",
+    "brand": "Amana",
+    "title": "Main Control Failure",
+    "fixes": "The main control board has failed. Replace the Amana control board assembly.",
+    "slug": "amana-f1"
+  },
+  {
+    "code": "F2",
+    "brand": "Amana",
+    "title": "Long Drain",
+    "fixes": "The washer is taking too long to drain. Clean the Amana drain pump and check for restrictions.",
+    "slug": "amana-f2"
+  },
+  {
+    "code": "F3",
+    "brand": "Amana",
+    "title": "Temperature Sensor Error",
+    "fixes": "The water temperature sensor is reading incorrectly. Replace the Amana thermistor.",
+    "slug": "amana-f3"
+  },
+  {
+    "code": "F4",
+    "brand": "Amana",
+    "title": "Water Inlet Failure",
+    "fixes": "Water is not filling properly. Check the Amana inlet valve and water supply.",
+    "slug": "amana-f4"
+  },
+  {
+    "code": "F5",
+    "brand": "Amana",
+    "title": "Door Lock Error",
+    "fixes": "The door lock is not functioning. Inspect the Amana door lock mechanism.",
+    "slug": "amana-f5"
+  },
+  {
+    "code": "F6",
+    "brand": "Amana",
+    "title": "Motor Control Error",
+    "fixes": "The motor control has detected a fault. Check the Amana motor and control board.",
+    "slug": "amana-f6"
+  },
+  {
+    "code": "F7",
+    "brand": "Amana",
+    "title": "Overflow Condition",
+    "fixes": "An overflow has been detected. Check the Amana pressure switch and inlet valve.",
+    "slug": "amana-f7"
+  },
+  {
+    "code": "F8",
+    "brand": "Amana",
+    "title": "Pressure Switch Error",
+    "fixes": "The pressure switch is malfunctioning. Replace the Amana pressure switch.",
+    "slug": "amana-f8"
+  },
+  {
+    "code": "F9",
+    "brand": "Amana",
+    "title": "Drain Pump Error",
+    "fixes": "The drain pump is not operating. Test the Amana drain pump motor.",
+    "slug": "amana-f9"
+  },
+  {
+    "code": "F10",
+    "brand": "Amana",
+    "title": "Communication Failure",
+    "fixes": "Control board communication has failed. Check all Amana wire connections.",
+    "slug": "amana-f10"
+  },
+  {
+    "code": "E1",
+    "brand": "Admiral",
+    "title": "Water Level Error",
+    "fixes": "The water level sensor is not functioning. Check the Admiral pressure switch and connections.",
+    "slug": "admiral-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Admiral",
+    "title": "Drain Error",
+    "fixes": "Water is not draining properly. Clean the Admiral drain pump and hose.",
+    "slug": "admiral-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Admiral",
+    "title": "Motor Error",
+    "fixes": "The motor is not operating correctly. Test the Admiral motor for proper operation.",
+    "slug": "admiral-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Admiral",
+    "title": "Door Lock Error",
+    "fixes": "The door lock is malfunctioning. Check the Admiral door lock assembly.",
+    "slug": "admiral-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Admiral",
+    "title": "Temperature Error",
+    "fixes": "The temperature sensor has failed. Replace the Admiral thermistor.",
+    "slug": "admiral-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Admiral",
+    "title": "Inlet Valve Error",
+    "fixes": "The water inlet valve is not working. Test the Admiral inlet valve solenoids.",
+    "slug": "admiral-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Admiral",
+    "title": "Control Board Error",
+    "fixes": "The control board has detected an error. Reset the Admiral washer.",
+    "slug": "admiral-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Admiral",
+    "title": "Overflow Error",
+    "fixes": "An overflow condition exists. Check the Admiral pressure system.",
+    "slug": "admiral-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Admiral",
+    "title": "Unbalanced Load",
+    "fixes": "The load is unbalanced. Redistribute laundry in the Admiral washer.",
+    "slug": "admiral-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Admiral",
+    "title": "Drive System Error",
+    "fixes": "The drive system has a fault. Check the Admiral drive belt and motor.",
+    "slug": "admiral-e10"
+  },
+  {
+    "code": "E1",
+    "brand": "Magic Chef",
+    "title": "Control Error",
+    "fixes": "The electronic control has failed. Replace the Magic Chef control board.",
+    "slug": "magic-chef-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Magic Chef",
+    "title": "Drain Timeout",
+    "fixes": "Water is not draining in time. Clean the Magic Chef drain pump filter.",
+    "slug": "magic-chef-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Magic Chef",
+    "title": "Temperature Fault",
+    "fixes": "The temperature sensor is faulty. Replace the Magic Chef thermistor.",
+    "slug": "magic-chef-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Magic Chef",
+    "title": "Water Fill Error",
+    "fixes": "Water is not filling properly. Check the Magic Chef inlet valve.",
+    "slug": "magic-chef-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Magic Chef",
+    "title": "Door Lock Fault",
+    "fixes": "The door lock is not working. Inspect the Magic Chef door lock mechanism.",
+    "slug": "magic-chef-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Magic Chef",
+    "title": "Motor Fault",
+    "fixes": "The motor has a fault. Test the Magic Chef motor for continuity.",
+    "slug": "magic-chef-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Magic Chef",
+    "title": "Pressure Error",
+    "fixes": "The pressure switch is malfunctioning. Replace the Magic Chef pressure switch.",
+    "slug": "magic-chef-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Magic Chef",
+    "title": "Overflow Error",
+    "fixes": "An overflow has been detected. Check the Magic Chef pressure system.",
+    "slug": "magic-chef-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Magic Chef",
+    "title": "Communication Error",
+    "fixes": "Control communication has failed. Check Magic Chef wire connections.",
+    "slug": "magic-chef-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Magic Chef",
+    "title": "Heating Error",
+    "fixes": "The heating element has failed. Test the Magic Chef heating element.",
+    "slug": "magic-chef-e10"
+  },
+  {
+    "code": "E1",
+    "brand": "Haier",
+    "title": "Water Level Sensor Error",
+    "fixes": "The water level sensor is malfunctioning. Check the Haier pressure switch and air tube.",
+    "slug": "haier-e1"
+  },
+  {
+    "code": "E2",
+    "brand": "Haier",
+    "title": "Drain Error",
+    "fixes": "Water is not draining properly. Clean the Haier drain pump and check for blockages.",
+    "slug": "haier-e2"
+  },
+  {
+    "code": "E3",
+    "brand": "Haier",
+    "title": "Motor Error",
+    "fixes": "The motor is not operating correctly. Inspect the Haier motor and connections.",
+    "slug": "haier-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "Haier",
+    "title": "Door Lock Error",
+    "fixes": "The door lock is not engaging. Check the Haier door lock assembly.",
+    "slug": "haier-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "Haier",
+    "title": "Temperature Sensor Error",
+    "fixes": "The temperature sensor has failed. Replace the Haier thermistor.",
+    "slug": "haier-e5"
+  },
+  {
+    "code": "E6",
+    "brand": "Haier",
+    "title": "Water Inlet Error",
+    "fixes": "Water is not entering the washer. Check the Haier inlet valve and water supply.",
+    "slug": "haier-e6"
+  },
+  {
+    "code": "E7",
+    "brand": "Haier",
+    "title": "Control Board Error",
+    "fixes": "The control board has detected an error. Reset the Haier washer.",
+    "slug": "haier-e7"
+  },
+  {
+    "code": "E8",
+    "brand": "Haier",
+    "title": "Overflow Error",
+    "fixes": "An overflow condition has been detected. Check the Haier pressure system.",
+    "slug": "haier-e8"
+  },
+  {
+    "code": "E9",
+    "brand": "Haier",
+    "title": "Unbalanced Load",
+    "fixes": "The load is unbalanced. Redistribute laundry in the Haier washer.",
+    "slug": "haier-e9"
+  },
+  {
+    "code": "E10",
+    "brand": "Haier",
+    "title": "Communication Error",
+    "fixes": "Control communication has failed. Check all Haier wire connections.",
+    "slug": "haier-e10"
   }
 ]
