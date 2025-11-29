@@ -271,5 +271,1104 @@
     "title": "Communication Error",
     "fixes": "There's an issue with communication between the control board and other components in the washer.",
     "slug": "nc"
+  },
+  {
+    "code": "F01",
+    "brand": "Indesit",
+    "title": "Electronic circuit board fault",
+    "fixes": "This code indicates a problem with the main control board of your washing machine. Possible causes include a faulty component on the board, electrical wiring issues, or water damage.",
+    "slug": "f01"
+  },
+  {
+    "code": "F02",
+    "brand": "Indesit",
+    "title": "Door open error",
+    "fixes": "The washing machine door isn't properly closed or there's a malfunction with the door lock mechanism. Ensure the door is shut firmly and check for any obstructions preventing a complete closure. A faulty door lock switch or electrical issue with the lock could also be the culprit.",
+    "slug": "f02"
+  },
+  {
+    "code": "F03",
+    "brand": "Indesit",
+    "title": "Temperature sensing fault",
+    "fixes": "The NTC thermistor, which is responsible for measuring water temperature, is malfunctioning. This could be due to a faulty sensor itself, a loose connection between the sensor and the control board, or a problem with the control board.",
+    "slug": "f03"
+  },
+  {
+    "code": "F04",
+    "brand": "Indesit",
+    "title": "Water filling error",
+    "fixes": "The washer is unable to fill with water properly during the cycle. Potential causes include a clogged water inlet valve or filter screen, kinked or blocked water supply hose, or low water pressure from the house supply.",
+    "slug": "f04"
+  },
+  {
+    "code": "F05",
+    "brand": "Indesit",
+    "title": "Waste pipe blockage or pump issue",
+    "fixes": "There's a blockage in the drain hose or a malfunction with the drain pump. Check the drain hose for any objects lodged within and clear any clogs. A faulty drain pump or an electrical issue with the pump could also be the problem.",
+    "slug": "f05"
+  },
+  {
+    "code": "F06",
+    "brand": "Indesit",
+    "title": "Door lock fault",
+    "fixes": "Similar to F02, this code indicates an issue with the door lock mechanism. Check for proper closure and any obstructions. A faulty door lock switch or electrical problem could be the culprit.",
+    "slug": "f06"
+  },
+  {
+    "code": "F07",
+    "brand": "Indesit",
+    "title": "Heater relay stuck",
+    "fixes": "The relay that controls the heating element is stuck in the on position, causing the water to overheat. This could be due to a faulty relay itself or an issue with the control board.",
+    "slug": "f07"
+  },
+  {
+    "code": "F08",
+    "brand": "Indesit",
+    "title": "Heater relay stuck (alternative)",
+    "fixes": "In some Hotpoint models, F08 might also indicate a stuck heater relay, similar to F07.",
+    "slug": "f08"
+  },
+  {
+    "code": "F09",
+    "brand": "Indesit",
+    "title": "Setup Error",
+    "fixes": "This code is less common and might signify an error during the initial setup of the washing machine. Consult your user manual for troubleshooting steps specific to your model.",
+    "slug": "f09"
+  },
+  {
+    "code": "F10",
+    "brand": "Indesit",
+    "title": "Pressure Switch",
+    "fixes": "The pressure switch, which monitors water levels in the drum, is malfunctioning. This could be due to a faulty pressure switch itself, a blocked pressure hose, or an issue with the control board.",
+    "slug": "f10"
+  },
+  {
+    "code": "F11",
+    "brand": "Indesit",
+    "title": "Drain pump",
+    "fixes": "Similar to F05, this code indicates a problem with the drain pump. Check for clogs in the drain hose and ensure the pump is functioning properly.",
+    "slug": "f11"
+  },
+  {
+    "code": "F12",
+    "brand": "Indesit",
+    "title": "No communication between control boards",
+    "fixes": "In some Hotpoint models with dual control boards, this code signifies a communication error between them. This could be due to a faulty control board or a loose connection between the boards.",
+    "slug": "f12"
+  },
+  {
+    "code": "F13",
+    "brand": "Indesit",
+    "title": "Dryer temperature sensing fault (washer dryers only)",
+    "fixes": "This code is specific to Hotpoint washer dryers and indicates a problem with the temperature sensor for the drying function. The NTC thermistor responsible for monitoring drying temperature might be faulty.",
+    "slug": "f13"
+  },
+  {
+    "code": "F14",
+    "brand": "Indesit",
+    "title": "Dryer not heating (washer dryers only)",
+    "fixes": "Another code specific to washer dryers, F14 indicates the dryer function isn't heating properly. This could be due to a malfunctioning heating element, a faulty temperature sensor, or an issue with the control board.",
+    "slug": "f14"
+  },
+  {
+    "code": "F15",
+    "brand": "Indesit",
+    "title": "Dryer element relay (washer dryers only)",
+    "fixes": "Yet another code specific to washer dryers, F15 points towards a problem with the relay controlling the heating element in the drying function. This could be a faulty relay itself or an issue with the control board.",
+    "slug": "f15"
+  },
+  {
+    "code": "F16",
+    "brand": "Indesit",
+    "title": "Not used (alternative)",
+    "fixes": "In some models, F16 might not be used.",
+    "slug": "f16"
+  },
+  {
+    "code": "F17",
+    "brand": "Indesit",
+    "title": "Door lock",
+    "fixes": "Similar to F02 and F06, this code signifies a problem with the door lock mechanism. Ensure proper closure and check for any obstructions. A faulty door lock switch or electrical issue with the lock could be the culprit.",
+    "slug": "f17"
+  },
+  {
+    "code": "F18",
+    "brand": "Indesit",
+    "title": "Communications Error on 3 phase motor",
+    "fixes": "This code indicates an error in communication between the control board and a 3-phase motor, which is less common in household washing machines. It suggests a problem with the motor, its connection, or the control board.",
+    "slug": "f18"
+  },
+  {
+    "code": "F01",
+    "brand": "Whirlpool",
+    "title": "Electronic circuit board fault",
+    "fixes": "This code indicates a problem with the main control board of your washing machine. Possible causes include a faulty component on the board, electrical wiring issues, or water damage.",
+    "slug": "f01"
+  },
+  {
+    "code": "F02",
+    "brand": "Whirlpool",
+    "title": "Door open error",
+    "fixes": "The washing machine door isn't properly closed or there's a malfunction with the door lock mechanism. Ensure the door is shut firmly and check for any obstructions preventing a complete closure. A faulty door lock switch or electrical issue with the lock could also be the culprit.",
+    "slug": "f02"
+  },
+  {
+    "code": "F03",
+    "brand": "Whirlpool",
+    "title": "Temperature sensing fault",
+    "fixes": "The NTC thermistor, which is responsible for measuring water temperature, is malfunctioning. This could be due to a faulty sensor itself, a loose connection between the sensor and the control board, or a problem with the control board.",
+    "slug": "f03"
+  },
+  {
+    "code": "F04",
+    "brand": "Whirlpool",
+    "title": "Water filling error",
+    "fixes": "The washer is unable to fill with water properly during the cycle. Potential causes include a clogged water inlet valve or filter screen, kinked or blocked water supply hose, or low water pressure from the house supply.",
+    "slug": "f04"
+  },
+  {
+    "code": "F05",
+    "brand": "Whirlpool",
+    "title": "Waste pipe blockage or pump issue",
+    "fixes": "There's a blockage in the drain hose or a malfunction with the drain pump. Check the drain hose for any objects lodged within and clear any clogs. A faulty drain pump or an electrical issue with the pump could also be the problem.",
+    "slug": "f05"
+  },
+  {
+    "code": "F06",
+    "brand": "Whirlpool",
+    "title": "Door lock fault",
+    "fixes": "Similar to F02, this code indicates an issue with the door lock mechanism. Check for proper closure and any obstructions. A faulty door lock switch or electrical problem could be the culprit.",
+    "slug": "f06"
+  },
+  {
+    "code": "F07",
+    "brand": "Whirlpool",
+    "title": "Heater relay stuck",
+    "fixes": "The relay that controls the heating element is stuck in the on position, causing the water to overheat. This could be due to a faulty relay itself or an issue with the control board.",
+    "slug": "f07"
+  },
+  {
+    "code": "F08",
+    "brand": "Whirlpool",
+    "title": "Heater relay stuck (alternative)",
+    "fixes": "In some Hotpoint models, F08 might also indicate a stuck heater relay, similar to F07.",
+    "slug": "f08"
+  },
+  {
+    "code": "F09",
+    "brand": "Whirlpool",
+    "title": "Setup Error",
+    "fixes": "This code is less common and might signify an error during the initial setup of the washing machine. Consult your user manual for troubleshooting steps specific to your model.",
+    "slug": "f09"
+  },
+  {
+    "code": "F10",
+    "brand": "Whirlpool",
+    "title": "Pressure Switch",
+    "fixes": "The pressure switch, which monitors water levels in the drum, is malfunctioning. This could be due to a faulty pressure switch itself, a blocked pressure hose, or an issue with the control board.",
+    "slug": "f10"
+  },
+  {
+    "code": "F11",
+    "brand": "Whirlpool",
+    "title": "Drain pump",
+    "fixes": "Similar to F05, this code indicates a problem with the drain pump. Check for clogs in the drain hose and ensure the pump is functioning properly.",
+    "slug": "f11"
+  },
+  {
+    "code": "F12",
+    "brand": "Whirlpool",
+    "title": "No communication between control boards",
+    "fixes": "In some Hotpoint models with dual control boards, this code signifies a communication error between them. This could be due to a faulty control board or a loose connection between the boards.",
+    "slug": "f12"
+  },
+  {
+    "code": "F13",
+    "brand": "Whirlpool",
+    "title": "Dryer temperature sensing fault (washer dryers only)",
+    "fixes": "This code is specific to Hotpoint washer dryers and indicates a problem with the temperature sensor for the drying function. The NTC thermistor responsible for monitoring drying temperature might be faulty.",
+    "slug": "f13"
+  },
+  {
+    "code": "F14",
+    "brand": "Whirlpool",
+    "title": "Dryer not heating (washer dryers only)",
+    "fixes": "Another code specific to washer dryers, F14 indicates the dryer function isn't heating properly. This could be due to a malfunctioning heating element, a faulty temperature sensor, or an issue with the control board.",
+    "slug": "f14"
+  },
+  {
+    "code": "F15",
+    "brand": "Whirlpool",
+    "title": "Dryer element relay (washer dryers only)",
+    "fixes": "Yet another code specific to washer dryers, F15 points towards a problem with the relay controlling the heating element in the drying function. This could be a faulty relay itself or an issue with the control board.",
+    "slug": "f15"
+  },
+  {
+    "code": "F16",
+    "brand": "Whirlpool",
+    "title": "Not used (alternative)",
+    "fixes": "In some models, F16 might not be used.",
+    "slug": "f16"
+  },
+  {
+    "code": "F17",
+    "brand": "Whirlpool",
+    "title": "Door lock",
+    "fixes": "Similar to F02 and F06, this code signifies a problem with the door lock mechanism. Ensure proper closure and check for any obstructions. A faulty door lock switch or electrical issue with the lock could be the culprit.",
+    "slug": "f17"
+  },
+  {
+    "code": "F18",
+    "brand": "Whirlpool",
+    "title": "Communications Error on 3 phase motor",
+    "fixes": "This code indicates an error in communication between the control board and a 3-phase motor, which is less common in household washing machines. It suggests a problem with the motor, its connection, or the control board.",
+    "slug": "f18"
+  },
+  {
+    "code": "F01",
+    "brand": "Bosch",
+    "title": "Electronic circuit board fault",
+    "fixes": "This code indicates a problem with the main control board of your washing machine. Possible causes include a faulty component on the board, electrical wiring issues, or water damage.",
+    "slug": "f01"
+  },
+  {
+    "code": "F02",
+    "brand": "Bosch",
+    "title": "Door open error",
+    "fixes": "The washing machine door isn't properly closed or there's a malfunction with the door lock mechanism. Ensure the door is shut firmly and check for any obstructions preventing a complete closure. A faulty door lock switch or electrical issue with the lock could also be the culprit.",
+    "slug": "f02"
+  },
+  {
+    "code": "F03",
+    "brand": "Bosch",
+    "title": "Temperature sensing fault",
+    "fixes": "The NTC thermistor, which is responsible for measuring water temperature, is malfunctioning. This could be due to a faulty sensor itself, a loose connection between the sensor and the control board, or a problem with the control board.",
+    "slug": "f03"
+  },
+  {
+    "code": "F04",
+    "brand": "Bosch",
+    "title": "Water filling error",
+    "fixes": "The washer is unable to fill with water properly during the cycle. Potential causes include a clogged water inlet valve or filter screen, kinked or blocked water supply hose, or low water pressure from the house supply.",
+    "slug": "f04"
+  },
+  {
+    "code": "F05",
+    "brand": "Bosch",
+    "title": "Waste pipe blockage or pump issue",
+    "fixes": "There's a blockage in the drain hose or a malfunction with the drain pump. Check the drain hose for any objects lodged within and clear any clogs. A faulty drain pump or an electrical issue with the pump could also be the problem.",
+    "slug": "f05"
+  },
+  {
+    "code": "F06",
+    "brand": "Bosch",
+    "title": "Door lock fault",
+    "fixes": "Similar to F02, this code indicates an issue with the door lock mechanism. Check for proper closure and any obstructions. A faulty door lock switch or electrical problem could be the culprit.",
+    "slug": "f06"
+  },
+  {
+    "code": "F07",
+    "brand": "Bosch",
+    "title": "Heater relay stuck",
+    "fixes": "The relay that controls the heating element is stuck in the on position, causing the water to overheat. This could be due to a faulty relay itself or an issue with the control board.",
+    "slug": "f07"
+  },
+  {
+    "code": "F08",
+    "brand": "Bosch",
+    "title": "Heater relay stuck (alternative)",
+    "fixes": "In some Hotpoint models, F08 might also indicate a stuck heater relay, similar to F07.",
+    "slug": "f08"
+  },
+  {
+    "code": "F09",
+    "brand": "Bosch",
+    "title": "Setup Error",
+    "fixes": "This code is less common and might signify an error during the initial setup of the washing machine. Consult your user manual for troubleshooting steps specific to your model.",
+    "slug": "f09"
+  },
+  {
+    "code": "F10",
+    "brand": "Bosch",
+    "title": "Pressure Switch",
+    "fixes": "The pressure switch, which monitors water levels in the drum, is malfunctioning. This could be due to a faulty pressure switch itself, a blocked pressure hose, or an issue with the control board.",
+    "slug": "f10"
+  },
+  {
+    "code": "F11",
+    "brand": "Bosch",
+    "title": "Drain pump",
+    "fixes": "Similar to F05, this code indicates a problem with the drain pump. Check for clogs in the drain hose and ensure the pump is functioning properly.",
+    "slug": "f11"
+  },
+  {
+    "code": "F12",
+    "brand": "Bosch",
+    "title": "No communication between control boards",
+    "fixes": "In some Hotpoint models with dual control boards, this code signifies a communication error between them. This could be due to a faulty control board or a loose connection between the boards.",
+    "slug": "f12"
+  },
+  {
+    "code": "F13",
+    "brand": "Bosch",
+    "title": "Dryer temperature sensing fault (washer dryers only)",
+    "fixes": "This code is specific to Hotpoint washer dryers and indicates a problem with the temperature sensor for the drying function. The NTC thermistor responsible for monitoring drying temperature might be faulty.",
+    "slug": "f13"
+  },
+  {
+    "code": "F14",
+    "brand": "Bosch",
+    "title": "Dryer not heating (washer dryers only)",
+    "fixes": "Another code specific to washer dryers, F14 indicates the dryer function isn't heating properly. This could be due to a malfunctioning heating element, a faulty temperature sensor, or an issue with the control board.",
+    "slug": "f14"
+  },
+  {
+    "code": "F15",
+    "brand": "Bosch",
+    "title": "Dryer element relay (washer dryers only)",
+    "fixes": "Yet another code specific to washer dryers, F15 points towards a problem with the relay controlling the heating element in the drying function. This could be a faulty relay itself or an issue with the control board.",
+    "slug": "f15"
+  },
+  {
+    "code": "F16",
+    "brand": "Bosch",
+    "title": "Not used (alternative)",
+    "fixes": "In some models, F16 might not be used.",
+    "slug": "f16"
+  },
+  {
+    "code": "F17",
+    "brand": "Bosch",
+    "title": "Door lock",
+    "fixes": "Similar to F02 and F06, this code signifies a problem with the door lock mechanism. Ensure proper closure and check for any obstructions. A faulty door lock switch or electrical issue with the lock could be the culprit.",
+    "slug": "f17"
+  },
+  {
+    "code": "F18",
+    "brand": "Bosch",
+    "title": "Communications Error on 3 phase motor",
+    "fixes": "This code indicates an error in communication between the control board and a 3-phase motor, which is less common in household washing machines. It suggests a problem with the motor, its connection, or the control board.",
+    "slug": "f18"
+  },
+  {
+    "code": "E01",
+    "brand": "Hoover",
+    "title": "Door not closed properly",
+    "fixes": "Faulty door lock mechanism, damaged door switch, debris preventing the door from closing fully.",
+    "slug": "e01"
+  },
+  {
+    "code": "E02",
+    "brand": "Hoover",
+    "title": "Door lock malfunction",
+    "fixes": "Faulty door lock mechanism, electrical issue with the door lock.",
+    "slug": "e02"
+  },
+  {
+    "code": "E03",
+    "brand": "Hoover",
+    "title": "Water supply failure",
+    "fixes": "Clogged water inlet valve, kinked or blocked water supply hose, issue with the house water supply.",
+    "slug": "e03"
+  },
+  {
+    "code": "E04",
+    "brand": "Hoover",
+    "title": "Water pressure issue",
+    "fixes": "Low water pressure from the house supply, clogged water inlet valve or filter screen.",
+    "slug": "e04"
+  },
+  {
+    "code": "E05",
+    "brand": "Hoover",
+    "title": "Drain pump malfunction",
+    "fixes": "Faulty drain pump, blocked drain hose, object lodged in the drain pump.",
+    "slug": "e05"
+  },
+  {
+    "code": "E08",
+    "brand": "Hoover",
+    "title": "Motor control error",
+    "fixes": "Issue with the motor control board, electrical wiring problem.",
+    "slug": "e08"
+  },
+  {
+    "code": "E09",
+    "brand": "Hoover",
+    "title": "Motor tachometer error (measures motor speed)",
+    "fixes": "Faulty motor tachometer, problem with the motor control board.",
+    "slug": "e09"
+  },
+  {
+    "code": "E10",
+    "brand": "Hoover",
+    "title": "Communication error between control boards",
+    "fixes": "Faulty control board, loose connection between control boards.",
+    "slug": "e10"
+  },
+  {
+    "code": "E11",
+    "brand": "Hoover",
+    "title": "Heating element malfunction",
+    "fixes": "Faulty heating element, issue with the wiring to the heating element.",
+    "slug": "e11"
+  },
+  {
+    "code": "E12",
+    "brand": "Hoover",
+    "title": "Water overflow error (due to malfunctioning pressure sensor)",
+    "fixes": "Faulty pressure sensor, clogged drain hose.",
+    "slug": "e12"
+  },
+  {
+    "code": "E13",
+    "brand": "Hoover",
+    "title": "Water leakage detected (triggered by Aquastop system)",
+    "fixes": "Leak in the washing machine tub or hoses, faulty Aquastop hose.",
+    "slug": "e13"
+  },
+  {
+    "code": "E14",
+    "brand": "Hoover",
+    "title": "Motor overheating",
+    "fixes": "Motor overload due to heavy load, worn motor bearings.",
+    "slug": "e14"
+  },
+  {
+    "code": "E15",
+    "brand": "Hoover",
+    "title": "Program sequence error",
+    "fixes": "Software glitch in the control board, power surge.",
+    "slug": "e15"
+  },
+  {
+    "code": "E17",
+    "brand": "Hoover",
+    "title": "Water turbidity sensor error (sensor that monitors water clarity)",
+    "fixes": "Faulty water turbidity sensor, very dirty wash water.",
+    "slug": "e17"
+  },
+  {
+    "code": "E21",
+    "brand": "Hoover",
+    "title": "Water supply pressure too high",
+    "fixes": "Faulty pressure sensor, problem with the house water supply.",
+    "slug": "e21"
+  },
+  {
+    "code": "E22",
+    "brand": "Hoover",
+    "title": "Water supply pressure too low",
+    "fixes": "Clogged water inlet valve or filter screen, low water pressure from the house supply.",
+    "slug": "e22"
+  },
+  {
+    "code": "E24",
+    "brand": "Hoover",
+    "title": "Water meter fault (controls water usage)",
+    "fixes": "Faulty water meter, issue with the wiring to the water meter.",
+    "slug": "e24"
+  },
+  {
+    "code": "E25",
+    "brand": "Hoover",
+    "title": "Main inlet valve malfunction (controls water intake)",
+    "fixes": "Faulty main inlet valve, electrical issue with the valve.",
+    "slug": "e25"
+  },
+  {
+    "code": "E26",
+    "brand": "Hoover",
+    "title": "Detergent drawer malfunction",
+    "fixes": "Blocked detergent drawer, faulty dispenser mechanism.",
+    "slug": "e26"
+  },
+  {
+    "code": "E27",
+    "brand": "Hoover",
+    "title": "Light control unit error",
+    "fixes": "Faulty light control unit, electrical wiring problem.",
+    "slug": "e27"
+  },
+  {
+    "code": "E29",
+    "brand": "Hoover",
+    "title": "Child lock activated",
+    "fixes": "Child lock function engaged on the control panel.",
+    "slug": "e29"
+  },
+  {
+    "code": "E01",
+    "brand": "Bush",
+    "title": "Door not closed properly",
+    "fixes": "Faulty door lock mechanism, damaged door switch, debris preventing the door from closing fully.",
+    "slug": "e01"
+  },
+  {
+    "code": "E02",
+    "brand": "Bush",
+    "title": "Door lock malfunction",
+    "fixes": "Faulty door lock mechanism, electrical issue with the door lock.",
+    "slug": "e02"
+  },
+  {
+    "code": "E03",
+    "brand": "Bush",
+    "title": "Water supply failure",
+    "fixes": "Clogged water inlet valve, kinked or blocked water supply hose, issue with the house water supply.",
+    "slug": "e03"
+  },
+  {
+    "code": "E04",
+    "brand": "Bush",
+    "title": "Water pressure issue",
+    "fixes": "Low water pressure from the house supply, clogged water inlet valve or filter screen.",
+    "slug": "e04"
+  },
+  {
+    "code": "E05",
+    "brand": "Bush",
+    "title": "Drain pump malfunction",
+    "fixes": "Faulty drain pump, blocked drain hose, object lodged in the drain pump.",
+    "slug": "e05"
+  },
+  {
+    "code": "E08",
+    "brand": "Bush",
+    "title": "Motor control error",
+    "fixes": "Issue with the motor control board, electrical wiring problem.",
+    "slug": "e08"
+  },
+  {
+    "code": "E09",
+    "brand": "Bush",
+    "title": "Motor tachometer error (measures motor speed)",
+    "fixes": "Faulty motor tachometer, problem with the motor control board.",
+    "slug": "e09"
+  },
+  {
+    "code": "E10",
+    "brand": "Bush",
+    "title": "Communication error between control boards",
+    "fixes": "Faulty control board, loose connection between control boards.",
+    "slug": "e10"
+  },
+  {
+    "code": "E11",
+    "brand": "Bush",
+    "title": "Heating element malfunction",
+    "fixes": "Faulty heating element, issue with the wiring to the heating element.",
+    "slug": "e11"
+  },
+  {
+    "code": "E12",
+    "brand": "Bush",
+    "title": "Water overflow error (due to malfunctioning pressure sensor)",
+    "fixes": "Faulty pressure sensor, clogged drain hose.",
+    "slug": "e12"
+  },
+  {
+    "code": "E13",
+    "brand": "Bush",
+    "title": "Water leakage detected (triggered by Aquastop system)",
+    "fixes": "Leak in the washing machine tub or hoses, faulty Aquastop hose.",
+    "slug": "e13"
+  },
+  {
+    "code": "E14",
+    "brand": "Bush",
+    "title": "Motor overheating",
+    "fixes": "Motor overload due to heavy load, worn motor bearings.",
+    "slug": "e14"
+  },
+  {
+    "code": "E15",
+    "brand": "Bush",
+    "title": "Program sequence error",
+    "fixes": "Software glitch in the control board, power surge.",
+    "slug": "e15"
+  },
+  {
+    "code": "E17",
+    "brand": "Bush",
+    "title": "Water turbidity sensor error (sensor that monitors water clarity)",
+    "fixes": "Faulty water turbidity sensor, very dirty wash water.",
+    "slug": "e17"
+  },
+  {
+    "code": "E21",
+    "brand": "Bush",
+    "title": "Water supply pressure too high",
+    "fixes": "Faulty pressure sensor, problem with the house water supply.",
+    "slug": "e21"
+  },
+  {
+    "code": "E22",
+    "brand": "Bush",
+    "title": "Water supply pressure too low",
+    "fixes": "Clogged water inlet valve or filter screen, low water pressure from the house supply.",
+    "slug": "e22"
+  },
+  {
+    "code": "E24",
+    "brand": "Bush",
+    "title": "Water meter fault (controls water usage)",
+    "fixes": "Faulty water meter, issue with the wiring to the water meter.",
+    "slug": "e24"
+  },
+  {
+    "code": "E25",
+    "brand": "Bush",
+    "title": "Main inlet valve malfunction (controls water intake)",
+    "fixes": "Faulty main inlet valve, electrical issue with the valve.",
+    "slug": "e25"
+  },
+  {
+    "code": "E26",
+    "brand": "Bush",
+    "title": "Detergent drawer malfunction",
+    "fixes": "Blocked detergent drawer, faulty dispenser mechanism.",
+    "slug": "e26"
+  },
+  {
+    "code": "E27",
+    "brand": "Bush",
+    "title": "Light control unit error",
+    "fixes": "Faulty light control unit, electrical wiring problem.",
+    "slug": "e27"
+  },
+  {
+    "code": "E29",
+    "brand": "Bush",
+    "title": "Child lock activated",
+    "fixes": "Child lock function engaged on the control panel.",
+    "slug": "e29"
+  },
+  {
+    "code": "E01",
+    "brand": "Candy",
+    "title": "Door not closed properly",
+    "fixes": "Faulty door lock mechanism, damaged door switch, debris preventing the door from closing fully.",
+    "slug": "e01"
+  },
+  {
+    "code": "E02",
+    "brand": "Candy",
+    "title": "Door lock malfunction",
+    "fixes": "Faulty door lock mechanism, electrical issue with the door lock.",
+    "slug": "e02"
+  },
+  {
+    "code": "E03",
+    "brand": "Candy",
+    "title": "Water supply failure",
+    "fixes": "Clogged water inlet valve, kinked or blocked water supply hose, issue with the house water supply.",
+    "slug": "e03"
+  },
+  {
+    "code": "E04",
+    "brand": "Candy",
+    "title": "Water pressure issue",
+    "fixes": "Low water pressure from the house supply, clogged water inlet valve or filter screen.",
+    "slug": "e04"
+  },
+  {
+    "code": "E05",
+    "brand": "Candy",
+    "title": "Drain pump malfunction",
+    "fixes": "Faulty drain pump, blocked drain hose, object lodged in the drain pump.",
+    "slug": "e05"
+  },
+  {
+    "code": "E08",
+    "brand": "Candy",
+    "title": "Motor control error",
+    "fixes": "Issue with the motor control board, electrical wiring problem.",
+    "slug": "e08"
+  },
+  {
+    "code": "E09",
+    "brand": "Candy",
+    "title": "Motor tachometer error (measures motor speed)",
+    "fixes": "Faulty motor tachometer, problem with the motor control board.",
+    "slug": "e09"
+  },
+  {
+    "code": "E10",
+    "brand": "Candy",
+    "title": "Communication error between control boards",
+    "fixes": "Faulty control board, loose connection between control boards.",
+    "slug": "e10"
+  },
+  {
+    "code": "E11",
+    "brand": "Candy",
+    "title": "Heating element malfunction",
+    "fixes": "Faulty heating element, issue with the wiring to the heating element.",
+    "slug": "e11"
+  },
+  {
+    "code": "E12",
+    "brand": "Candy",
+    "title": "Water overflow error (due to malfunctioning pressure sensor)",
+    "fixes": "Faulty pressure sensor, clogged drain hose.",
+    "slug": "e12"
+  },
+  {
+    "code": "E13",
+    "brand": "Candy",
+    "title": "Water leakage detected (triggered by Aquastop system)",
+    "fixes": "Leak in the washing machine tub or hoses, faulty Aquastop hose.",
+    "slug": "e13"
+  },
+  {
+    "code": "E14",
+    "brand": "Candy",
+    "title": "Motor overheating",
+    "fixes": "Motor overload due to heavy load, worn motor bearings.",
+    "slug": "e14"
+  },
+  {
+    "code": "E15",
+    "brand": "Candy",
+    "title": "Program sequence error",
+    "fixes": "Software glitch in the control board, power surge.",
+    "slug": "e15"
+  },
+  {
+    "code": "E17",
+    "brand": "Candy",
+    "title": "Water turbidity sensor error (sensor that monitors water clarity)",
+    "fixes": "Faulty water turbidity sensor, very dirty wash water.",
+    "slug": "e17"
+  },
+  {
+    "code": "E21",
+    "brand": "Candy",
+    "title": "Water supply pressure too high",
+    "fixes": "Faulty pressure sensor, problem with the house water supply.",
+    "slug": "e21"
+  },
+  {
+    "code": "E22",
+    "brand": "Candy",
+    "title": "Water supply pressure too low",
+    "fixes": "Clogged water inlet valve or filter screen, low water pressure from the house supply.",
+    "slug": "e22"
+  },
+  {
+    "code": "E24",
+    "brand": "Candy",
+    "title": "Water meter fault (controls water usage)",
+    "fixes": "Faulty water meter, issue with the wiring to the water meter.",
+    "slug": "e24"
+  },
+  {
+    "code": "E25",
+    "brand": "Candy",
+    "title": "Main inlet valve malfunction (controls water intake)",
+    "fixes": "Faulty main inlet valve, electrical issue with the valve.",
+    "slug": "e25"
+  },
+  {
+    "code": "E26",
+    "brand": "Candy",
+    "title": "Detergent drawer malfunction",
+    "fixes": "Blocked detergent drawer, faulty dispenser mechanism.",
+    "slug": "e26"
+  },
+  {
+    "code": "E27",
+    "brand": "Candy",
+    "title": "Light control unit error",
+    "fixes": "Faulty light control unit, electrical wiring problem.",
+    "slug": "e27"
+  },
+  {
+    "code": "E29",
+    "brand": "Candy",
+    "title": "Child lock activated",
+    "fixes": "Child lock function engaged on the control panel.",
+    "slug": "e29"
+  },
+  {
+    "code": "E10",
+    "brand": "Electrolux",
+    "title": "Door Open Error",
+    "fixes": "The washing machine door isn't properly closed, or there's a malfunction with the door lock mechanism. Ensure the door is shut firmly and check for any obstructions preventing a complete closure. A faulty door lock switch or electrical issue with the lock could also be the culprit.",
+    "slug": "e10"
+  },
+  {
+    "code": "IE",
+    "brand": "Electrolux",
+    "title": "Water Inlet Error",
+    "fixes": "The washer is unable to fill with water properly during the cycle. Potential causes include a clogged water inlet valve or filter screen, kinked or blocked water supply hose, or low water pressure from the house supply.",
+    "slug": "ie"
+  },
+  {
+    "code": "OE",
+    "brand": "Electrolux",
+    "title": "Drain Error",
+    "fixes": "The washer is unable to drain the water properly during the cycle. A clogged drain hose, blocked drain pump, or faulty drain pump could be the culprit.",
+    "slug": "oe"
+  },
+  {
+    "code": "PE",
+    "brand": "Electrolux",
+    "title": "Water Level Pressure Sensor Fault",
+    "fixes": "The pressure sensor, which monitors water levels in the drum, is malfunctioning. This could be due to a faulty pressure switch itself, a blocked pressure hose, or an issue with the control board.",
+    "slug": "pe"
+  },
+  {
+    "code": "FE",
+    "brand": "Electrolux",
+    "title": "Water Overflow Error",
+    "fixes": "The washer has detected an excessive amount of water in the drum, potentially due to a malfunctioning pressure sensor or a faulty inlet valve.",
+    "slug": "fe"
+  },
+  {
+    "code": "TE",
+    "brand": "Electrolux",
+    "title": "Water Heating Error",
+    "fixes": "The washer is having difficulty heating the water to the desired temperature. This could be due to a faulty heating element, a malfunctioning NTC thermistor (temperature sensor), or an issue with the control board.",
+    "slug": "te"
+  },
+  {
+    "code": "UE",
+    "brand": "Electrolux",
+    "title": "Unbalanced Load Error",
+    "fixes": "The laundry load in the drum is unbalanced, causing excessive vibration. Redistribute the laundry items for a more even weight distribution.",
+    "slug": "ue"
+  },
+  {
+    "code": "CE",
+    "brand": "Electrolux",
+    "title": "Current Error",
+    "fixes": "The washer has detected a surge in electrical current. This could be due to a power surge or a problem with the motor or control board.",
+    "slug": "ce"
+  },
+  {
+    "code": "LE",
+    "brand": "Electrolux",
+    "title": "Motor Overload Error",
+    "fixes": "The motor is overloaded, likely due to an excessively heavy load. Reduce the amount of laundry in the drum and restart the cycle.",
+    "slug": "le"
+  },
+  {
+    "code": "CL",
+    "brand": "Electrolux",
+    "title": "Child Lock Activated",
+    "fixes": "The child lock function is engaged on the control panel, disabling certain buttons.",
+    "slug": "cl"
+  },
+  {
+    "code": "SE",
+    "brand": "Electrolux",
+    "title": "Motor Error or PCB Error",
+    "fixes": "This code indicates a potential issue with the motor itself or the main control board (PCB). This could be due to a malfunctioning motor, a faulty control board, or an electrical wiring issue.",
+    "slug": "se"
+  },
+  {
+    "code": "F01",
+    "brand": "Miele",
+    "title": "Electronic circuit board fault",
+    "fixes": "This code indicates a problem with the main control board of your washing machine. Possible causes include a faulty component on the board, electrical wiring issues, or water damage.",
+    "slug": "f01"
+  },
+  {
+    "code": "F02",
+    "brand": "Miele",
+    "title": "Door open error",
+    "fixes": "The washing machine door isn't properly closed or there's a malfunction with the door lock mechanism. Ensure the door is shut firmly and check for any obstructions preventing a complete closure. A faulty door lock switch or electrical issue with the lock could also be the culprit.",
+    "slug": "f02"
+  },
+  {
+    "code": "F03",
+    "brand": "Miele",
+    "title": "Temperature sensing fault",
+    "fixes": "The NTC thermistor, which is responsible for measuring water temperature, is malfunctioning. This could be due to a faulty sensor itself, a loose connection between the sensor and the control board, or a problem with the control board.",
+    "slug": "f03"
+  },
+  {
+    "code": "F04",
+    "brand": "Miele",
+    "title": "Water filling error",
+    "fixes": "The washer is unable to fill with water properly during the cycle. Potential causes include a clogged water inlet valve or filter screen, kinked or blocked water supply hose, or low water pressure from the house supply.",
+    "slug": "f04"
+  },
+  {
+    "code": "F05",
+    "brand": "Miele",
+    "title": "Waste pipe blockage or pump issue",
+    "fixes": "There's a blockage in the drain hose or a malfunction with the drain pump. Check the drain hose for any objects lodged within and clear any clogs. A faulty drain pump or an electrical issue with the pump could also be the problem.",
+    "slug": "f05"
+  },
+  {
+    "code": "F06",
+    "brand": "Miele",
+    "title": "Door lock fault",
+    "fixes": "Similar to F02, this code indicates an issue with the door lock mechanism. Check for proper closure and any obstructions. A faulty door lock switch or electrical problem could be the culprit.",
+    "slug": "f06"
+  },
+  {
+    "code": "F07",
+    "brand": "Miele",
+    "title": "Heater relay stuck",
+    "fixes": "The relay that controls the heating element is stuck in the on position, causing the water to overheat. This could be due to a faulty relay itself or an issue with the control board.",
+    "slug": "f07"
+  },
+  {
+    "code": "F08",
+    "brand": "Miele",
+    "title": "Heater relay stuck (alternative)",
+    "fixes": "In some Hotpoint models, F08 might also indicate a stuck heater relay, similar to F07.",
+    "slug": "f08"
+  },
+  {
+    "code": "F09",
+    "brand": "Miele",
+    "title": "Setup Error",
+    "fixes": "This code is less common and might signify an error during the initial setup of the washing machine. Consult your user manual for troubleshooting steps specific to your model.",
+    "slug": "f09"
+  },
+  {
+    "code": "F10",
+    "brand": "Miele",
+    "title": "Pressure Switch",
+    "fixes": "The pressure switch, which monitors water levels in the drum, is malfunctioning. This could be due to a faulty pressure switch itself, a blocked pressure hose, or an issue with the control board.",
+    "slug": "f10"
+  },
+  {
+    "code": "F11",
+    "brand": "Miele",
+    "title": "Drain pump",
+    "fixes": "Similar to F05, this code indicates a problem with the drain pump. Check for clogs in the drain hose and ensure the pump is functioning properly.",
+    "slug": "f11"
+  },
+  {
+    "code": "F12",
+    "brand": "Miele",
+    "title": "No communication between control boards",
+    "fixes": "In some Hotpoint models with dual control boards, this code signifies a communication error between them. This could be due to a faulty control board or a loose connection between the boards.",
+    "slug": "f12"
+  },
+  {
+    "code": "F13",
+    "brand": "Miele",
+    "title": "Dryer temperature sensing fault (washer dryers only)",
+    "fixes": "This code is specific to Hotpoint washer dryers and indicates a problem with the temperature sensor for the drying function. The NTC thermistor responsible for monitoring drying temperature might be faulty.",
+    "slug": "f13"
+  },
+  {
+    "code": "F14",
+    "brand": "Miele",
+    "title": "Dryer not heating (washer dryers only)",
+    "fixes": "Another code specific to washer dryers, F14 indicates the dryer function isn't heating properly. This could be due to a malfunctioning heating element, a faulty temperature sensor, or an issue with the control board.",
+    "slug": "f14"
+  },
+  {
+    "code": "F15",
+    "brand": "Miele",
+    "title": "Dryer element relay (washer dryers only)",
+    "fixes": "Yet another code specific to washer dryers, F15 points towards a problem with the relay controlling the heating element in the drying function. This could be a faulty relay itself or an issue with the control board.",
+    "slug": "f15"
+  },
+  {
+    "code": "F16",
+    "brand": "Miele",
+    "title": "Not used (alternative)",
+    "fixes": "In some models, F16 might not be used.",
+    "slug": "f16"
+  },
+  {
+    "code": "F17",
+    "brand": "Miele",
+    "title": "Door lock",
+    "fixes": "Similar to F02 and F06, this code signifies a problem with the door lock mechanism. Ensure proper closure and check for any obstructions. A faulty door lock switch or electrical issue with the lock could be the culprit.",
+    "slug": "f17"
+  },
+  {
+    "code": "F18",
+    "brand": "Miele",
+    "title": "Communications Error on 3 phase motor",
+    "fixes": "This code indicates an error in communication between the control board and a 3-phase motor, which is less common in household washing machines. It suggests a problem with the motor, its connection, or the control board.",
+    "slug": "f18"
+  },
+  {
+    "code": "E10",
+    "brand": "AEG",
+    "title": "Door Open Error",
+    "fixes": "The washing machine door isn't properly closed, or there's a malfunction with the door lock mechanism. Ensure the door is shut firmly and check for any obstructions preventing a complete closure. A faulty door lock switch or electrical issue with the lock could also be the culprit.",
+    "slug": "e10"
+  },
+  {
+    "code": "IE",
+    "brand": "AEG",
+    "title": "Water Inlet Error",
+    "fixes": "The washer is unable to fill with water properly during the cycle. Potential causes include a clogged water inlet valve or filter screen, kinked or blocked water supply hose, or low water pressure from the house supply.",
+    "slug": "ie"
+  },
+  {
+    "code": "OE",
+    "brand": "AEG",
+    "title": "Drain Error",
+    "fixes": "The washer is unable to drain the water properly during the cycle. A clogged drain hose, blocked drain pump, or faulty drain pump could be the culprit.",
+    "slug": "oe"
+  },
+  {
+    "code": "PE",
+    "brand": "AEG",
+    "title": "Water Level Pressure Sensor Fault",
+    "fixes": "The pressure sensor, which monitors water levels in the drum, is malfunctioning. This could be due to a faulty pressure switch itself, a blocked pressure hose, or an issue with the control board.",
+    "slug": "pe"
+  },
+  {
+    "code": "FE",
+    "brand": "AEG",
+    "title": "Water Overflow Error",
+    "fixes": "The washer has detected an excessive amount of water in the drum, potentially due to a malfunctioning pressure sensor or a faulty inlet valve.",
+    "slug": "fe"
+  },
+  {
+    "code": "TE",
+    "brand": "AEG",
+    "title": "Water Heating Error",
+    "fixes": "The washer is having difficulty heating the water to the desired temperature. This could be due to a faulty heating element, a malfunctioning NTC thermistor (temperature sensor), or an issue with the control board.",
+    "slug": "te"
+  },
+  {
+    "code": "UE",
+    "brand": "AEG",
+    "title": "Unbalanced Load Error",
+    "fixes": "The laundry load in the drum is unbalanced, causing excessive vibration. Redistribute the laundry items for a more even weight distribution.",
+    "slug": "ue"
+  },
+  {
+    "code": "CE",
+    "brand": "AEG",
+    "title": "Current Error",
+    "fixes": "The washer has detected a surge in electrical current. This could be due to a power surge or a problem with the motor or control board.",
+    "slug": "ce"
+  },
+  {
+    "code": "LE",
+    "brand": "AEG",
+    "title": "Motor Overload Error",
+    "fixes": "The motor is overloaded, likely due to an excessively heavy load. Reduce the amount of laundry in the drum and restart the cycle.",
+    "slug": "le"
+  },
+  {
+    "code": "CL",
+    "brand": "AEG",
+    "title": "Child Lock Activated",
+    "fixes": "The child lock function is engaged on the control panel, disabling certain buttons.",
+    "slug": "cl"
+  },
+  {
+    "code": "SE",
+    "brand": "AEG",
+    "title": "Motor Error or PCB Error",
+    "fixes": "This code indicates a potential issue with the motor itself or the main control board (PCB). This could be due to a malfunctioning motor, a faulty control board, or an electrical wiring issue.",
+    "slug": "se"
   }
 ]
