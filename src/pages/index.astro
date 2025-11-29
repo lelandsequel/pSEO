@@ -61,7 +61,7 @@ const errors = errorsData.slice(0, 100);
 		<div id="errorGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
 			{errors.map((error) => (
 				<a 
-					href={`/${error.code}`}
+					href={`/${error.slug}`}
 					class="error-card group bg-white p-6 rounded-xl border-2 border-gray-200 hover:border-blue-500 hover:shadow-lg transition duration-200 ease-in-out"
 					data-code={error.code.toLowerCase()}
 					data-brand={error.brand.toLowerCase()}
