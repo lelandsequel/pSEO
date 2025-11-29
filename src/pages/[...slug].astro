@@ -20,7 +20,7 @@ export async function getStaticPaths() {
     const data = JSON.parse(fileContent);
     
     return data.map((item: any) => ({
-      params: { slug: item.slug },
+      params: { slug: item.slug.toLowerCase() },
       props: { item },
     }));
   } catch (error) {
