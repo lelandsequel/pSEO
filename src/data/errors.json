@@ -3561,5 +3561,1237 @@
     "title": "Gas Valve Error",
     "fixes": "\u26a0\ufe0f GAS CONTROL: The gas valve circuit has failed. Check the Navien gas valve connections and test valve coil resistance.",
     "slug": "navien-tankless-water-heater-e515"
+  },
+  {
+    "code": "0x610000f6",
+    "brand": "HP",
+    "title": "Print Cartridge Problem",
+    "fixes": "The printer cannot recognize or communicate with the print cartridge. Remove and reinstall the HP cartridge, clean the contacts with a lint-free cloth, and ensure you're using genuine HP cartridges.",
+    "slug": "hp-printer-0610000f6"
+  },
+  {
+    "code": "0x61011bed",
+    "brand": "HP",
+    "title": "Incompatible Print Cartridge",
+    "fixes": "The installed cartridge is not compatible with this HP printer. Verify you have the correct cartridge model for your printer and ensure it's a genuine HP product.",
+    "slug": "hp-printer-061011bed"
+  },
+  {
+    "code": "0xc19a0003",
+    "brand": "HP",
+    "title": "Ink System Failure",
+    "fixes": "The ink delivery system has failed. Turn off the HP printer, wait 60 seconds, then restart. If error persists, the printhead may need replacement.",
+    "slug": "hp-printer-0c19a0003"
+  },
+  {
+    "code": "0xc19a0013",
+    "brand": "HP",
+    "title": "Printhead Problem",
+    "fixes": "The printhead is missing, damaged, or incompatible. Check that the HP printhead is properly installed and clean the electrical contacts.",
+    "slug": "hp-printer-0c19a0013"
+  },
+  {
+    "code": "0xc19a0020",
+    "brand": "HP",
+    "title": "Ink Cartridge Failure",
+    "fixes": "One or more ink cartridges have failed. Replace the indicated HP ink cartridge and ensure proper installation.",
+    "slug": "hp-printer-0c19a0020"
+  },
+  {
+    "code": "0x83c0000b",
+    "brand": "HP",
+    "title": "Paper Jam",
+    "fixes": "Paper is jammed in the HP printer. Remove all paper from input and output trays, open all access doors, and carefully remove any jammed paper.",
+    "slug": "hp-printer-083c0000b"
+  },
+  {
+    "code": "49.4C02",
+    "brand": "HP",
+    "title": "Firmware Error",
+    "fixes": "A critical firmware error has occurred. Turn off the HP printer, disconnect power for 30 seconds, then restart. Update to the latest firmware if available.",
+    "slug": "hp-printer-49.4c02"
+  },
+  {
+    "code": "50.4",
+    "brand": "HP",
+    "title": "Fuser Error",
+    "fixes": "The fuser has a problem. Turn off the HP printer and allow it to cool for 30 minutes. If error persists, the fuser assembly may need replacement.",
+    "slug": "hp-printer-50.4"
+  },
+  {
+    "code": "51.20",
+    "brand": "HP",
+    "title": "Laser Scanner Error",
+    "fixes": "The laser scanner motor has failed. Turn off the HP printer, wait 30 seconds, and restart. If error continues, professional service is required.",
+    "slug": "hp-printer-51.20"
+  },
+  {
+    "code": "52.00",
+    "brand": "HP",
+    "title": "Scanner Startup Error",
+    "fixes": "The scanner failed to initialize. Restart the HP printer and ensure nothing is blocking the scanner mechanism.",
+    "slug": "hp-printer-52.00"
+  },
+  {
+    "code": "54.1",
+    "brand": "HP",
+    "title": "Sensor Error",
+    "fixes": "An environmental sensor has failed. Check that all HP printer covers are closed and no obstructions are present.",
+    "slug": "hp-printer-54.1"
+  },
+  {
+    "code": "55.1",
+    "brand": "HP",
+    "title": "Communication Error",
+    "fixes": "The printer cannot communicate with the control panel. Restart the HP printer and check all internal cable connections.",
+    "slug": "hp-printer-55.1"
+  },
+  {
+    "code": "57.4",
+    "brand": "HP",
+    "title": "Fan Error",
+    "fixes": "A cooling fan has failed. Turn off the HP printer and check for obstructions around the fan. The fan motor may need replacement.",
+    "slug": "hp-printer-57.4"
+  },
+  {
+    "code": "59.30",
+    "brand": "HP",
+    "title": "Motor Error",
+    "fixes": "A motor in the HP printer has failed. Restart the printer and check for mechanical obstructions in the paper path.",
+    "slug": "hp-printer-59.30"
+  },
+  {
+    "code": "79.00FE",
+    "brand": "HP",
+    "title": "Firmware Upgrade Error",
+    "fixes": "A firmware upgrade failed. Perform a cold reset on the HP printer and attempt the firmware update again.",
+    "slug": "hp-printer-79.00fe"
+  },
+  {
+    "code": "8F.FF",
+    "brand": "HP",
+    "title": "Cartridge Memory Error",
+    "fixes": "Cannot read cartridge memory chip. Clean the HP cartridge contacts and reinstall. Replace cartridge if error persists.",
+    "slug": "hp-printer-8f.ff"
+  },
+  {
+    "code": "E3",
+    "brand": "HP",
+    "title": "Paper Jam in Carriage",
+    "fixes": "Paper is jammed in the carriage area. Open the HP printer carriage access door and carefully remove any paper or debris.",
+    "slug": "hp-printer-e3"
+  },
+  {
+    "code": "E4",
+    "brand": "HP",
+    "title": "Paper Jam in Output",
+    "fixes": "Paper is jammed in the output tray. Remove all paper from the output tray and check for torn pieces inside the HP printer.",
+    "slug": "hp-printer-e4"
+  },
+  {
+    "code": "E5",
+    "brand": "HP",
+    "title": "Scanner Failure",
+    "fixes": "The scanner mechanism has failed. Restart the HP printer and ensure the scanner glass is clean and unobstructed.",
+    "slug": "hp-printer-e5"
+  },
+  {
+    "code": "E8",
+    "brand": "HP",
+    "title": "Ink Absorber Full",
+    "fixes": "The ink absorber pad is full. Contact HP support as the absorber pad needs to be replaced or reset by a technician.",
+    "slug": "hp-printer-e8"
+  },
+  {
+    "code": "B200",
+    "brand": "HP",
+    "title": "Print Head Error",
+    "fixes": "The printhead has failed or is not installed correctly. Remove and reinstall the HP printhead, clean the contacts, or replace if damaged.",
+    "slug": "hp-printer-b200"
+  },
+  {
+    "code": "C000",
+    "brand": "HP",
+    "title": "Ink Absorber Error",
+    "fixes": "The ink absorber is nearly full. Continue printing with caution and contact HP support to schedule absorber replacement.",
+    "slug": "hp-printer-c000"
+  },
+  {
+    "code": "E02",
+    "brand": "HP",
+    "title": "Out of Paper",
+    "fixes": "The paper tray is empty or paper is not detected. Load paper into the HP printer tray and ensure it's properly aligned.",
+    "slug": "hp-printer-e02"
+  },
+  {
+    "code": "E03",
+    "brand": "HP",
+    "title": "Paper Feed Error",
+    "fixes": "Paper cannot be fed properly. Check for obstructions in the HP paper path and ensure paper is loaded correctly.",
+    "slug": "hp-printer-e03"
+  },
+  {
+    "code": "E07",
+    "brand": "HP",
+    "title": "Carriage Jam",
+    "fixes": "The print carriage is jammed or obstructed. Open the HP printer and remove any objects blocking the carriage movement.",
+    "slug": "hp-printer-e07"
+  },
+  {
+    "code": "E16",
+    "brand": "HP",
+    "title": "Ink Level Error",
+    "fixes": "Cannot detect ink levels. Remove and reinstall the HP ink cartridges and ensure they're genuine products.",
+    "slug": "hp-printer-e16"
+  },
+  {
+    "code": "E22",
+    "brand": "HP",
+    "title": "Scanner Error",
+    "fixes": "The scanner unit has failed. Restart the HP printer and check that nothing is blocking the scanner mechanism.",
+    "slug": "hp-printer-e22"
+  },
+  {
+    "code": "E33",
+    "brand": "HP",
+    "title": "Carriage Position Error",
+    "fixes": "The carriage cannot find its home position. Turn off the HP printer, manually move the carriage to center, then restart.",
+    "slug": "hp-printer-e33"
+  },
+  {
+    "code": "E40",
+    "brand": "HP",
+    "title": "Hardware Malfunction",
+    "fixes": "A critical hardware component has failed. Perform a hard reset on the HP printer by unplugging for 60 seconds.",
+    "slug": "hp-printer-e40"
+  },
+  {
+    "code": "E50",
+    "brand": "HP",
+    "title": "Motor Failure",
+    "fixes": "A motor has stopped functioning. Check for mechanical obstructions and restart the HP printer.",
+    "slug": "hp-printer-e50"
+  },
+  {
+    "code": "1000",
+    "brand": "HP",
+    "title": "Service Station Error",
+    "fixes": "The service station mechanism has failed. Clean the service station area in the HP printer and check for obstructions.",
+    "slug": "hp-printer-1000"
+  },
+  {
+    "code": "1300",
+    "brand": "HP",
+    "title": "Paper Size Mismatch",
+    "fixes": "The paper size setting doesn't match the loaded paper. Adjust the HP printer settings to match the actual paper size.",
+    "slug": "hp-printer-1300"
+  },
+  {
+    "code": "1600",
+    "brand": "HP",
+    "title": "Toner Low",
+    "fixes": "The toner cartridge is low. Replace the HP toner cartridge soon to avoid print quality issues.",
+    "slug": "hp-printer-1600"
+  },
+  {
+    "code": "2000",
+    "brand": "HP",
+    "title": "Door Open Error",
+    "fixes": "A printer door or cover is open. Close all HP printer doors and covers securely.",
+    "slug": "hp-printer-2000"
+  },
+  {
+    "code": "2140",
+    "brand": "HP",
+    "title": "Toner Cartridge Error",
+    "fixes": "The toner cartridge is not installed correctly. Remove and reinstall the HP toner cartridge firmly.",
+    "slug": "hp-printer-2140"
+  },
+  {
+    "code": "46",
+    "brand": "Brother",
+    "title": "Scanner Error",
+    "fixes": "The scanner unit cannot initialize. Restart the Brother printer and ensure the scanner glass is clean and unobstructed.",
+    "slug": "brother-printer-46"
+  },
+  {
+    "code": "48",
+    "brand": "Brother",
+    "title": "Print Head Error",
+    "fixes": "The print head is not installed or has failed. Check that the Brother print head is properly seated and clean the contacts.",
+    "slug": "brother-printer-48"
+  },
+  {
+    "code": "50",
+    "brand": "Brother",
+    "title": "High Temperature",
+    "fixes": "The printer has overheated. Turn off the Brother printer and allow it to cool for at least 30 minutes before restarting.",
+    "slug": "brother-printer-50"
+  },
+  {
+    "code": "51",
+    "brand": "Brother",
+    "title": "Laser Unit Error",
+    "fixes": "The laser unit has malfunctioned. Turn off the Brother printer, wait 10 minutes, then restart. Professional service may be required.",
+    "slug": "brother-printer-51"
+  },
+  {
+    "code": "57",
+    "brand": "Brother",
+    "title": "Fan Motor Error",
+    "fixes": "A cooling fan has failed. Check for obstructions around the Brother printer fans and ensure proper ventilation.",
+    "slug": "brother-printer-57"
+  },
+  {
+    "code": "5A",
+    "brand": "Brother",
+    "title": "Fuser Error",
+    "fixes": "The fuser unit has failed. Turn off the Brother printer and allow it to cool. The fuser may need replacement.",
+    "slug": "brother-printer-5a"
+  },
+  {
+    "code": "71",
+    "brand": "Brother",
+    "title": "Communication Error",
+    "fixes": "The printer cannot communicate with the computer. Check the USB or network connection to the Brother printer.",
+    "slug": "brother-printer-71"
+  },
+  {
+    "code": "76",
+    "brand": "Brother",
+    "title": "Drum Unit Error",
+    "fixes": "The drum unit is not installed correctly or has reached end of life. Check the Brother drum unit installation or replace if needed.",
+    "slug": "brother-printer-76"
+  },
+  {
+    "code": "7A",
+    "brand": "Brother",
+    "title": "Motor Error",
+    "fixes": "A motor has failed to operate correctly. Restart the Brother printer and check for mechanical obstructions.",
+    "slug": "brother-printer-7a"
+  },
+  {
+    "code": "84",
+    "brand": "Brother",
+    "title": "Paper Jam",
+    "fixes": "Paper is jammed inside the printer. Open all Brother printer covers and carefully remove any jammed paper.",
+    "slug": "brother-printer-84"
+  },
+  {
+    "code": "8A",
+    "brand": "Brother",
+    "title": "Toner Sensor Error",
+    "fixes": "The toner sensor cannot detect the toner level. Remove and reinstall the Brother toner cartridge.",
+    "slug": "brother-printer-8a"
+  },
+  {
+    "code": "94",
+    "brand": "Brother",
+    "title": "Memory Full",
+    "fixes": "The printer memory is full. Cancel pending print jobs and reduce the complexity of documents sent to the Brother printer.",
+    "slug": "brother-printer-94"
+  },
+  {
+    "code": "AF",
+    "brand": "Brother",
+    "title": "Ink Absorber Full",
+    "fixes": "The ink absorber pad is full. Contact Brother support to have the absorber pad replaced or reset.",
+    "slug": "brother-printer-af"
+  },
+  {
+    "code": "B2",
+    "brand": "Brother",
+    "title": "Waste Toner Full",
+    "fixes": "The waste toner box is full. Replace the Brother waste toner box with a new one.",
+    "slug": "brother-printer-b2"
+  },
+  {
+    "code": "E0",
+    "brand": "Brother",
+    "title": "Cartridge Error",
+    "fixes": "The ink or toner cartridge is not recognized. Ensure you're using genuine Brother cartridges and they're properly installed.",
+    "slug": "brother-printer-e0"
+  },
+  {
+    "code": "B200",
+    "brand": "Canon",
+    "title": "Print Head Temperature Error",
+    "fixes": "The printhead has overheated or failed. Turn off the Canon printer, wait 15 minutes, then restart. If error persists, printhead replacement is needed.",
+    "slug": "canon-printer-b200"
+  },
+  {
+    "code": "B201",
+    "brand": "Canon",
+    "title": "Print Head Error",
+    "fixes": "The printhead is not functioning correctly. Remove and reinstall the Canon printhead, clean the contacts, or replace if damaged.",
+    "slug": "canon-printer-b201"
+  },
+  {
+    "code": "B203",
+    "brand": "Canon",
+    "title": "Ink Absorber Full",
+    "fixes": "The ink absorber is full and needs replacement. Contact Canon support to have the absorber replaced or reset.",
+    "slug": "canon-printer-b203"
+  },
+  {
+    "code": "B204",
+    "brand": "Canon",
+    "title": "Cartridge Error",
+    "fixes": "An ink cartridge is not installed correctly or is incompatible. Ensure genuine Canon cartridges are properly installed.",
+    "slug": "canon-printer-b204"
+  },
+  {
+    "code": "1000",
+    "brand": "Canon",
+    "title": "Paper Jam",
+    "fixes": "Paper is jammed in the Canon printer. Remove all paper from trays and carefully clear any jammed paper from inside.",
+    "slug": "canon-printer-1000"
+  },
+  {
+    "code": "1300",
+    "brand": "Canon",
+    "title": "Paper Size Error",
+    "fixes": "The paper size setting doesn't match loaded paper. Adjust the Canon printer settings or load the correct paper size.",
+    "slug": "canon-printer-1300"
+  },
+  {
+    "code": "1403",
+    "brand": "Canon",
+    "title": "Print Head Not Installed",
+    "fixes": "The printhead is missing or not detected. Install the Canon printhead properly and ensure it clicks into place.",
+    "slug": "canon-printer-1403"
+  },
+  {
+    "code": "1600",
+    "brand": "Canon",
+    "title": "Ink Level Error",
+    "fixes": "Cannot detect ink levels in one or more cartridges. Remove and reinstall the Canon ink cartridges.",
+    "slug": "canon-printer-1600"
+  },
+  {
+    "code": "1687",
+    "brand": "Canon",
+    "title": "Ink Cartridge Error",
+    "fixes": "An ink cartridge has failed or is not genuine. Replace with a genuine Canon ink cartridge.",
+    "slug": "canon-printer-1687"
+  },
+  {
+    "code": "1700",
+    "brand": "Canon",
+    "title": "Ink Absorber Nearly Full",
+    "fixes": "The ink absorber is nearly full. Continue printing with caution and schedule Canon service soon.",
+    "slug": "canon-printer-1700"
+  },
+  {
+    "code": "5100",
+    "brand": "Canon",
+    "title": "Carriage Error",
+    "fixes": "The print carriage is jammed or obstructed. Turn off the Canon printer, remove any obstructions, and manually move the carriage.",
+    "slug": "canon-printer-5100"
+  },
+  {
+    "code": "5200",
+    "brand": "Canon",
+    "title": "Temperature Error",
+    "fixes": "The printhead temperature is abnormal. Turn off the Canon printer and allow it to cool before restarting.",
+    "slug": "canon-printer-5200"
+  },
+  {
+    "code": "5400",
+    "brand": "Canon",
+    "title": "Print Head Voltage Error",
+    "fixes": "Incorrect voltage detected at the printhead. This may indicate a failing Canon printhead or control board.",
+    "slug": "canon-printer-5400"
+  },
+  {
+    "code": "5B00",
+    "brand": "Canon",
+    "title": "Ink Absorber Full",
+    "fixes": "The ink absorber counter has reached its limit. Contact Canon support to reset the counter and replace the absorber.",
+    "slug": "canon-printer-5b00"
+  },
+  {
+    "code": "5B01",
+    "brand": "Canon",
+    "title": "Waste Ink Tank Full",
+    "fixes": "The waste ink tank is full. Replace or empty the Canon waste ink tank and reset the counter.",
+    "slug": "canon-printer-5b01"
+  },
+  {
+    "code": "6000",
+    "brand": "Canon",
+    "title": "Internal Error",
+    "fixes": "A critical internal error has occurred. Restart the Canon printer and update firmware if available.",
+    "slug": "canon-printer-6000"
+  },
+  {
+    "code": "6500",
+    "brand": "Canon",
+    "title": "Scanner Error",
+    "fixes": "The scanner unit has failed. Restart the Canon printer and ensure nothing is blocking the scanner mechanism.",
+    "slug": "canon-printer-6500"
+  },
+  {
+    "code": "6800",
+    "brand": "Canon",
+    "title": "Ink Tank Error",
+    "fixes": "An ink tank is not installed correctly. Remove and reinstall all Canon ink tanks firmly.",
+    "slug": "canon-printer-6800"
+  },
+  {
+    "code": "6900",
+    "brand": "Canon",
+    "title": "Ink Cartridge Not Recognized",
+    "fixes": "The printer cannot recognize the ink cartridge. Ensure you're using genuine Canon cartridges and clean the contacts.",
+    "slug": "canon-printer-6900"
+  },
+  {
+    "code": "6A00",
+    "brand": "Canon",
+    "title": "Paper Feed Error",
+    "fixes": "Paper cannot be fed properly. Check the Canon paper path for obstructions and ensure paper is loaded correctly.",
+    "slug": "canon-printer-6a00"
+  },
+  {
+    "code": "0x10",
+    "brand": "Epson",
+    "title": "Paper Jam",
+    "fixes": "Paper is jammed in the Epson printer. Remove all paper and carefully clear any jammed sheets from the paper path.",
+    "slug": "epson-printer-010"
+  },
+  {
+    "code": "0x20",
+    "brand": "Epson",
+    "title": "Paper Out",
+    "fixes": "The paper tray is empty. Load paper into the Epson printer tray and ensure it's properly aligned.",
+    "slug": "epson-printer-020"
+  },
+  {
+    "code": "0x30",
+    "brand": "Epson",
+    "title": "Scanner Error",
+    "fixes": "The scanner unit has failed to initialize. Restart the Epson printer and check for obstructions on the scanner glass.",
+    "slug": "epson-printer-030"
+  },
+  {
+    "code": "0x40",
+    "brand": "Epson",
+    "title": "Ink Cartridge Error",
+    "fixes": "An ink cartridge is not recognized or installed incorrectly. Remove and reinstall the Epson ink cartridges.",
+    "slug": "epson-printer-040"
+  },
+  {
+    "code": "0x50",
+    "brand": "Epson",
+    "title": "Print Head Error",
+    "fixes": "The print head has failed or is clogged. Run the Epson head cleaning utility or replace the printhead if necessary.",
+    "slug": "epson-printer-050"
+  },
+  {
+    "code": "0x60",
+    "brand": "Epson",
+    "title": "Motor Error",
+    "fixes": "A motor has malfunctioned. Restart the Epson printer and check for mechanical obstructions.",
+    "slug": "epson-printer-060"
+  },
+  {
+    "code": "0x69",
+    "brand": "Epson",
+    "title": "Ink Pad Full",
+    "fixes": "The ink pad is at the end of its service life. Contact Epson support to have the ink pad replaced and counter reset.",
+    "slug": "epson-printer-069"
+  },
+  {
+    "code": "0x97",
+    "brand": "Epson",
+    "title": "Internal Error",
+    "fixes": "A critical internal error has occurred. Turn off the Epson printer, wait 30 seconds, then restart.",
+    "slug": "epson-printer-097"
+  },
+  {
+    "code": "E-01",
+    "brand": "Epson",
+    "title": "Paper Feed Error",
+    "fixes": "Paper cannot be fed correctly. Check the Epson paper path and ensure paper is loaded properly.",
+    "slug": "epson-printer-e-01"
+  },
+  {
+    "code": "E-02",
+    "brand": "Epson",
+    "title": "Carriage Error",
+    "fixes": "The print carriage is jammed. Turn off the Epson printer, remove obstructions, and manually move the carriage.",
+    "slug": "epson-printer-e-02"
+  },
+  {
+    "code": "E-03",
+    "brand": "Epson",
+    "title": "Ink Level Error",
+    "fixes": "Cannot detect ink levels. Remove and reinstall the Epson ink cartridges and ensure they're genuine.",
+    "slug": "epson-printer-e-03"
+  },
+  {
+    "code": "E-10",
+    "brand": "Epson",
+    "title": "Waste Ink Pad Full",
+    "fixes": "The waste ink pad counter has reached its limit. Contact Epson service to replace the pad and reset the counter.",
+    "slug": "epson-printer-e-10"
+  },
+  {
+    "code": "W-01",
+    "brand": "Epson",
+    "title": "Ink Low Warning",
+    "fixes": "One or more ink cartridges are low. Replace the indicated Epson ink cartridge soon.",
+    "slug": "epson-printer-w-01"
+  },
+  {
+    "code": "W-11",
+    "brand": "Epson",
+    "title": "Maintenance Box Nearly Full",
+    "fixes": "The maintenance box is nearly full. Order a replacement Epson maintenance box.",
+    "slug": "epson-printer-w-11"
+  },
+  {
+    "code": "I-22",
+    "brand": "Epson",
+    "title": "Borderless Printing Error",
+    "fixes": "Cannot perform borderless printing. Check the Epson printer settings and ensure compatible paper is loaded.",
+    "slug": "epson-printer-i-22"
+  },
+  {
+    "code": "I-31",
+    "brand": "Epson",
+    "title": "CD/DVD Tray Error",
+    "fixes": "The CD/DVD tray is not inserted correctly. Remove and reinsert the Epson CD/DVD tray properly.",
+    "slug": "epson-printer-i-31"
+  },
+  {
+    "code": "10.00.01",
+    "brand": "HP",
+    "title": "Supply Memory Error",
+    "fixes": "Cannot read the toner cartridge memory. Remove and reinstall the HP toner cartridge and clean the contacts.",
+    "slug": "hp-printer-10.00.01"
+  },
+  {
+    "code": "10.10.00",
+    "brand": "HP",
+    "title": "Black Cartridge Error",
+    "fixes": "The black toner cartridge has a problem. Replace the HP black toner cartridge.",
+    "slug": "hp-printer-10.10.00"
+  },
+  {
+    "code": "10.32.00",
+    "brand": "HP",
+    "title": "Unauthorized Supply",
+    "fixes": "A non-HP supply is installed. For best results, use genuine HP toner cartridges.",
+    "slug": "hp-printer-10.32.00"
+  },
+  {
+    "code": "11.01",
+    "brand": "HP",
+    "title": "Internal Clock Error",
+    "fixes": "The internal clock has failed. Replace the NVRAM or contact HP support for service.",
+    "slug": "hp-printer-11.01"
+  },
+  {
+    "code": "13.01",
+    "brand": "HP",
+    "title": "Paper Jam in Tray",
+    "fixes": "Paper is jammed in the input tray. Remove all paper and clear any jammed sheets from the HP printer.",
+    "slug": "hp-printer-13.01"
+  },
+  {
+    "code": "13.05",
+    "brand": "HP",
+    "title": "Paper Jam in Duplexer",
+    "fixes": "Paper is jammed in the duplex unit. Open the duplexer on the HP printer and remove jammed paper.",
+    "slug": "hp-printer-13.05"
+  },
+  {
+    "code": "13.20",
+    "brand": "HP",
+    "title": "Paper Jam in Output",
+    "fixes": "Paper is jammed in the output area. Check the HP printer output tray and remove any jammed paper.",
+    "slug": "hp-printer-13.20"
+  },
+  {
+    "code": "20",
+    "brand": "HP",
+    "title": "Memory Overflow",
+    "fixes": "The print job is too complex for available memory. Simplify the document or add more memory to the HP printer.",
+    "slug": "hp-printer-20"
+  },
+  {
+    "code": "21",
+    "brand": "HP",
+    "title": "Page Too Complex",
+    "fixes": "The page contains too much data. Reduce the complexity of the page or increase HP printer memory.",
+    "slug": "hp-printer-21"
+  },
+  {
+    "code": "22",
+    "brand": "HP",
+    "title": "EIO Error",
+    "fixes": "An EIO card has failed. Remove and reseat the EIO card in the HP printer.",
+    "slug": "hp-printer-22"
+  },
+  {
+    "code": "40",
+    "brand": "HP",
+    "title": "Serial Data Error",
+    "fixes": "Serial communication has failed. Check the serial cable connection to the HP printer.",
+    "slug": "hp-printer-40"
+  },
+  {
+    "code": "41.3",
+    "brand": "HP",
+    "title": "Unexpected Paper Size",
+    "fixes": "The paper size doesn't match the print job. Load the correct paper size in the HP printer.",
+    "slug": "hp-printer-41.3"
+  },
+  {
+    "code": "41.5",
+    "brand": "HP",
+    "title": "Media Type Mismatch",
+    "fixes": "The media type setting doesn't match loaded paper. Adjust the HP printer settings.",
+    "slug": "hp-printer-41.5"
+  },
+  {
+    "code": "49",
+    "brand": "HP",
+    "title": "Critical Error",
+    "fixes": "A critical firmware error has occurred. Restart the HP printer and update firmware if available.",
+    "slug": "hp-printer-49"
+  },
+  {
+    "code": "50.1",
+    "brand": "HP",
+    "title": "Fuser Low Temperature",
+    "fixes": "The fuser is not reaching operating temperature. The HP fuser may need replacement.",
+    "slug": "hp-printer-50.1"
+  },
+  {
+    "code": "50.2",
+    "brand": "HP",
+    "title": "Fuser Warm-Up Error",
+    "fixes": "The fuser failed to warm up properly. Turn off the HP printer, wait 30 minutes, then restart.",
+    "slug": "hp-printer-50.2"
+  },
+  {
+    "code": "50.3",
+    "brand": "HP",
+    "title": "Fuser High Temperature",
+    "fixes": "The fuser is overheating. Turn off the HP printer immediately and allow it to cool.",
+    "slug": "hp-printer-50.3"
+  },
+  {
+    "code": "50.8",
+    "brand": "HP",
+    "title": "Fuser Subthermistor Error",
+    "fixes": "The fuser temperature sensor has failed. The HP fuser assembly needs replacement.",
+    "slug": "hp-printer-50.8"
+  },
+  {
+    "code": "51.1",
+    "brand": "HP",
+    "title": "Beam Detect Error",
+    "fixes": "The laser beam detection has failed. Restart the HP printer and contact service if error persists.",
+    "slug": "hp-printer-51.1"
+  },
+  {
+    "code": "52.1",
+    "brand": "HP",
+    "title": "Scanner Rotation Error",
+    "fixes": "The scanner motor is not rotating correctly. Restart the HP printer and check for obstructions.",
+    "slug": "hp-printer-52.1"
+  },
+  {
+    "code": "32",
+    "brand": "Brother",
+    "title": "Toner Empty",
+    "fixes": "The toner cartridge is empty. Replace the Brother toner cartridge with a new one.",
+    "slug": "brother-printer-32"
+  },
+  {
+    "code": "36",
+    "brand": "Brother",
+    "title": "Drum End Soon",
+    "fixes": "The drum unit is nearing end of life. Order a replacement Brother drum unit.",
+    "slug": "brother-printer-36"
+  },
+  {
+    "code": "3A",
+    "brand": "Brother",
+    "title": "Scanner Lock",
+    "fixes": "The scanner is locked for shipping. Unlock the Brother scanner mechanism before use.",
+    "slug": "brother-printer-3a"
+  },
+  {
+    "code": "44",
+    "brand": "Brother",
+    "title": "Network Error",
+    "fixes": "Cannot connect to the network. Check the Brother printer network settings and cable connections.",
+    "slug": "brother-printer-44"
+  },
+  {
+    "code": "4F",
+    "brand": "Brother",
+    "title": "Print Overrun",
+    "fixes": "The print data is too complex. Reduce document complexity or increase Brother printer memory.",
+    "slug": "brother-printer-4f"
+  },
+  {
+    "code": "6C",
+    "brand": "Brother",
+    "title": "Media Error",
+    "fixes": "The media type is incorrect. Load the correct media type in the Brother printer.",
+    "slug": "brother-printer-6c"
+  },
+  {
+    "code": "6F",
+    "brand": "Brother",
+    "title": "Duplex Error",
+    "fixes": "The duplex unit has a problem. Check the Brother duplex unit for paper jams or damage.",
+    "slug": "brother-printer-6f"
+  },
+  {
+    "code": "72",
+    "brand": "Brother",
+    "title": "Fuser Unit Error",
+    "fixes": "The fuser unit has failed. The Brother fuser assembly needs replacement.",
+    "slug": "brother-printer-72"
+  },
+  {
+    "code": "7D",
+    "brand": "Brother",
+    "title": "Main Motor Error",
+    "fixes": "The main motor has failed. Restart the Brother printer and contact service if needed.",
+    "slug": "brother-printer-7d"
+  },
+  {
+    "code": "8F",
+    "brand": "Brother",
+    "title": "Maintenance Required",
+    "fixes": "The printer requires scheduled maintenance. Contact Brother support for service.",
+    "slug": "brother-printer-8f"
+  },
+  {
+    "code": "2114",
+    "brand": "Canon",
+    "title": "FINE Cartridge Error",
+    "fixes": "The FINE cartridge is not installed correctly. Remove and reinstall the Canon FINE cartridge.",
+    "slug": "canon-printer-2114"
+  },
+  {
+    "code": "2500",
+    "brand": "Canon",
+    "title": "Hardware Error",
+    "fixes": "A hardware component has failed. Restart the Canon printer and contact support if error persists.",
+    "slug": "canon-printer-2500"
+  },
+  {
+    "code": "2700",
+    "brand": "Canon",
+    "title": "Ink Collector Full",
+    "fixes": "The ink collector is full. Contact Canon support to have it replaced.",
+    "slug": "canon-printer-2700"
+  },
+  {
+    "code": "2900",
+    "brand": "Canon",
+    "title": "Waste Ink Tank Full",
+    "fixes": "The waste ink tank is full. Replace the Canon waste ink tank.",
+    "slug": "canon-printer-2900"
+  },
+  {
+    "code": "5011",
+    "brand": "Canon",
+    "title": "Print Head Not Installed",
+    "fixes": "The printhead is not detected. Install the Canon printhead properly.",
+    "slug": "canon-printer-5011"
+  },
+  {
+    "code": "5012",
+    "brand": "Canon",
+    "title": "Ink Cartridge Not Installed",
+    "fixes": "One or more ink cartridges are missing. Install all required Canon ink cartridges.",
+    "slug": "canon-printer-5012"
+  },
+  {
+    "code": "5050",
+    "brand": "Canon",
+    "title": "Carriage Error",
+    "fixes": "The carriage cannot move freely. Remove obstructions from the Canon printer carriage path.",
+    "slug": "canon-printer-5050"
+  },
+  {
+    "code": "5C00",
+    "brand": "Canon",
+    "title": "Ink Absorber Full",
+    "fixes": "The ink absorber is full. Contact Canon to have it replaced and the counter reset.",
+    "slug": "canon-printer-5c00"
+  },
+  {
+    "code": "6001",
+    "brand": "Canon",
+    "title": "Print Head Error",
+    "fixes": "The printhead has failed. Replace the Canon printhead assembly.",
+    "slug": "canon-printer-6001"
+  },
+  {
+    "code": "9000",
+    "brand": "Canon",
+    "title": "EEPROM Error",
+    "fixes": "The EEPROM has failed. The Canon printer may require main board replacement.",
+    "slug": "canon-printer-9000"
+  },
+  {
+    "code": "0x9A",
+    "brand": "Epson",
+    "title": "Hardware Error",
+    "fixes": "A hardware component has failed. Restart the Epson printer and contact support.",
+    "slug": "epson-printer-09a"
+  },
+  {
+    "code": "0xE1",
+    "brand": "Epson",
+    "title": "Two-Way Communication Error",
+    "fixes": "Cannot communicate with the computer. Check the USB or network connection to the Epson printer.",
+    "slug": "epson-printer-0e1"
+  },
+  {
+    "code": "0xE5",
+    "brand": "Epson",
+    "title": "Ink System Error",
+    "fixes": "The ink delivery system has failed. Contact Epson support for service.",
+    "slug": "epson-printer-0e5"
+  },
+  {
+    "code": "0xE8",
+    "brand": "Epson",
+    "title": "Waste Ink Pad Error",
+    "fixes": "The waste ink pad needs replacement. Contact Epson service.",
+    "slug": "epson-printer-0e8"
+  },
+  {
+    "code": "0xEA",
+    "brand": "Epson",
+    "title": "Maintenance Request",
+    "fixes": "The printer requires maintenance. Contact Epson support to schedule service.",
+    "slug": "epson-printer-0ea"
+  },
+  {
+    "code": "0xF1",
+    "brand": "Epson",
+    "title": "Print Head Temperature Error",
+    "fixes": "The printhead temperature is abnormal. Turn off the Epson printer and allow it to cool.",
+    "slug": "epson-printer-0f1"
+  },
+  {
+    "code": "E-11",
+    "brand": "Epson",
+    "title": "Maintenance Box Full",
+    "fixes": "The maintenance box is full. Replace with a new Epson maintenance box.",
+    "slug": "epson-printer-e-11"
+  },
+  {
+    "code": "E-12",
+    "brand": "Epson",
+    "title": "Borderless Print Error",
+    "fixes": "Cannot perform borderless printing. Check Epson printer settings and paper type.",
+    "slug": "epson-printer-e-12"
+  },
+  {
+    "code": "W-12",
+    "brand": "Epson",
+    "title": "Maintenance Box Nearly Full",
+    "fixes": "The maintenance box is nearly full. Order a replacement Epson maintenance box.",
+    "slug": "epson-printer-w-12"
+  },
+  {
+    "code": "I-60",
+    "brand": "Epson",
+    "title": "CD/DVD Print Error",
+    "fixes": "Cannot print on CD/DVD. Ensure the Epson CD/DVD tray is properly inserted.",
+    "slug": "epson-printer-i-60"
+  },
+  {
+    "code": "1-Blink",
+    "brand": "LiftMaster",
+    "title": "Up Limit Not Set",
+    "fixes": "The up travel limit is not programmed. Adjust the LiftMaster up limit screw or program the travel limits using the control panel.",
+    "slug": "liftmaster-garage-door-1-blink"
+  },
+  {
+    "code": "2-Blink",
+    "brand": "LiftMaster",
+    "title": "Down Limit Not Set",
+    "fixes": "The down travel limit is not programmed. Adjust the LiftMaster down limit screw or use the smart programming feature.",
+    "slug": "liftmaster-garage-door-2-blink"
+  },
+  {
+    "code": "3-Blink",
+    "brand": "LiftMaster",
+    "title": "RPM Sensor Error",
+    "fixes": "The RPM sensor is malfunctioning or disconnected. Check the LiftMaster RPM sensor wiring and connections.",
+    "slug": "liftmaster-garage-door-3-blink"
+  },
+  {
+    "code": "4-Blink",
+    "brand": "LiftMaster",
+    "title": "Sensor Wire Shorted",
+    "fixes": "\u26a0\ufe0f WIRING: The safety sensor wires are shorted. Inspect the LiftMaster sensor wiring for damage or pinched wires.",
+    "slug": "liftmaster-garage-door-4-blink"
+  },
+  {
+    "code": "5-Blink",
+    "brand": "LiftMaster",
+    "title": "Motor Overheated",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The motor has overheated from excessive use. Allow the LiftMaster opener to cool for 15 minutes before operating.",
+    "slug": "liftmaster-garage-door-5-blink"
+  },
+  {
+    "code": "6-Blink",
+    "brand": "LiftMaster",
+    "title": "Excessive Force Detected",
+    "fixes": "\u26a0\ufe0f SAFETY: The door encountered too much resistance. Check the LiftMaster door for obstructions and adjust the force settings.",
+    "slug": "liftmaster-garage-door-6-blink"
+  },
+  {
+    "code": "7-Blink",
+    "brand": "LiftMaster",
+    "title": "RPM Sensor Disconnected",
+    "fixes": "The RPM sensor is not connected. Check the LiftMaster RPM sensor cable connection at the motor unit.",
+    "slug": "liftmaster-garage-door-7-blink"
+  },
+  {
+    "code": "8-Blink",
+    "brand": "LiftMaster",
+    "title": "Motor Circuit Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The motor circuit has failed. Check the LiftMaster motor connections and test for proper voltage.",
+    "slug": "liftmaster-garage-door-8-blink"
+  },
+  {
+    "code": "9-Blink",
+    "brand": "LiftMaster",
+    "title": "Gear and Sprocket Issue",
+    "fixes": "The gear and sprocket assembly has worn out. Inspect the LiftMaster drive gear for wear and replace if necessary.",
+    "slug": "liftmaster-garage-door-9-blink"
+  },
+  {
+    "code": "10-Blink",
+    "brand": "LiftMaster",
+    "title": "Door Not Detected",
+    "fixes": "The opener cannot detect the door position. Check the LiftMaster door arm connection and ensure proper installation.",
+    "slug": "liftmaster-garage-door-10-blink"
+  },
+  {
+    "code": "1-Flash",
+    "brand": "Chamberlain",
+    "title": "Safety Sensor Misaligned",
+    "fixes": "The safety sensors are not aligned. Adjust the Chamberlain sensors so the LED lights are solid, not blinking.",
+    "slug": "chamberlain-garage-door-1-flash"
+  },
+  {
+    "code": "2-Flash",
+    "brand": "Chamberlain",
+    "title": "Sensor Wire Issue",
+    "fixes": "The sensor wires are damaged or disconnected. Check all Chamberlain sensor wire connections and repair any damaged wiring.",
+    "slug": "chamberlain-garage-door-2-flash"
+  },
+  {
+    "code": "3-Flash",
+    "brand": "Chamberlain",
+    "title": "Door Not Closing",
+    "fixes": "The door reverses when closing. Check for obstructions and adjust the Chamberlain close force and limit settings.",
+    "slug": "chamberlain-garage-door-3-flash"
+  },
+  {
+    "code": "4-Flash",
+    "brand": "Chamberlain",
+    "title": "Sensor Obstruction",
+    "fixes": "\u26a0\ufe0f SAFETY: Something is blocking the sensor beam. Clear any obstructions from the Chamberlain sensor path.",
+    "slug": "chamberlain-garage-door-4-flash"
+  },
+  {
+    "code": "5-Flash",
+    "brand": "Chamberlain",
+    "title": "Motor Overload",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The motor is overloaded. Allow the Chamberlain opener to cool and check for binding in the door.",
+    "slug": "chamberlain-garage-door-5-flash"
+  },
+  {
+    "code": "6-Flash",
+    "brand": "Chamberlain",
+    "title": "Up Limit Error",
+    "fixes": "The up limit switch is not set correctly. Adjust the Chamberlain up limit to stop the door at the proper height.",
+    "slug": "chamberlain-garage-door-6-flash"
+  },
+  {
+    "code": "7-Flash",
+    "brand": "Chamberlain",
+    "title": "Down Limit Error",
+    "fixes": "The down limit switch is not set correctly. Adjust the Chamberlain down limit so the door closes completely.",
+    "slug": "chamberlain-garage-door-7-flash"
+  },
+  {
+    "code": "8-Flash",
+    "brand": "Chamberlain",
+    "title": "Force Setting Error",
+    "fixes": "The force settings are incorrect. Adjust the Chamberlain open and close force settings per the manual.",
+    "slug": "chamberlain-garage-door-8-flash"
+  },
+  {
+    "code": "9-Flash",
+    "brand": "Chamberlain",
+    "title": "Encoder Error",
+    "fixes": "The position encoder has failed. Check the Chamberlain encoder connections or replace the encoder.",
+    "slug": "chamberlain-garage-door-9-flash"
+  },
+  {
+    "code": "10-Flash",
+    "brand": "Chamberlain",
+    "title": "Logic Board Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The logic board has failed. The Chamberlain control board may need replacement.",
+    "slug": "chamberlain-garage-door-10-flash"
+  },
+  {
+    "code": "1-2-Blink",
+    "brand": "Genie",
+    "title": "Safety Sensor Error",
+    "fixes": "The safety sensors are not aligned or connected. Align the Genie sensors and ensure the LED lights are on.",
+    "slug": "genie-garage-door-1-2-blink"
+  },
+  {
+    "code": "1-3-Blink",
+    "brand": "Genie",
+    "title": "Sensor Wire Short",
+    "fixes": "\u26a0\ufe0f WIRING: The sensor wires are shorted. Inspect the Genie sensor wiring for damage.",
+    "slug": "genie-garage-door-1-3-blink"
+  },
+  {
+    "code": "1-4-Blink",
+    "brand": "Genie",
+    "title": "Sensor Blocked",
+    "fixes": "\u26a0\ufe0f SAFETY: The sensor beam is blocked. Remove any obstructions from the Genie sensor path.",
+    "slug": "genie-garage-door-1-4-blink"
+  },
+  {
+    "code": "1-5-Blink",
+    "brand": "Genie",
+    "title": "Door Not Closing Fully",
+    "fixes": "The door reverses before closing. Adjust the Genie down limit and force settings.",
+    "slug": "genie-garage-door-1-5-blink"
+  },
+  {
+    "code": "1-6-Blink",
+    "brand": "Genie",
+    "title": "Motor Thermal Protection",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The motor thermal protector has tripped. Allow the Genie opener to cool for 15 minutes.",
+    "slug": "genie-garage-door-1-6-blink"
+  },
+  {
+    "code": "2-2-Blink",
+    "brand": "Genie",
+    "title": "Up Limit Not Set",
+    "fixes": "The up travel limit is not programmed. Set the Genie up limit using the adjustment controls.",
+    "slug": "genie-garage-door-2-2-blink"
+  },
+  {
+    "code": "2-3-Blink",
+    "brand": "Genie",
+    "title": "Down Limit Not Set",
+    "fixes": "The down travel limit is not programmed. Set the Genie down limit to close the door completely.",
+    "slug": "genie-garage-door-2-3-blink"
+  },
+  {
+    "code": "2-4-Blink",
+    "brand": "Genie",
+    "title": "Force Adjustment Needed",
+    "fixes": "The force settings are incorrect. Adjust the Genie force controls for proper operation.",
+    "slug": "genie-garage-door-2-4-blink"
+  },
+  {
+    "code": "3-3-Blink",
+    "brand": "Genie",
+    "title": "RPM Sensor Failure",
+    "fixes": "The RPM sensor has failed. Check the Genie RPM sensor connections or replace the sensor.",
+    "slug": "genie-garage-door-3-3-blink"
+  },
+  {
+    "code": "4-4-Blink",
+    "brand": "Genie",
+    "title": "Main Board Failure",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The main control board has failed. The Genie logic board needs replacement.",
+    "slug": "genie-garage-door-4-4-blink"
+  },
+  {
+    "code": "Up-1-Blink",
+    "brand": "Craftsman",
+    "title": "Safety Sensor Issue",
+    "fixes": "The safety sensors are misaligned or obstructed. Align the Craftsman sensors and ensure clear line of sight.",
+    "slug": "craftsman-garage-door-up-1-blink"
+  },
+  {
+    "code": "Up-2-Blink",
+    "brand": "Craftsman",
+    "title": "Sensor Wire Problem",
+    "fixes": "The sensor wires are damaged or loose. Check all Craftsman sensor wire connections.",
+    "slug": "craftsman-garage-door-up-2-blink"
+  },
+  {
+    "code": "Up-3-Blink",
+    "brand": "Craftsman",
+    "title": "Door Reversal Issue",
+    "fixes": "The door reverses when closing. Adjust the Craftsman force and limit settings.",
+    "slug": "craftsman-garage-door-up-3-blink"
+  },
+  {
+    "code": "Up-4-Blink",
+    "brand": "Craftsman",
+    "title": "Motor Overload",
+    "fixes": "\u26a0\ufe0f OVERHEATING: The motor is overloaded. Check for binding and allow the Craftsman opener to cool.",
+    "slug": "craftsman-garage-door-up-4-blink"
+  },
+  {
+    "code": "Up-5-Blink",
+    "brand": "Craftsman",
+    "title": "Limit Switch Error",
+    "fixes": "The limit switches are not set correctly. Adjust the Craftsman up and down limit switches.",
+    "slug": "craftsman-garage-door-up-5-blink"
+  },
+  {
+    "code": "Down-1-Blink",
+    "brand": "Craftsman",
+    "title": "Obstruction Detected",
+    "fixes": "\u26a0\ufe0f SAFETY: An obstruction was detected. Clear the Craftsman door path and check sensors.",
+    "slug": "craftsman-garage-door-down-1-blink"
+  },
+  {
+    "code": "Down-2-Blink",
+    "brand": "Craftsman",
+    "title": "Force Setting Low",
+    "fixes": "The force setting is too low. Increase the Craftsman close force setting.",
+    "slug": "craftsman-garage-door-down-2-blink"
+  },
+  {
+    "code": "Down-3-Blink",
+    "brand": "Craftsman",
+    "title": "Encoder Malfunction",
+    "fixes": "The position encoder has failed. Check the Craftsman encoder or replace if necessary.",
+    "slug": "craftsman-garage-door-down-3-blink"
+  },
+  {
+    "code": "Down-4-Blink",
+    "brand": "Craftsman",
+    "title": "Circuit Board Error",
+    "fixes": "\u26a0\ufe0f ELECTRICAL: The circuit board has failed. The Craftsman control board may need replacement.",
+    "slug": "craftsman-garage-door-down-4-blink"
+  },
+  {
+    "code": "Continuous",
+    "brand": "Craftsman",
+    "title": "Normal Operation",
+    "fixes": "Continuous light indicates the Craftsman opener is operating normally.",
+    "slug": "craftsman-garage-door-continuous"
   }
 ]
