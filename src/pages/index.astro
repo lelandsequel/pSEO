@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import errorData from '../data/errors.json';
 import layoffData from '../data/layoffs.json';
 import saasData from '../data/saas.json';
+import llcData from '../data/llc.json';
 
 // 1. Determine Identity
 const siteId = import.meta.env.SITE_ID || 'errors';
@@ -11,6 +12,7 @@ const siteId = import.meta.env.SITE_ID || 'errors';
 let rawData;
 if (siteId === 'layoffs') rawData = layoffData;
 else if (siteId === 'saas') rawData = saasData;
+else if (siteId === 'llc') rawData = llcData;
 else rawData = errorData;
 
 // 3. THE FIX: Filter the data BEFORE using it
@@ -32,6 +34,11 @@ if (siteId === 'layoffs') {
     subtitle = "Unbiased B2B Software Comparisons";
     placeholder = "Search comparisons (e.g. HubSpot vs Salesforce)...";
     theme = "bg-purple-900";
+} else if (siteId === 'llc') {
+    title = "StateFiling";
+    subtitle = "2025 LLC Filing Costs & Requirements";
+    placeholder = "Search states (e.g. Texas, California)...";
+    theme = "bg-slate-800";
 } else {
     title = "RepairHelper";
     subtitle = "Find Replacement Parts & Fixes Fast";

@@ -38,6 +38,15 @@ const configs: Record<string, SiteConfig> = {
         dataFile: 'saas.json',
         metaDescription: 'Compare top B2B software tools. In-depth reviews of Project Management, CRM, and Marketing platforms.',
     },
+    llc: {
+        theme: 'slate-800',
+        title: 'StateFiling',
+        subtitle: '2025 LLC Filing Costs & Requirements',
+        ctaText: 'Start My LLC Now',
+        ctaLink: 'https://www.zenbusiness.com',
+        dataFile: 'llc.json',
+        metaDescription: 'Complete guide to LLC formation costs and requirements for all 50 states. Compare filing fees, processing times, and annual taxes.',
+    },
 };
 
 // Get SITE_ID from environment, default to 'errors'

@@ -14,6 +14,9 @@ export async function getStaticPaths() {
 	} else if (siteId === 'saas') {
         const saasData = await import('../data/saas.json');
         dataSource = saasData.default;
+    } else if (siteId === 'llc') {
+        const llcData = await import('../data/llc.json');
+        dataSource = llcData.default;
     } else {
 		const errorsData = await import('../data/errors.json');
 		dataSource = errorsData.default;
