@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { config } from '../config';
+import affiliateMap from '../data/affiliate-map.json';
 
 export async function getStaticPaths() {
 	// Load data based on site mode
@@ -37,8 +38,30 @@ const siteId = import.meta.env.SITE_ID || 'errors';
 const brand = entry?.brand || "Appliance";
 const code = entry?.code || "";
 const model = "washer"; // Default model type
-const amazonUrl = config.ctaLink || `https://www.amazon.com/s?k=${encodeURIComponent(brand)}+${encodeURIComponent(model)}+error+${encodeURIComponent(code)}+replacement+part&tag=applianceerro-20`;
-const ctaUrl = config.ctaLink || amazonUrl;
+
+// For SaaS site, try to find affiliate link in the map
+let ctaUrl;
+if (siteId === 'saas') {
+	// Try to find affiliate link for the original software or alternatives
+	const originalSoftware = entry?.original_software;
+	const alternatives = entry?.alternatives || [];
+	
+	// Check if we have an affiliate link for the main software
+	if (originalSoftware && affiliateMap[originalSoftware]) {
+		ctaUrl = affiliateMap[originalSoftware];
+	} else if (alternatives.length > 0 && affiliateMap[alternatives[0]]) {
+		// Try first alternative
+		ctaUrl = affiliateMap[alternatives[0]];
+	} else {
+		// Fallback to Google search
+		const searchTerm = originalSoftware || brand;
+		ctaUrl = `https://www.google.com/search?q=try+${encodeURIComponent(searchTerm)}+free`;
+	}
+} else {
+	// For errors/OBD2 sites, use existing logic
+	const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(brand)}+${encodeURIComponent(model)}+error+${encodeURIComponent(code)}+replacement+part&tag=applianceerro-20`;
+	ctaUrl = config.ctaLink || amazonUrl;
+}
 
 ---
 
