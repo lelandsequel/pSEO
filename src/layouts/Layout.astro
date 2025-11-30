@@ -29,6 +29,9 @@ if (siteId === 'saas') {
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
+		{import.meta.env.SITE_ID === 'saas' && (
+			<meta name='impact-site-verification' value='ae04c9ca-f024-4b2f-9841-8958f8d474c3' />
+		)}
 		<title>{title}</title>
 	</head>
 	<body class="bg-gray-50 flex flex-col min-h-screen font-sans text-gray-900">
