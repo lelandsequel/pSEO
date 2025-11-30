@@ -1,0 +1,96 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { config } from '../config';
+
+const currentDate = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Layout title={`Privacy Policy - ${config.title}`} meta={`Privacy policy for ${config.title}. Learn how we protect your data.`}>
+  <div class="max-w-4xl mx-auto px-6 py-12">
+    <h1 class="text-4xl font-bold text-gray-900 mb-6">Privacy Policy</h1>
+    <p class="text-gray-600 mb-8">Last Updated: {currentDate}</p>
+    
+    <div class="prose prose-lg max-w-none text-gray-700">
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Introduction</h2>
+      <p class="leading-relaxed mb-6">
+        {config.title} ("we," "our," or "us") is committed to protecting your privacy. 
+        This Privacy Policy explains how we collect, use, disclose, and safeguard your information 
+        when you visit our website.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Information We Collect</h2>
+      <p class="leading-relaxed mb-4">
+        We may collect information about you in a variety of ways, including:
+      </p>
+      <ul class="list-disc pl-6 space-y-2 mb-6">
+        <li><strong>Personal Data:</strong> We do not collect personally identifiable information unless you voluntarily provide it to us.</li>
+        <li><strong>Usage Data:</strong> We may collect information about your device and how you interact with our website, including IP address, browser type, and pages visited.</li>
+        <li><strong>Cookies:</strong> We use cookies and similar tracking technologies to track activity on our website and store certain information.</li>
+      </ul>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">How We Use Your Information</h2>
+      <p class="leading-relaxed mb-4">
+        We use the information we collect to:
+      </p>
+      <ul class="list-disc pl-6 space-y-2 mb-6">
+        <li>Provide, operate, and maintain our website</li>
+        <li>Improve, personalize, and expand our website</li>
+        <li>Understand and analyze how you use our website</li>
+        <li>Develop new products, services, features, and functionality</li>
+        <li>Communicate with you for customer service and support</li>
+      </ul>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Third-Party Services</h2>
+      <p class="leading-relaxed mb-6">
+        We may use third-party service providers to monitor and analyze the use of our website. 
+        These third parties have access to your information only to perform these tasks on our behalf 
+        and are obligated not to disclose or use it for any other purpose.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Affiliate Links</h2>
+      <p class="leading-relaxed mb-6">
+        Our website may contain affiliate links to third-party products or services. 
+        We may receive a commission if you make a purchase through these links. 
+        This does not affect the price you pay and helps support our website.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Your Data Protection Rights (GDPR)</h2>
+      <p class="leading-relaxed mb-4">
+        If you are a resident of the European Economic Area (EEA), you have certain data protection rights:
+      </p>
+      <ul class="list-disc pl-6 space-y-2 mb-6">
+        <li>The right to access, update, or delete your information</li>
+        <li>The right of rectification</li>
+        <li>The right to object</li>
+        <li>The right of restriction</li>
+        <li>The right to data portability</li>
+        <li>The right to withdraw consent</li>
+      </ul>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">California Privacy Rights (CCPA)</h2>
+      <p class="leading-relaxed mb-6">
+        If you are a California resident, you have the right to request information about the categories 
+        and specific pieces of personal information we have collected about you, as well as the right 
+        to request deletion of your personal information.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Children's Privacy</h2>
+      <p class="leading-relaxed mb-6">
+        Our website does not address anyone under the age of 13. We do not knowingly collect 
+        personally identifiable information from children under 13.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Changes to This Privacy Policy</h2>
+      <p class="leading-relaxed mb-6">
+        We may update our Privacy Policy from time to time. We will notify you of any changes 
+        by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Contact Us</h2>
+      <p class="leading-relaxed">
+        If you have any questions about this Privacy Policy, please contact us at our 
+        <a href="/contact" class="text-blue-600 hover:text-blue-800 underline">contact page</a>.
+      </p>
+    </div>
+  </div>
+</Layout>

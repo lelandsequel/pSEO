@@ -1,0 +1,40 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { config } from '../config';
+---
+
+<Layout title={`About ${config.title}`} meta={`Learn more about ${config.title} and our mission to help users.`}>
+  <div class="max-w-4xl mx-auto px-6 py-12">
+    <h1 class="text-4xl font-bold text-gray-900 mb-6">About {config.title}</h1>
+    
+    <div class="prose prose-lg max-w-none">
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Our Mission</h2>
+      <p class="text-gray-700 leading-relaxed mb-6">
+        At {config.title}, we provide accurate, unbiased data to help users make informed decisions. 
+        Whether you're troubleshooting technical issues, comparing software solutions, or researching products, 
+        our comprehensive database delivers the information you need quickly and reliably.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">What We Do</h2>
+      <p class="text-gray-700 leading-relaxed mb-6">
+        We aggregate and organize information from trusted sources to create a centralized resource 
+        for our users. Our platform is designed to save you time by providing clear, actionable 
+        information without the clutter of traditional search results.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Our Commitment</h2>
+      <p class="text-gray-700 leading-relaxed mb-6">
+        We are committed to maintaining the accuracy and relevance of our content. Our team 
+        continuously updates our database to ensure you have access to the latest information. 
+        We believe in transparency, user privacy, and providing value without compromise.
+      </p>
+
+      <h2 class="text-2xl font-semibold text-gray-800 mt-8 mb-4">Contact Us</h2>
+      <p class="text-gray-700 leading-relaxed">
+        Have questions or feedback? We'd love to hear from you. Visit our 
+        <a href="/contact" class="text-blue-600 hover:text-blue-800 underline">contact page</a> 
+        to get in touch with our team.
+      </p>
+    </div>
+  </div>
+</Layout>
