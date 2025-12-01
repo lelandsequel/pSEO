@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { config } from '../config';
+import Newsletter from '../components/Newsletter.astro';
 
 interface Props {
 	title: string;
@@ -62,6 +63,8 @@ if (siteId === 'saas') {
 		<main class="flex-grow max-w-4xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8 pt-24">
 			<slot />
 		</main>
+
+        <Newsletter />
 
         <!-- Footer -->
         <footer class="bg-white border-t border-gray-200 mt-auto">
