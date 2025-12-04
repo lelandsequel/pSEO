@@ -50,11 +50,11 @@ const configs: Record<string, SiteConfig> = {
     proposal: {
         theme: 'slate-950',
         title: 'The New Answer',
-        subtitle: 'Scaling Infinity Digital',
+        subtitle: 'Scaling Infinity Digital Consulting',
         ctaText: 'View Proposal',
         ctaLink: '/proposal',
         dataFile: 'errors.json', // Fallback, not used
-        metaDescription: 'Confidential Executive Brief: Programmatic SEO Architecture for Infinity Digital.',
+        metaDescription: 'Confidential Executive Brief: Programmatic SEO Architecture for Infinity Digital Consulting.',
     },
 };
 
