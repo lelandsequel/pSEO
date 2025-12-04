@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import ProposalDeck from '../components/ProposalDeck.astro';
 import errorData from '../data/errors.json';
 import layoffData from '../data/layoffs.json';
 import saasData from '../data/saas.json';
@@ -7,6 +8,12 @@ import llcData from '../data/llc.json';
 
 // 1. Determine Identity
 const siteId = import.meta.env.SITE_ID || 'errors';
+
+// 0. SPECIAL CASE: Proposal Deck
+// If this is the "The New Answer" site, we render the deck immediately.
+if (siteId === 'proposal') {
+  return Astro.redirect('/proposal');
+}
 
 // 2. Select Data Source
 let rawData;

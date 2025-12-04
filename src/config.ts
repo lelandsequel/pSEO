@@ -47,6 +47,15 @@ const configs: Record<string, SiteConfig> = {
         dataFile: 'llc.json',
         metaDescription: 'Complete guide to LLC formation costs and requirements for all 50 states. Compare filing fees, processing times, and annual taxes.',
     },
+    proposal: {
+        theme: 'slate-950',
+        title: 'The New Answer',
+        subtitle: 'Scaling Infinity Digital',
+        ctaText: 'View Proposal',
+        ctaLink: '/proposal',
+        dataFile: 'errors.json', // Fallback, not used
+        metaDescription: 'Confidential Executive Brief: Programmatic SEO Architecture for Infinity Digital.',
+    },
 };
 
 // Get SITE_ID from environment, default to 'errors'
