@@ -9,6 +9,44 @@ import llcData from '../data/llc.json';
 // 1. Determine Identity
 const siteId = import.meta.env.SITE_ID || 'errors';
 
+// 2. Select Data Source
+let rawData;
+if (siteId === 'layoffs') rawData = layoffData;
+else if (siteId === 'saas') rawData = saasData;
+else if (siteId === 'llc') rawData = llcData;
+else rawData = errorData;
+
+// 3. THE FIX: Filter the data BEFORE using it
+// This removes any "ghost" records causing the crash
+const cleanData = rawData.filter((item) => {
+  return item && typeof item.slug === 'string' && item.slug.trim().length > 0;
+});
+
+// 4. Config variables
+let title, subtitle, placeholder, theme;
+
+if (siteId === 'layoffs') {
+    title = "ErrorCodeHelp";
+    subtitle = "OBD2 & System Error Database";
+    placeholder = "Search OBD2 codes (e.g. P0300)...";
+    theme = "bg-indigo-600";
+} else if (siteId === 'saas') {
+    title = "SaaS Battleground";
+    subtitle = "Unbiased B2B Software Comparisons";
+    placeholder = "Search comparisons (e.g. HubSpot vs Salesforce)...";
+    theme = "bg-purple-900";
+} else if (siteId === 'llc') {
+    title = "StateFiling";
+    subtitle = "2025 LLC Filing Costs & Requirements";
+    placeholder = "Search states (e.g. Texas, California)...";
+    theme = "bg-slate-800";
+} else {
+    title = "RepairHelper";
+    subtitle = "Find Replacement Parts & Fixes Fast";
+    placeholder = "Search error codes (e.g. F01, Samsung)...";
+    theme = "bg-blue-600";
+}
+
 // 0. SPECIAL CASE: Proposal Deck
 // If this is the "The New Answer" site, we render the deck immediately.
 // We do NOT use the main Layout to avoid the "Search Bar" appearing.
